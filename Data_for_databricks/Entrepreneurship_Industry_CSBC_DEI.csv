@@ -1,205 +1,375 @@
-﻿Gender,Year,Quarter,Industry,Company_Size,Value
-Women,2024,AVG,All Industries,1 to 4 employees,119545
+﻿MAJORITY,Year,Quarter,Characteristics,Attribute,Value
+Women,2024,AVG,All Industries,Micro Private sector businesses,119545
 Women,2024,AVG,All Industries,100 or more employees,1292.5
-Women,2024,AVG,All Industries,20 to 99 employees,16187.5
-Women,2024,AVG,All Industries,5 to 19 employees,58687.5
-Women,2024,AVG,Accommodation and food services,1 to 4 employees,2975
+Women,2024,AVG,All Industries,Mature Private sector businesses,16187.5
+Women,2024,AVG,All Industries,Scale Private sector businesses,58687.5
+Women,2024,AVG,All Industries,Small,194420
+Women,2024,AVG,All Industries,ALL,195712.5
+Women,2024,AVG,All Industries,Percent Small,0.178603745
+Women,2024,AVG,All Industries,Percent All,0.176427239
+Women,2024,AVG,Accommodation and food services,Micro Private sector businesses,2975
 Women,2024,AVG,Accommodation and food services,100 or more employees,200
-Women,2024,AVG,Accommodation and food services,20 to 99 employees,3472.5
-Women,2024,AVG,Accommodation and food services,5 to 19 employees,6820
-Women,2024,AVG,"Administrative and support, waste management and remediation",1 to 4 employees,5217.5
+Women,2024,AVG,Accommodation and food services,Mature Private sector businesses,3472.5
+Women,2024,AVG,Accommodation and food services,Scale Private sector businesses,6820
+Women,2024,AVG,Accommodation and food services,Small,13267.5
+Women,2024,AVG,Accommodation and food services,ALL,13467.5
+Women,2024,AVG,Accommodation and food services,Percent Small,0.194638011
+Women,2024,AVG,Accommodation and food services,Percent All,0.193637671
+Women,2024,AVG,"Administrative and support, waste management and remediation",Micro Private sector businesses,5217.5
 Women,2024,AVG,"Administrative and support, waste management and remediation",100 or more employees,157.5
-Women,2024,AVG,"Administrative and support, waste management and remediation",20 to 99 employees,1020
-Women,2024,AVG,"Administrative and support, waste management and remediation",5 to 19 employees,2857.5
-Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",1 to 4 employees,2420
+Women,2024,AVG,"Administrative and support, waste management and remediation",Mature Private sector businesses,1020
+Women,2024,AVG,"Administrative and support, waste management and remediation",Scale Private sector businesses,2857.5
+Women,2024,AVG,"Administrative and support, waste management and remediation",Small,9095
+Women,2024,AVG,"Administrative and support, waste management and remediation",ALL,9252.5
+Women,2024,AVG,"Administrative and support, waste management and remediation",Percent Small,0.182474796
+Women,2024,AVG,"Administrative and support, waste management and remediation",Percent All,0.180739366
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Micro Private sector businesses,2420
 Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",100 or more employees,10
-Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",20 to 99 employees,255
-Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",5 to 19 employees,785
-Women,2024,AVG,"Arts, entertainment and recreation",1 to 4 employees,2077.5
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Mature Private sector businesses,255
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Scale Private sector businesses,785
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Small,3460
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",ALL,3470
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Percent Small,0.079861512
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Percent All,0.079486886
+Women,2024,AVG,"Arts, entertainment and recreation",Micro Private sector businesses,2077.5
 Women,2024,AVG,"Arts, entertainment and recreation",100 or more employees,17.5
-Women,2024,AVG,"Arts, entertainment and recreation",20 to 99 employees,195
-Women,2024,AVG,"Arts, entertainment and recreation",5 to 19 employees,910
-Women,2024,AVG,Construction,1 to 4 employees,2600
+Women,2024,AVG,"Arts, entertainment and recreation",Mature Private sector businesses,195
+Women,2024,AVG,"Arts, entertainment and recreation",Scale Private sector businesses,910
+Women,2024,AVG,"Arts, entertainment and recreation",Small,3182.5
+Women,2024,AVG,"Arts, entertainment and recreation",ALL,3200
+Women,2024,AVG,"Arts, entertainment and recreation",Percent Small,0.184119178
+Women,2024,AVG,"Arts, entertainment and recreation",Percent All,0.179171333
+Women,2024,AVG,Construction,Micro Private sector businesses,2600
 Women,2024,AVG,Construction,100 or more employees,125
-Women,2024,AVG,Construction,20 to 99 employees,650
-Women,2024,AVG,Construction,5 to 19 employees,1532.5
-Women,2024,AVG,Finance and Insurance,1 to 4 employees,3942.5
+Women,2024,AVG,Construction,Mature Private sector businesses,650
+Women,2024,AVG,Construction,Scale Private sector businesses,1532.5
+Women,2024,AVG,Construction,Small,4782.5
+Women,2024,AVG,Construction,ALL,4907.5
+Women,2024,AVG,Construction,Percent Small,0.034141814
+Women,2024,AVG,Construction,Percent All,0.034583605
+Women,2024,AVG,Finance and Insurance,Micro Private sector businesses,3942.5
 Women,2024,AVG,Finance and Insurance,100 or more employees,95
-Women,2024,AVG,Finance and Insurance,20 to 99 employees,507.5
-Women,2024,AVG,Finance and Insurance,5 to 19 employees,1102.5
-Women,2024,AVG,Health care and social assistance,1 to 4 employees,24785
+Women,2024,AVG,Finance and Insurance,Mature Private sector businesses,507.5
+Women,2024,AVG,Finance and Insurance,Scale Private sector businesses,1102.5
+Women,2024,AVG,Finance and Insurance,Small,5552.5
+Women,2024,AVG,Finance and Insurance,ALL,5647.5
+Women,2024,AVG,Finance and Insurance,Percent Small,0.155761274
+Women,2024,AVG,Finance and Insurance,Percent All,0.154662467
+Women,2024,AVG,Health care and social assistance,Micro Private sector businesses,24785
 Women,2024,AVG,Health care and social assistance,100 or more employees,292.5
-Women,2024,AVG,Health care and social assistance,20 to 99 employees,2627.5
-Women,2024,AVG,Health care and social assistance,5 to 19 employees,12140
-Women,2024,AVG,Information and Cultural Industries,1 to 4 employees,2005
+Women,2024,AVG,Health care and social assistance,Mature Private sector businesses,2627.5
+Women,2024,AVG,Health care and social assistance,Scale Private sector businesses,12140
+Women,2024,AVG,Health care and social assistance,Small,39552.5
+Women,2024,AVG,Health care and social assistance,ALL,39845
+Women,2024,AVG,Health care and social assistance,Percent Small,0.346579334
+Women,2024,AVG,Health care and social assistance,Percent All,0.343617274
+Women,2024,AVG,Information and Cultural Industries,Micro Private sector businesses,2005
 Women,2024,AVG,Information and Cultural Industries,100 or more employees,0
-Women,2024,AVG,Information and Cultural Industries,20 to 99 employees,167.5
-Women,2024,AVG,Information and Cultural Industries,5 to 19 employees,637.5
-Women,2024,AVG,Manufacturing,1 to 4 employees,2772.5
+Women,2024,AVG,Information and Cultural Industries,Mature Private sector businesses,167.5
+Women,2024,AVG,Information and Cultural Industries,Scale Private sector businesses,637.5
+Women,2024,AVG,Information and Cultural Industries,Small,2810
+Women,2024,AVG,Information and Cultural Industries,ALL,2810
+Women,2024,AVG,Information and Cultural Industries,Percent Small,0.166889384
+Women,2024,AVG,Information and Cultural Industries,Percent All,0.160801144
+Women,2024,AVG,Manufacturing,Micro Private sector businesses,2772.5
 Women,2024,AVG,Manufacturing,100 or more employees,25
-Women,2024,AVG,Manufacturing,20 to 99 employees,557.5
-Women,2024,AVG,Manufacturing,5 to 19 employees,2672.5
-Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",1 to 4 employees,102.5
+Women,2024,AVG,Manufacturing,Mature Private sector businesses,557.5
+Women,2024,AVG,Manufacturing,Scale Private sector businesses,2672.5
+Women,2024,AVG,Manufacturing,Small,6002.5
+Women,2024,AVG,Manufacturing,ALL,6027.5
+Women,2024,AVG,Manufacturing,Percent Small,0.120622959
+Women,2024,AVG,Manufacturing,Percent All,0.113282902
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Micro Private sector businesses,102.5
 Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",100 or more employees,17.5
-Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",20 to 99 employees,45
-Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",5 to 19 employees,80
-Women,2024,AVG,Other services (except public administration),1 to 4 employees,10050
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Mature Private sector businesses,45
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Scale Private sector businesses,80
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Small,227.5
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",ALL,245
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Percent Small,0.036082474
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Percent All,0.036855961
+Women,2024,AVG,Other services (except public administration),Micro Private sector businesses,10050
 Women,2024,AVG,Other services (except public administration),100 or more employees,12.5
-Women,2024,AVG,Other services (except public administration),20 to 99 employees,875
-Women,2024,AVG,Other services (except public administration),5 to 19 employees,4957.5
-Women,2024,AVG,"Professional, Scientific and Technical Services",1 to 4 employees,31167.5
+Women,2024,AVG,Other services (except public administration),Mature Private sector businesses,875
+Women,2024,AVG,Other services (except public administration),Scale Private sector businesses,4957.5
+Women,2024,AVG,Other services (except public administration),Small,15882.5
+Women,2024,AVG,Other services (except public administration),ALL,15895
+Women,2024,AVG,Other services (except public administration),Percent Small,0.160559038
+Women,2024,AVG,Other services (except public administration),Percent All,0.159752758
+Women,2024,AVG,"Professional, Scientific and Technical Services",Micro Private sector businesses,31167.5
 Women,2024,AVG,"Professional, Scientific and Technical Services",100 or more employees,40
-Women,2024,AVG,"Professional, Scientific and Technical Services",20 to 99 employees,535
-Women,2024,AVG,"Professional, Scientific and Technical Services",5 to 19 employees,8365
-Women,2024,AVG,Real Estate and Rental and Leasing,1 to 4 employees,10787.5
+Women,2024,AVG,"Professional, Scientific and Technical Services",Mature Private sector businesses,535
+Women,2024,AVG,"Professional, Scientific and Technical Services",Scale Private sector businesses,8365
+Women,2024,AVG,"Professional, Scientific and Technical Services",Small,40067.5
+Women,2024,AVG,"Professional, Scientific and Technical Services",ALL,40107.5
+Women,2024,AVG,"Professional, Scientific and Technical Services",Percent Small,0.264275703
+Women,2024,AVG,"Professional, Scientific and Technical Services",Percent All,0.261956468
+Women,2024,AVG,Real Estate and Rental and Leasing,Micro Private sector businesses,10787.5
 Women,2024,AVG,Real Estate and Rental and Leasing,100 or more employees,35
-Women,2024,AVG,Real Estate and Rental and Leasing,20 to 99 employees,220
-Women,2024,AVG,Real Estate and Rental and Leasing,5 to 19 employees,1222.5
-Women,2024,AVG,Retail Trade,1 to 4 employees,14022.5
+Women,2024,AVG,Real Estate and Rental and Leasing,Mature Private sector businesses,220
+Women,2024,AVG,Real Estate and Rental and Leasing,Scale Private sector businesses,1222.5
+Women,2024,AVG,Real Estate and Rental and Leasing,Small,12230
+Women,2024,AVG,Real Estate and Rental and Leasing,ALL,12265
+Women,2024,AVG,Real Estate and Rental and Leasing,Percent Small,0.234111792
+Women,2024,AVG,Real Estate and Rental and Leasing,Percent All,0.233252508
+Women,2024,AVG,Retail Trade,Micro Private sector businesses,14022.5
 Women,2024,AVG,Retail Trade,100 or more employees,155
-Women,2024,AVG,Retail Trade,20 to 99 employees,3845
-Women,2024,AVG,Retail Trade,5 to 19 employees,11590
-Women,2024,AVG,Transportation and Warehousing,1 to 4 employees,2200
+Women,2024,AVG,Retail Trade,Mature Private sector businesses,3845
+Women,2024,AVG,Retail Trade,Scale Private sector businesses,11590
+Women,2024,AVG,Retail Trade,Small,29457.5
+Women,2024,AVG,Retail Trade,ALL,29612.5
+Women,2024,AVG,Retail Trade,Percent Small,0.238527096
+Women,2024,AVG,Retail Trade,Percent All,0.233735225
+Women,2024,AVG,Transportation and Warehousing,Micro Private sector businesses,2200
 Women,2024,AVG,Transportation and Warehousing,100 or more employees,50
-Women,2024,AVG,Transportation and Warehousing,20 to 99 employees,300
-Women,2024,AVG,Transportation and Warehousing,5 to 19 employees,1327.5
-Women,2024,AVG,Wholesale Trade,1 to 4 employees,2420
+Women,2024,AVG,Transportation and Warehousing,Mature Private sector businesses,300
+Women,2024,AVG,Transportation and Warehousing,Scale Private sector businesses,1327.5
+Women,2024,AVG,Transportation and Warehousing,Small,3827.5
+Women,2024,AVG,Transportation and Warehousing,ALL,3877.5
+Women,2024,AVG,Transportation and Warehousing,Percent Small,0.055097708
+Women,2024,AVG,Transportation and Warehousing,Percent All,0.054959073
+Women,2024,AVG,Wholesale Trade,Micro Private sector businesses,2420
 Women,2024,AVG,Wholesale Trade,100 or more employees,60
-Women,2024,AVG,Wholesale Trade,20 to 99 employees,915
-Women,2024,AVG,Wholesale Trade,5 to 19 employees,1687.5
-All,2024,AVG,All Industries,1 to 4 employees,611440
+Women,2024,AVG,Wholesale Trade,Mature Private sector businesses,915
+Women,2024,AVG,Wholesale Trade,Scale Private sector businesses,1687.5
+Women,2024,AVG,Wholesale Trade,Small,5022.5
+Women,2024,AVG,Wholesale Trade,ALL,5082.5
+Women,2024,AVG,Wholesale Trade,Percent Small,0.097623791
+Women,2024,AVG,Wholesale Trade,Percent All,0.096050269
+All,2024,AVG,All Industries,Micro Private sector businesses,611440
 All,2024,AVG,All Industries,100 or more employees,20755
-All,2024,AVG,All Industries,20 to 99 employees,128577.5
-All,2024,AVG,All Industries,5 to 19 employees,348537.5
-All,2024,AVG,Accommodation and food services,1 to 4 employees,14047.5
+All,2024,AVG,All Industries,Mature Private sector businesses,128577.5
+All,2024,AVG,All Industries,Scale Private sector businesses,348537.5
+All,2024,AVG,All Industries,Small,1088555
+All,2024,AVG,All Industries,ALL,1109310
+All,2024,AVG,Accommodation and food services,Micro Private sector businesses,14047.5
 All,2024,AVG,Accommodation and food services,100 or more employees,1385
-All,2024,AVG,Accommodation and food services,20 to 99 employees,20152.5
-All,2024,AVG,Accommodation and food services,5 to 19 employees,33965
-All,2024,AVG,"Administrative and support, waste management and remediation",1 to 4 employees,26835
+All,2024,AVG,Accommodation and food services,Mature Private sector businesses,20152.5
+All,2024,AVG,Accommodation and food services,Scale Private sector businesses,33965
+All,2024,AVG,Accommodation and food services,Small,68165
+All,2024,AVG,Accommodation and food services,ALL,69550
+All,2024,AVG,"Administrative and support, waste management and remediation",Micro Private sector businesses,26835
 All,2024,AVG,"Administrative and support, waste management and remediation",100 or more employees,1350
-All,2024,AVG,"Administrative and support, waste management and remediation",20 to 99 employees,5585
-All,2024,AVG,"Administrative and support, waste management and remediation",5 to 19 employees,17422.5
-All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",1 to 4 employees,29542.5
+All,2024,AVG,"Administrative and support, waste management and remediation",Mature Private sector businesses,5585
+All,2024,AVG,"Administrative and support, waste management and remediation",Scale Private sector businesses,17422.5
+All,2024,AVG,"Administrative and support, waste management and remediation",Small,49842.5
+All,2024,AVG,"Administrative and support, waste management and remediation",ALL,51192.5
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Micro Private sector businesses,29542.5
 All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",100 or more employees,330
-All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",20 to 99 employees,2587.5
-All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",5 to 19 employees,11195
-All,2024,AVG,"Arts, entertainment and recreation",1 to 4 employees,7820
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Mature Private sector businesses,2587.5
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Scale Private sector businesses,11195
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Small,43325
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",ALL,43655
+All,2024,AVG,"Arts, entertainment and recreation",Micro Private sector businesses,7820
 All,2024,AVG,"Arts, entertainment and recreation",100 or more employees,575
-All,2024,AVG,"Arts, entertainment and recreation",20 to 99 employees,2870
-All,2024,AVG,"Arts, entertainment and recreation",5 to 19 employees,6595
-All,2024,AVG,Construction,1 to 4 employees,88842.5
+All,2024,AVG,"Arts, entertainment and recreation",Mature Private sector businesses,2870
+All,2024,AVG,"Arts, entertainment and recreation",Scale Private sector businesses,6595
+All,2024,AVG,"Arts, entertainment and recreation",Small,17285
+All,2024,AVG,"Arts, entertainment and recreation",ALL,17860
+All,2024,AVG,Construction,Micro Private sector businesses,88842.5
 All,2024,AVG,Construction,100 or more employees,1825
-All,2024,AVG,Construction,20 to 99 employees,10812.5
-All,2024,AVG,Construction,5 to 19 employees,40422.5
-All,2024,AVG,Finance and Insurance,1 to 4 employees,17545
+All,2024,AVG,Construction,Mature Private sector businesses,10812.5
+All,2024,AVG,Construction,Scale Private sector businesses,40422.5
+All,2024,AVG,Construction,Small,140077.5
+All,2024,AVG,Construction,ALL,141902.5
+All,2024,AVG,Finance and Insurance,Micro Private sector businesses,17545
 All,2024,AVG,Finance and Insurance,100 or more employees,867.5
-All,2024,AVG,Finance and Insurance,20 to 99 employees,6382.5
-All,2024,AVG,Finance and Insurance,5 to 19 employees,11720
-All,2024,AVG,Health care and social assistance,1 to 4 employees,66107.5
+All,2024,AVG,Finance and Insurance,Mature Private sector businesses,6382.5
+All,2024,AVG,Finance and Insurance,Scale Private sector businesses,11720
+All,2024,AVG,Finance and Insurance,Small,35647.5
+All,2024,AVG,Finance and Insurance,ALL,36515
+All,2024,AVG,Health care and social assistance,Micro Private sector businesses,66107.5
 All,2024,AVG,Health care and social assistance,100 or more employees,1835
-All,2024,AVG,Health care and social assistance,20 to 99 employees,12770
-All,2024,AVG,Health care and social assistance,5 to 19 employees,35245
-All,2024,AVG,Information and Cultural Industries,1 to 4 employees,9202.5
+All,2024,AVG,Health care and social assistance,Mature Private sector businesses,12770
+All,2024,AVG,Health care and social assistance,Scale Private sector businesses,35245
+All,2024,AVG,Health care and social assistance,Small,114122.5
+All,2024,AVG,Health care and social assistance,ALL,115957.5
+All,2024,AVG,Information and Cultural Industries,Micro Private sector businesses,9202.5
 All,2024,AVG,Information and Cultural Industries,100 or more employees,637.5
-All,2024,AVG,Information and Cultural Industries,20 to 99 employees,1935
-All,2024,AVG,Information and Cultural Industries,5 to 19 employees,5700
-All,2024,AVG,Manufacturing,1 to 4 employees,18230
+All,2024,AVG,Information and Cultural Industries,Mature Private sector businesses,1935
+All,2024,AVG,Information and Cultural Industries,Scale Private sector businesses,5700
+All,2024,AVG,Information and Cultural Industries,Small,16837.5
+All,2024,AVG,Information and Cultural Industries,ALL,17475
+All,2024,AVG,Manufacturing,Micro Private sector businesses,18230
 All,2024,AVG,Manufacturing,100 or more employees,3445
-All,2024,AVG,Manufacturing,20 to 99 employees,11725
-All,2024,AVG,Manufacturing,5 to 19 employees,19807.5
-All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",1 to 4 employees,3755
+All,2024,AVG,Manufacturing,Mature Private sector businesses,11725
+All,2024,AVG,Manufacturing,Scale Private sector businesses,19807.5
+All,2024,AVG,Manufacturing,Small,49762.5
+All,2024,AVG,Manufacturing,ALL,53207.5
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Micro Private sector businesses,3755
 All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",100 or more employees,342.5
-All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",20 to 99 employees,925
-All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",5 to 19 employees,1625
-All,2024,AVG,Other services (except public administration),1 to 4 employees,55635
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Mature Private sector businesses,925
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Scale Private sector businesses,1625
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Small,6305
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",ALL,6647.5
+All,2024,AVG,Other services (except public administration),Micro Private sector businesses,55635
 All,2024,AVG,Other services (except public administration),100 or more employees,577.5
-All,2024,AVG,Other services (except public administration),20 to 99 employees,6442.5
-All,2024,AVG,Other services (except public administration),5 to 19 employees,36842.5
-All,2024,AVG,"Professional, Scientific and Technical Services",1 to 4 employees,112410
+All,2024,AVG,Other services (except public administration),Mature Private sector businesses,6442.5
+All,2024,AVG,Other services (except public administration),Scale Private sector businesses,36842.5
+All,2024,AVG,Other services (except public administration),Small,98920
+All,2024,AVG,Other services (except public administration),ALL,99497.5
+All,2024,AVG,"Professional, Scientific and Technical Services",Micro Private sector businesses,112410
 All,2024,AVG,"Professional, Scientific and Technical Services",100 or more employees,1495
-All,2024,AVG,"Professional, Scientific and Technical Services",20 to 99 employees,9902.5
-All,2024,AVG,"Professional, Scientific and Technical Services",5 to 19 employees,29300
-All,2024,AVG,Real Estate and Rental and Leasing,1 to 4 employees,40140
+All,2024,AVG,"Professional, Scientific and Technical Services",Mature Private sector businesses,9902.5
+All,2024,AVG,"Professional, Scientific and Technical Services",Scale Private sector businesses,29300
+All,2024,AVG,"Professional, Scientific and Technical Services",Small,151612.5
+All,2024,AVG,"Professional, Scientific and Technical Services",ALL,153107.5
+All,2024,AVG,Real Estate and Rental and Leasing,Micro Private sector businesses,40140
 All,2024,AVG,Real Estate and Rental and Leasing,100 or more employees,342.5
-All,2024,AVG,Real Estate and Rental and Leasing,20 to 99 employees,2342.5
-All,2024,AVG,Real Estate and Rental and Leasing,5 to 19 employees,9757.5
-All,2024,AVG,Retail Trade,1 to 4 employees,48590
+All,2024,AVG,Real Estate and Rental and Leasing,Mature Private sector businesses,2342.5
+All,2024,AVG,Real Estate and Rental and Leasing,Scale Private sector businesses,9757.5
+All,2024,AVG,Real Estate and Rental and Leasing,Small,52240
+All,2024,AVG,Real Estate and Rental and Leasing,ALL,52582.5
+All,2024,AVG,Retail Trade,Micro Private sector businesses,48590
 All,2024,AVG,Retail Trade,100 or more employees,3195
-All,2024,AVG,Retail Trade,20 to 99 employees,20212.5
-All,2024,AVG,Retail Trade,5 to 19 employees,54695
-All,2024,AVG,Transportation and Warehousing,1 to 4 employees,51307.5
+All,2024,AVG,Retail Trade,Mature Private sector businesses,20212.5
+All,2024,AVG,Retail Trade,Scale Private sector businesses,54695
+All,2024,AVG,Retail Trade,Small,123497.5
+All,2024,AVG,Retail Trade,ALL,126692.5
+All,2024,AVG,Transportation and Warehousing,Micro Private sector businesses,51307.5
 All,2024,AVG,Transportation and Warehousing,100 or more employees,1085
-All,2024,AVG,Transportation and Warehousing,20 to 99 employees,5585
-All,2024,AVG,Transportation and Warehousing,5 to 19 employees,12575
-All,2024,AVG,Wholesale Trade,1 to 4 employees,21430
+All,2024,AVG,Transportation and Warehousing,Mature Private sector businesses,5585
+All,2024,AVG,Transportation and Warehousing,Scale Private sector businesses,12575
+All,2024,AVG,Transportation and Warehousing,Small,69467.5
+All,2024,AVG,Transportation and Warehousing,ALL,70552.5
+All,2024,AVG,Wholesale Trade,Micro Private sector businesses,21430
 All,2024,AVG,Wholesale Trade,100 or more employees,1467.5
-All,2024,AVG,Wholesale Trade,20 to 99 employees,8347.5
-All,2024,AVG,Wholesale Trade,5 to 19 employees,21670
-Men,2024,AVG,All Industries,1 to 4 employees,608465
+All,2024,AVG,Wholesale Trade,Mature Private sector businesses,8347.5
+All,2024,AVG,Wholesale Trade,Scale Private sector businesses,21670
+All,2024,AVG,Wholesale Trade,Small,51447.5
+All,2024,AVG,Wholesale Trade,ALL,52915
+Men,2024,AVG,All Industries,Micro Private sector businesses,608465
 Men,2024,AVG,All Industries,100 or more employees,20555
-Men,2024,AVG,All Industries,20 to 99 employees,125105
-Men,2024,AVG,All Industries,5 to 19 employees,341717.5
-Men,2024,AVG,Accommodation and food services,1 to 4 employees,11072.5
+Men,2024,AVG,All Industries,Mature Private sector businesses,125105
+Men,2024,AVG,All Industries,Scale Private sector businesses,341717.5
+Men,2024,AVG,All Industries,Small,1075287.5
+Men,2024,AVG,All Industries,ALL,1095842.5
+Men,2024,AVG,All Industries,Percent Small,0.987811824
+Men,2024,AVG,All Industries,Percent All,0.98785957
+Men,2024,AVG,Accommodation and food services,Micro Private sector businesses,11072.5
 Men,2024,AVG,Accommodation and food services,100 or more employees,1185
-Men,2024,AVG,Accommodation and food services,20 to 99 employees,16680
-Men,2024,AVG,Accommodation and food services,5 to 19 employees,27145
-Men,2024,AVG,"Administrative and support, waste management and remediation",1 to 4 employees,21617.5
+Men,2024,AVG,Accommodation and food services,Mature Private sector businesses,16680
+Men,2024,AVG,Accommodation and food services,Scale Private sector businesses,27145
+Men,2024,AVG,Accommodation and food services,Small,54897.5
+Men,2024,AVG,Accommodation and food services,ALL,56082.5
+Men,2024,AVG,Accommodation and food services,Percent Small,0.805361989
+Men,2024,AVG,Accommodation and food services,Percent All,0.806362329
+Men,2024,AVG,"Administrative and support, waste management and remediation",Micro Private sector businesses,21617.5
 Men,2024,AVG,"Administrative and support, waste management and remediation",100 or more employees,1192.5
-Men,2024,AVG,"Administrative and support, waste management and remediation",20 to 99 employees,4565
-Men,2024,AVG,"Administrative and support, waste management and remediation",5 to 19 employees,14565
-Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",1 to 4 employees,27122.5
+Men,2024,AVG,"Administrative and support, waste management and remediation",Mature Private sector businesses,4565
+Men,2024,AVG,"Administrative and support, waste management and remediation",Scale Private sector businesses,14565
+Men,2024,AVG,"Administrative and support, waste management and remediation",Small,40747.5
+Men,2024,AVG,"Administrative and support, waste management and remediation",ALL,41940
+Men,2024,AVG,"Administrative and support, waste management and remediation",Percent Small,0.817525204
+Men,2024,AVG,"Administrative and support, waste management and remediation",Percent All,0.819260634
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Micro Private sector businesses,27122.5
 Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",100 or more employees,320
-Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",20 to 99 employees,2332.5
-Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",5 to 19 employees,10410
-Men,2024,AVG,"Arts, entertainment and recreation",1 to 4 employees,5742.5
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Mature Private sector businesses,2332.5
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Scale Private sector businesses,10410
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Small,39865
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",ALL,40185
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Percent Small,0.920138488
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",Percent All,0.920513114
+Men,2024,AVG,"Arts, entertainment and recreation",Micro Private sector businesses,5742.5
 Men,2024,AVG,"Arts, entertainment and recreation",100 or more employees,557.5
-Men,2024,AVG,"Arts, entertainment and recreation",20 to 99 employees,2675
-Men,2024,AVG,"Arts, entertainment and recreation",5 to 19 employees,5685
-Men,2024,AVG,Construction,1 to 4 employees,86242.5
+Men,2024,AVG,"Arts, entertainment and recreation",Mature Private sector businesses,2675
+Men,2024,AVG,"Arts, entertainment and recreation",Scale Private sector businesses,5685
+Men,2024,AVG,"Arts, entertainment and recreation",Small,14102.5
+Men,2024,AVG,"Arts, entertainment and recreation",ALL,14660
+Men,2024,AVG,"Arts, entertainment and recreation",Percent Small,0.815880822
+Men,2024,AVG,"Arts, entertainment and recreation",Percent All,0.820828667
+Men,2024,AVG,Construction,Micro Private sector businesses,86242.5
 Men,2024,AVG,Construction,100 or more employees,1700
-Men,2024,AVG,Construction,20 to 99 employees,10162.5
-Men,2024,AVG,Construction,5 to 19 employees,38890
-Men,2024,AVG,Finance and Insurance,1 to 4 employees,13602.5
+Men,2024,AVG,Construction,Mature Private sector businesses,10162.5
+Men,2024,AVG,Construction,Scale Private sector businesses,38890
+Men,2024,AVG,Construction,Small,135295
+Men,2024,AVG,Construction,ALL,136995
+Men,2024,AVG,Construction,Percent Small,0.965858186
+Men,2024,AVG,Construction,Percent All,0.965416395
+Men,2024,AVG,Finance and Insurance,Micro Private sector businesses,13602.5
 Men,2024,AVG,Finance and Insurance,100 or more employees,772.5
-Men,2024,AVG,Finance and Insurance,20 to 99 employees,5875
-Men,2024,AVG,Finance and Insurance,5 to 19 employees,10617.5
-Men,2024,AVG,Health care and social assistance,1 to 4 employees,41322.5
+Men,2024,AVG,Finance and Insurance,Mature Private sector businesses,5875
+Men,2024,AVG,Finance and Insurance,Scale Private sector businesses,10617.5
+Men,2024,AVG,Finance and Insurance,Small,30095
+Men,2024,AVG,Finance and Insurance,ALL,30867.5
+Men,2024,AVG,Finance and Insurance,Percent Small,0.844238726
+Men,2024,AVG,Finance and Insurance,Percent All,0.845337533
+Men,2024,AVG,Health care and social assistance,Micro Private sector businesses,41322.5
 Men,2024,AVG,Health care and social assistance,100 or more employees,1542.5
-Men,2024,AVG,Health care and social assistance,20 to 99 employees,10142.5
-Men,2024,AVG,Health care and social assistance,5 to 19 employees,23105
-Men,2024,AVG,Information and Cultural Industries,1 to 4 employees,7197.5
+Men,2024,AVG,Health care and social assistance,Mature Private sector businesses,10142.5
+Men,2024,AVG,Health care and social assistance,Scale Private sector businesses,23105
+Men,2024,AVG,Health care and social assistance,Small,74570
+Men,2024,AVG,Health care and social assistance,ALL,76112.5
+Men,2024,AVG,Health care and social assistance,Percent Small,0.653420666
+Men,2024,AVG,Health care and social assistance,Percent All,0.656382726
+Men,2024,AVG,Information and Cultural Industries,Micro Private sector businesses,7197.5
 Men,2024,AVG,Information and Cultural Industries,100 or more employees,637.5
-Men,2024,AVG,Information and Cultural Industries,20 to 99 employees,1767.5
-Men,2024,AVG,Information and Cultural Industries,5 to 19 employees,5062.5
-Men,2024,AVG,Manufacturing,1 to 4 employees,15457.5
+Men,2024,AVG,Information and Cultural Industries,Mature Private sector businesses,1767.5
+Men,2024,AVG,Information and Cultural Industries,Scale Private sector businesses,5062.5
+Men,2024,AVG,Information and Cultural Industries,Small,14027.5
+Men,2024,AVG,Information and Cultural Industries,ALL,14665
+Men,2024,AVG,Information and Cultural Industries,Percent Small,0.833110616
+Men,2024,AVG,Information and Cultural Industries,Percent All,0.839198856
+Men,2024,AVG,Manufacturing,Micro Private sector businesses,15457.5
 Men,2024,AVG,Manufacturing,100 or more employees,3420
-Men,2024,AVG,Manufacturing,20 to 99 employees,11167.5
-Men,2024,AVG,Manufacturing,5 to 19 employees,17135
-Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",1 to 4 employees,3652.5
+Men,2024,AVG,Manufacturing,Mature Private sector businesses,11167.5
+Men,2024,AVG,Manufacturing,Scale Private sector businesses,17135
+Men,2024,AVG,Manufacturing,Small,43760
+Men,2024,AVG,Manufacturing,ALL,47180
+Men,2024,AVG,Manufacturing,Percent Small,0.879377041
+Men,2024,AVG,Manufacturing,Percent All,0.886717098
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Micro Private sector businesses,3652.5
 Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",100 or more employees,325
-Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",20 to 99 employees,880
-Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",5 to 19 employees,1545
-Men,2024,AVG,Other services (except public administration),1 to 4 employees,45585
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Mature Private sector businesses,880
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Scale Private sector businesses,1545
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Small,6077.5
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",ALL,6402.5
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Percent Small,0.963917526
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",Percent All,0.963144039
+Men,2024,AVG,Other services (except public administration),Micro Private sector businesses,45585
 Men,2024,AVG,Other services (except public administration),100 or more employees,565
-Men,2024,AVG,Other services (except public administration),20 to 99 employees,5567.5
-Men,2024,AVG,Other services (except public administration),5 to 19 employees,31885
-Men,2024,AVG,"Professional, Scientific and Technical Services",1 to 4 employees,81242.5
+Men,2024,AVG,Other services (except public administration),Mature Private sector businesses,5567.5
+Men,2024,AVG,Other services (except public administration),Scale Private sector businesses,31885
+Men,2024,AVG,Other services (except public administration),Small,83037.5
+Men,2024,AVG,Other services (except public administration),ALL,83602.5
+Men,2024,AVG,Other services (except public administration),Percent Small,0.839440962
+Men,2024,AVG,Other services (except public administration),Percent All,0.840247242
+Men,2024,AVG,"Professional, Scientific and Technical Services",Micro Private sector businesses,81242.5
 Men,2024,AVG,"Professional, Scientific and Technical Services",100 or more employees,1455
-Men,2024,AVG,"Professional, Scientific and Technical Services",20 to 99 employees,9367.5
-Men,2024,AVG,"Professional, Scientific and Technical Services",5 to 19 employees,20935
-Men,2024,AVG,Real Estate and Rental and Leasing,1 to 4 employees,29352.5
+Men,2024,AVG,"Professional, Scientific and Technical Services",Mature Private sector businesses,9367.5
+Men,2024,AVG,"Professional, Scientific and Technical Services",Scale Private sector businesses,20935
+Men,2024,AVG,"Professional, Scientific and Technical Services",Small,111545
+Men,2024,AVG,"Professional, Scientific and Technical Services",ALL,113000
+Men,2024,AVG,"Professional, Scientific and Technical Services",Percent Small,0.735724297
+Men,2024,AVG,"Professional, Scientific and Technical Services",Percent All,0.738043532
+Men,2024,AVG,Real Estate and Rental and Leasing,Micro Private sector businesses,29352.5
 Men,2024,AVG,Real Estate and Rental and Leasing,100 or more employees,307.5
-Men,2024,AVG,Real Estate and Rental and Leasing,20 to 99 employees,2122.5
-Men,2024,AVG,Real Estate and Rental and Leasing,5 to 19 employees,8535
-Men,2024,AVG,Retail Trade,1 to 4 employees,34567.5
+Men,2024,AVG,Real Estate and Rental and Leasing,Mature Private sector businesses,2122.5
+Men,2024,AVG,Real Estate and Rental and Leasing,Scale Private sector businesses,8535
+Men,2024,AVG,Real Estate and Rental and Leasing,Small,40010
+Men,2024,AVG,Real Estate and Rental and Leasing,ALL,40317.5
+Men,2024,AVG,Real Estate and Rental and Leasing,Percent Small,0.765888208
+Men,2024,AVG,Real Estate and Rental and Leasing,Percent All,0.766747492
+Men,2024,AVG,Retail Trade,Micro Private sector businesses,34567.5
 Men,2024,AVG,Retail Trade,100 or more employees,3040
-Men,2024,AVG,Retail Trade,20 to 99 employees,16367.5
-Men,2024,AVG,Retail Trade,5 to 19 employees,43105
-Men,2024,AVG,Transportation and Warehousing,1 to 4 employees,49107.5
+Men,2024,AVG,Retail Trade,Mature Private sector businesses,16367.5
+Men,2024,AVG,Retail Trade,Scale Private sector businesses,43105
+Men,2024,AVG,Retail Trade,Small,94040
+Men,2024,AVG,Retail Trade,ALL,97080
+Men,2024,AVG,Retail Trade,Percent Small,0.761472904
+Men,2024,AVG,Retail Trade,Percent All,0.766264775
+Men,2024,AVG,Transportation and Warehousing,Micro Private sector businesses,49107.5
 Men,2024,AVG,Transportation and Warehousing,100 or more employees,1035
-Men,2024,AVG,Transportation and Warehousing,20 to 99 employees,5285
-Men,2024,AVG,Transportation and Warehousing,5 to 19 employees,11247.5
-Men,2024,AVG,Wholesale Trade,1 to 4 employees,19010
+Men,2024,AVG,Transportation and Warehousing,Mature Private sector businesses,5285
+Men,2024,AVG,Transportation and Warehousing,Scale Private sector businesses,11247.5
+Men,2024,AVG,Transportation and Warehousing,Small,65640
+Men,2024,AVG,Transportation and Warehousing,ALL,66675
+Men,2024,AVG,Transportation and Warehousing,Percent Small,0.944902292
+Men,2024,AVG,Transportation and Warehousing,Percent All,0.945040927
+Men,2024,AVG,Wholesale Trade,Micro Private sector businesses,19010
 Men,2024,AVG,Wholesale Trade,100 or more employees,1407.5
-Men,2024,AVG,Wholesale Trade,20 to 99 employees,7432.5
-Men,2024,AVG,Wholesale Trade,5 to 19 employees,19982.5
+Men,2024,AVG,Wholesale Trade,Mature Private sector businesses,7432.5
+Men,2024,AVG,Wholesale Trade,Scale Private sector businesses,19982.5
+Men,2024,AVG,Wholesale Trade,Small,46425
+Men,2024,AVG,Wholesale Trade,ALL,47832.5
+Men,2024,AVG,Wholesale Trade,Percent Small,0.902376209
+Men,2024,AVG,Wholesale Trade,Percent All,0.903949731
