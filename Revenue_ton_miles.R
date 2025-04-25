@@ -1,3 +1,9 @@
+#destfile <- "Data/Revenue_ton_miles.xlsx"
+#
+#url = "https://www.cn.ca/-/media/Files/Investors/Investor-Performance-Measures/CN-BU-WEBSUMMARYpv.xlsx"
+#https://www.cn.ca/-/media/files/investors/investor-performance-measures/cn-bu-websummary.xlsx
+#download.file(url, destfile, mode = "wb")
+
 library(readxl)
 library(dplyr)
 library(janitor)
@@ -123,7 +129,29 @@ df_2024 = df_2024 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 
 
-Collected = rbind(df_2019,df_2020,df_2021,df_2022,df_2023,df_2024)
+
+df_2025 <- read_excel(destfile,
+                      sheet = "2025",
+                      skip = 1,
+                      n_max = 20)
+df_2025 <- tail(df_2025,-12)
+df_2025 <- t(df_2025)
+
+df_2025 <- janitor::row_to_names(df_2025, row_number = 1)
+
+df_2025 <- as.data.frame(df_2025)
+df_2025 <- tibble::rownames_to_column(df_2025, "Week")%>% dplyr::mutate("Year" = "2025")
+
+
+
+df_2025 = df_2025 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
+
+
+
+
+
+
+Collected = rbind(df_2019,df_2020,df_2021,df_2022,df_2023,df_2024,df_2025)
 
 Collected <- Collected %>%
   dplyr::mutate(Week = paste0("Week ", Week))
@@ -162,6 +190,19 @@ df_2020 <- tibble::rownames_to_column(df_2020, "Week")%>% dplyr::mutate("Year" =
 
 
 df_2020 = df_2020 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
+
+
+
+
+
+
+destfile <- "Data/Revenue_ton_miles_V2_CPKC.xlsx"
+
+
+url = "https://s21.q4cdn.com/736796105/files/doc_downloads/key-metrics/weekly/2025/04/21/CPKC-Weekly-RTMs-and-Carloads-2025.xlsx"
+
+download.file(url, destfile, mode = "wb")
+
 
 ##2021
 df_2021 <- read_excel(destfile,
@@ -239,7 +280,31 @@ df_2024 = df_2024 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 
 
-Collected_CPKC = rbind(df_2020,df_2021,df_2022,df_2023,df_2024)
+
+##2025
+df_2025 <- read_excel(destfile,
+                      sheet = "CPKC 2025",
+                      skip = 5,
+                      n_max = 13)
+df_2025 <- tail(df_2025,-1)
+df_2025 <- t(df_2025)
+
+df_2025 <- janitor::row_to_names(df_2025, row_number = 1)
+
+df_2025 <- as.data.frame(df_2025)
+df_2025 <- tibble::rownames_to_column(df_2025, "Week")%>% dplyr::mutate("Year" = "2025")
+
+
+
+df_2025 = df_2025 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
+
+
+
+
+
+
+
+Collected_CPKC = rbind(df_2020,df_2021,df_2022,df_2023,df_2024,df_2025)
 
 Collected_CPKC <- Collected_CPKC %>%
   dplyr::mutate(Week = paste0("Week ", Week))
@@ -278,3 +343,4 @@ Collected <- Collected %>%
   dplyr::select(Week,Year,Industry,Revenue,Source)
 
 write.csv(Collected, file   = paste0("Data/Revenue_ton_mile_V2.csv")  , row.names = F)
+
