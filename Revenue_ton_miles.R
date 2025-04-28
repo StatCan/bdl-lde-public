@@ -159,6 +159,7 @@ Collected <- Collected %>%
 Collected$Industry <-  str_trim(sub("\\\\.*", "", Collected$Industry), side = "right")
 Collected$Industry <- ifelse(Collected$Industry == "RTMs","RTMs TOTAL", Collected$Industry)
 Collected$Source <- "CN"
+Collected$Revenue <- ifelse(Collected$Revenue == 0, NA,Collected$Revenue)
 
 
 
@@ -310,7 +311,7 @@ Collected_CPKC <- Collected_CPKC %>%
   dplyr::mutate(Week = paste0("Week ", Week))
 
 Collected_CPKC$Industry <-  str_trim(sub("\\\\.*", "", Collected_CPKC$Industry), side = "right")
-Collected_CPKC$Industry <- ifelse(Collected_CPKC$Industry == "TOTAL REVENUE TON MILES","RTMs TOTAL", 
+Collected_CPKC$Industry <- ifelse(Collected_CPKC$Industry %in% c("TOTAL REVENUE TON MILES","TOTAL REVENUE TON-MILES"),"RTMs TOTAL", 
                                   ifelse(Collected_CPKC$Industry == "ENERGY, CHEMICALS & PLASTICS","PETRO&CHEMICALS",
                                          ifelse(Collected_CPKC$Industry == "METALS, MINERALS & CONSUMER PRODUCTS","METALS&MINERALS",
                                                 ifelse(Collected_CPKC$Industry == "GRAIN","GRAIN & FERTS",
@@ -343,4 +344,3 @@ Collected <- Collected %>%
   dplyr::select(Week,Year,Industry,Revenue,Source)
 
 write.csv(Collected, file   = paste0("Data/Revenue_ton_mile_V2.csv")  , row.names = F)
-
