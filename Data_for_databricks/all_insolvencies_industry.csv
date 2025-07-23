@@ -1,0 +1,3766 @@
+"Industry","Date","Value","GEO"
+"Agriculture, forestry",2011-01-01,3,NA
+"Agriculture, forestry",2011-02-01,10,NA
+"Agriculture, forestry",2011-03-01,13,NA
+"Agriculture, forestry",2011-04-01,5,NA
+"Agriculture, forestry",2011-05-01,4,NA
+"Agriculture, forestry",2011-06-01,5,NA
+"Agriculture, forestry",2011-07-01,9,NA
+"Agriculture, forestry",2011-08-01,11,NA
+"Agriculture, forestry",2011-09-01,11,NA
+"Agriculture, forestry",2011-10-01,7,NA
+"Agriculture, forestry",2011-11-01,10,NA
+"Agriculture, forestry",2011-12-01,3,NA
+"Agriculture, forestry",2012-01-01,7,NA
+"Agriculture, forestry",2012-02-01,11,NA
+"Agriculture, forestry",2012-03-01,6,NA
+"Agriculture, forestry",2012-04-01,8,NA
+"Agriculture, forestry",2012-05-01,10,NA
+"Agriculture, forestry",2012-06-01,10,NA
+"Agriculture, forestry",2012-07-01,4,NA
+"Agriculture, forestry",2012-08-01,8,NA
+"Agriculture, forestry",2012-09-01,5,NA
+"Agriculture, forestry",2012-10-01,6,NA
+"Agriculture, forestry",2012-11-01,6,NA
+"Agriculture, forestry",2012-12-01,5,NA
+"Agriculture, forestry",2013-01-01,6,NA
+"Agriculture, forestry",2013-02-01,7,NA
+"Agriculture, forestry",2013-03-01,9,NA
+"Agriculture, forestry",2013-04-01,4,NA
+"Agriculture, forestry",2013-05-01,7,NA
+"Agriculture, forestry",2013-06-01,6,NA
+"Agriculture, forestry",2013-07-01,6,NA
+"Agriculture, forestry",2013-08-01,12,NA
+"Agriculture, forestry",2013-09-01,10,NA
+"Agriculture, forestry",2013-10-01,7,NA
+"Agriculture, forestry",2013-11-01,8,NA
+"Agriculture, forestry",2013-12-01,11,NA
+"Agriculture, forestry",2014-01-01,8,NA
+"Agriculture, forestry",2014-02-01,4,NA
+"Agriculture, forestry",2014-03-01,8,NA
+"Agriculture, forestry",2014-04-01,3,NA
+"Agriculture, forestry",2014-05-01,6,NA
+"Agriculture, forestry",2014-06-01,6,NA
+"Agriculture, forestry",2014-07-01,6,NA
+"Agriculture, forestry",2014-08-01,2,NA
+"Agriculture, forestry",2014-09-01,4,NA
+"Agriculture, forestry",2014-10-01,6,NA
+"Agriculture, forestry",2014-11-01,5,NA
+"Agriculture, forestry",2014-12-01,2,NA
+"Agriculture, forestry",2015-01-01,7,NA
+"Agriculture, forestry",2015-02-01,1,NA
+"Agriculture, forestry",2015-03-01,2,NA
+"Agriculture, forestry",2015-04-01,6,NA
+"Agriculture, forestry",2015-05-01,2,NA
+"Agriculture, forestry",2015-06-01,1,NA
+"Agriculture, forestry",2015-07-01,5,NA
+"Agriculture, forestry",2015-08-01,1,NA
+"Agriculture, forestry",2015-09-01,5,NA
+"Agriculture, forestry",2015-10-01,4,NA
+"Agriculture, forestry",2015-11-01,5,NA
+"Agriculture, forestry",2015-12-01,4,NA
+"Agriculture, forestry",2016-01-01,3,NA
+"Agriculture, forestry",2016-02-01,11,NA
+"Agriculture, forestry",2016-03-01,8,NA
+"Agriculture, forestry",2016-04-01,6,NA
+"Agriculture, forestry",2016-05-01,0,NA
+"Agriculture, forestry",2016-06-01,3,NA
+"Agriculture, forestry",2016-07-01,3,NA
+"Agriculture, forestry",2016-08-01,1,NA
+"Agriculture, forestry",2016-09-01,3,NA
+"Agriculture, forestry",2016-10-01,8,NA
+"Agriculture, forestry",2016-11-01,7,NA
+"Agriculture, forestry",2016-12-01,9,NA
+"Agriculture, forestry",2017-01-01,4,NA
+"Agriculture, forestry",2017-02-01,2,NA
+"Agriculture, forestry",2017-03-01,6,NA
+"Agriculture, forestry",2017-04-01,7,NA
+"Agriculture, forestry",2017-05-01,7,NA
+"Agriculture, forestry",2017-06-01,2,NA
+"Agriculture, forestry",2017-07-01,2,NA
+"Agriculture, forestry",2017-08-01,7,NA
+"Agriculture, forestry",2017-09-01,3,NA
+"Agriculture, forestry",2017-10-01,1,NA
+"Agriculture, forestry",2017-11-01,3,NA
+"Agriculture, forestry",2017-12-01,5,NA
+"Agriculture, forestry",2018-01-01,5,NA
+"Agriculture, forestry",2018-02-01,3,NA
+"Agriculture, forestry",2018-03-01,4,NA
+"Agriculture, forestry",2018-04-01,4,NA
+"Agriculture, forestry",2018-05-01,7,NA
+"Agriculture, forestry",2018-06-01,5,NA
+"Agriculture, forestry",2018-07-01,2,NA
+"Agriculture, forestry",2018-08-01,3,NA
+"Agriculture, forestry",2018-09-01,4,NA
+"Agriculture, forestry",2018-10-01,2,NA
+"Agriculture, forestry",2018-11-01,2,NA
+"Agriculture, forestry",2018-12-01,5,NA
+"Agriculture, forestry",2019-01-01,10,NA
+"Agriculture, forestry",2019-02-01,3,NA
+"Agriculture, forestry",2019-03-01,5,NA
+"Agriculture, forestry",2019-04-01,4,NA
+"Agriculture, forestry",2019-05-01,3,NA
+"Agriculture, forestry",2019-06-01,1,NA
+"Agriculture, forestry",2019-07-01,0,NA
+"Agriculture, forestry",2019-08-01,5,NA
+"Agriculture, forestry",2019-09-01,2,NA
+"Agriculture, forestry",2019-10-01,7,NA
+"Agriculture, forestry",2019-11-01,4,NA
+"Agriculture, forestry",2019-12-01,2,NA
+"Agriculture, forestry",2020-01-01,5,NA
+"Agriculture, forestry",2020-02-01,1,NA
+"Agriculture, forestry",2020-03-01,5,NA
+"Agriculture, forestry",2020-04-01,0,NA
+"Agriculture, forestry",2020-05-01,4,NA
+"Agriculture, forestry",2020-06-01,7,NA
+"Agriculture, forestry",2020-07-01,4,NA
+"Agriculture, forestry",2020-08-01,3,NA
+"Agriculture, forestry",2020-09-01,6,NA
+"Agriculture, forestry",2020-10-01,2,NA
+"Agriculture, forestry",2020-11-01,4,NA
+"Agriculture, forestry",2020-12-01,3,NA
+"Agriculture, forestry",2021-01-01,5,NA
+"Agriculture, forestry",2021-02-01,2,NA
+"Agriculture, forestry",2021-03-01,4,NA
+"Agriculture, forestry",2021-04-01,4,NA
+"Agriculture, forestry",2021-05-01,3,NA
+"Agriculture, forestry",2021-06-01,2,NA
+"Agriculture, forestry",2021-07-01,4,NA
+"Agriculture, forestry",2021-08-01,5,NA
+"Agriculture, forestry",2021-09-01,1,NA
+"Agriculture, forestry",2021-10-01,4,NA
+"Agriculture, forestry",2021-11-01,5,NA
+"Agriculture, forestry",2021-12-01,3,NA
+"Agriculture, forestry",2022-01-01,5,NA
+"Agriculture, forestry",2022-02-01,17,NA
+"Agriculture, forestry",2022-03-01,6,NA
+"Agriculture, forestry",2022-04-01,7,NA
+"Agriculture, forestry",2022-05-01,6,NA
+"Agriculture, forestry",2022-06-01,2,NA
+"Agriculture, forestry",2022-07-01,3,NA
+"Agriculture, forestry",2022-08-01,5,NA
+"Agriculture, forestry",2022-09-01,1,NA
+"Agriculture, forestry",2022-10-01,2,NA
+"Agriculture, forestry",2022-11-01,3,NA
+"Agriculture, forestry",2022-12-01,5,NA
+"Agriculture, forestry",2023-01-01,13,NA
+"Agriculture, forestry",2023-02-01,4,NA
+"Agriculture, forestry",2023-03-01,6,NA
+"Agriculture, forestry",2023-04-01,4,NA
+"Agriculture, forestry",2023-05-01,5,NA
+"Agriculture, forestry",2023-06-01,3,NA
+"Agriculture, forestry",2023-07-01,6,NA
+"Agriculture, forestry",2023-08-01,3,NA
+"Agriculture, forestry",2023-09-01,4,NA
+"Agriculture, forestry",2023-10-01,2,NA
+"Agriculture, forestry",2023-11-01,4,NA
+"Agriculture, forestry",2023-12-01,9,NA
+"Agriculture, forestry",2024-01-01,7,NA
+"Agriculture, forestry",2024-02-01,8,NA
+"Agriculture, forestry",2024-03-01,9,NA
+"Agriculture, forestry",2024-04-01,8,NA
+"Agriculture, forestry",2024-05-01,5,NA
+"Agriculture, forestry",2024-06-01,7,NA
+"Agriculture, forestry",2024-07-01,5,NA
+"Agriculture, forestry",2024-08-01,4,NA
+"Agriculture, forestry",2024-09-01,4,NA
+"Agriculture, forestry",2024-10-01,4,NA
+"Agriculture, forestry",2024-11-01,6,NA
+"Agriculture, forestry",2024-12-01,7,NA
+"Agriculture, forestry",2025-01-01,4,NA
+"Agriculture, forestry",2025-02-01,6,NA
+"Agriculture, forestry",2025-03-01,3,NA
+"Agriculture, forestry",2025-04-01,8,NA
+"Agriculture, forestry",2025-05-01,9,NA
+"Mining, oil and gas",2011-01-01,7,NA
+"Mining, oil and gas",2011-02-01,0,NA
+"Mining, oil and gas",2011-03-01,1,NA
+"Mining, oil and gas",2011-04-01,3,NA
+"Mining, oil and gas",2011-05-01,2,NA
+"Mining, oil and gas",2011-06-01,1,NA
+"Mining, oil and gas",2011-07-01,1,NA
+"Mining, oil and gas",2011-08-01,1,NA
+"Mining, oil and gas",2011-09-01,1,NA
+"Mining, oil and gas",2011-10-01,1,NA
+"Mining, oil and gas",2011-11-01,1,NA
+"Mining, oil and gas",2011-12-01,1,NA
+"Mining, oil and gas",2012-01-01,1,NA
+"Mining, oil and gas",2012-02-01,0,NA
+"Mining, oil and gas",2012-03-01,0,NA
+"Mining, oil and gas",2012-04-01,3,NA
+"Mining, oil and gas",2012-05-01,2,NA
+"Mining, oil and gas",2012-06-01,2,NA
+"Mining, oil and gas",2012-07-01,6,NA
+"Mining, oil and gas",2012-08-01,2,NA
+"Mining, oil and gas",2012-09-01,4,NA
+"Mining, oil and gas",2012-10-01,0,NA
+"Mining, oil and gas",2012-11-01,2,NA
+"Mining, oil and gas",2012-12-01,5,NA
+"Mining, oil and gas",2013-01-01,0,NA
+"Mining, oil and gas",2013-02-01,0,NA
+"Mining, oil and gas",2013-03-01,2,NA
+"Mining, oil and gas",2013-04-01,4,NA
+"Mining, oil and gas",2013-05-01,3,NA
+"Mining, oil and gas",2013-06-01,1,NA
+"Mining, oil and gas",2013-07-01,0,NA
+"Mining, oil and gas",2013-08-01,0,NA
+"Mining, oil and gas",2013-09-01,1,NA
+"Mining, oil and gas",2013-10-01,2,NA
+"Mining, oil and gas",2013-11-01,0,NA
+"Mining, oil and gas",2013-12-01,2,NA
+"Mining, oil and gas",2014-01-01,2,NA
+"Mining, oil and gas",2014-02-01,3,NA
+"Mining, oil and gas",2014-03-01,3,NA
+"Mining, oil and gas",2014-04-01,4,NA
+"Mining, oil and gas",2014-05-01,1,NA
+"Mining, oil and gas",2014-06-01,0,NA
+"Mining, oil and gas",2014-07-01,0,NA
+"Mining, oil and gas",2014-08-01,1,NA
+"Mining, oil and gas",2014-09-01,2,NA
+"Mining, oil and gas",2014-10-01,2,NA
+"Mining, oil and gas",2014-11-01,1,NA
+"Mining, oil and gas",2014-12-01,1,NA
+"Mining, oil and gas",2015-01-01,1,NA
+"Mining, oil and gas",2015-02-01,1,NA
+"Mining, oil and gas",2015-03-01,2,NA
+"Mining, oil and gas",2015-04-01,5,NA
+"Mining, oil and gas",2015-05-01,2,NA
+"Mining, oil and gas",2015-06-01,3,NA
+"Mining, oil and gas",2015-07-01,0,NA
+"Mining, oil and gas",2015-08-01,1,NA
+"Mining, oil and gas",2015-09-01,5,NA
+"Mining, oil and gas",2015-10-01,1,NA
+"Mining, oil and gas",2015-11-01,4,NA
+"Mining, oil and gas",2015-12-01,6,NA
+"Mining, oil and gas",2016-01-01,3,NA
+"Mining, oil and gas",2016-02-01,3,NA
+"Mining, oil and gas",2016-03-01,1,NA
+"Mining, oil and gas",2016-04-01,1,NA
+"Mining, oil and gas",2016-05-01,1,NA
+"Mining, oil and gas",2016-06-01,7,NA
+"Mining, oil and gas",2016-07-01,4,NA
+"Mining, oil and gas",2016-08-01,1,NA
+"Mining, oil and gas",2016-09-01,2,NA
+"Mining, oil and gas",2016-10-01,10,NA
+"Mining, oil and gas",2016-11-01,4,NA
+"Mining, oil and gas",2016-12-01,13,NA
+"Mining, oil and gas",2017-01-01,0,NA
+"Mining, oil and gas",2017-02-01,2,NA
+"Mining, oil and gas",2017-03-01,1,NA
+"Mining, oil and gas",2017-04-01,5,NA
+"Mining, oil and gas",2017-05-01,4,NA
+"Mining, oil and gas",2017-06-01,2,NA
+"Mining, oil and gas",2017-07-01,1,NA
+"Mining, oil and gas",2017-08-01,3,NA
+"Mining, oil and gas",2017-09-01,1,NA
+"Mining, oil and gas",2017-10-01,3,NA
+"Mining, oil and gas",2017-11-01,5,NA
+"Mining, oil and gas",2017-12-01,3,NA
+"Mining, oil and gas",2018-01-01,0,NA
+"Mining, oil and gas",2018-02-01,0,NA
+"Mining, oil and gas",2018-03-01,1,NA
+"Mining, oil and gas",2018-04-01,3,NA
+"Mining, oil and gas",2018-05-01,1,NA
+"Mining, oil and gas",2018-06-01,1,NA
+"Mining, oil and gas",2018-07-01,0,NA
+"Mining, oil and gas",2018-08-01,1,NA
+"Mining, oil and gas",2018-09-01,0,NA
+"Mining, oil and gas",2018-10-01,0,NA
+"Mining, oil and gas",2018-11-01,3,NA
+"Mining, oil and gas",2018-12-01,5,NA
+"Mining, oil and gas",2019-01-01,1,NA
+"Mining, oil and gas",2019-02-01,1,NA
+"Mining, oil and gas",2019-03-01,7,NA
+"Mining, oil and gas",2019-04-01,0,NA
+"Mining, oil and gas",2019-05-01,1,NA
+"Mining, oil and gas",2019-06-01,5,NA
+"Mining, oil and gas",2019-07-01,4,NA
+"Mining, oil and gas",2019-08-01,1,NA
+"Mining, oil and gas",2019-09-01,1,NA
+"Mining, oil and gas",2019-10-01,0,NA
+"Mining, oil and gas",2019-11-01,2,NA
+"Mining, oil and gas",2019-12-01,2,NA
+"Mining, oil and gas",2020-01-01,1,NA
+"Mining, oil and gas",2020-02-01,2,NA
+"Mining, oil and gas",2020-03-01,2,NA
+"Mining, oil and gas",2020-04-01,0,NA
+"Mining, oil and gas",2020-05-01,2,NA
+"Mining, oil and gas",2020-06-01,0,NA
+"Mining, oil and gas",2020-07-01,0,NA
+"Mining, oil and gas",2020-08-01,3,NA
+"Mining, oil and gas",2020-09-01,2,NA
+"Mining, oil and gas",2020-10-01,8,NA
+"Mining, oil and gas",2020-11-01,3,NA
+"Mining, oil and gas",2020-12-01,2,NA
+"Mining, oil and gas",2021-01-01,2,NA
+"Mining, oil and gas",2021-02-01,2,NA
+"Mining, oil and gas",2021-03-01,3,NA
+"Mining, oil and gas",2021-04-01,3,NA
+"Mining, oil and gas",2021-05-01,7,NA
+"Mining, oil and gas",2021-06-01,4,NA
+"Mining, oil and gas",2021-07-01,4,NA
+"Mining, oil and gas",2021-08-01,3,NA
+"Mining, oil and gas",2021-09-01,0,NA
+"Mining, oil and gas",2021-10-01,0,NA
+"Mining, oil and gas",2021-11-01,0,NA
+"Mining, oil and gas",2021-12-01,0,NA
+"Mining, oil and gas",2022-01-01,4,NA
+"Mining, oil and gas",2022-02-01,2,NA
+"Mining, oil and gas",2022-03-01,1,NA
+"Mining, oil and gas",2022-04-01,1,NA
+"Mining, oil and gas",2022-05-01,1,NA
+"Mining, oil and gas",2022-06-01,2,NA
+"Mining, oil and gas",2022-07-01,2,NA
+"Mining, oil and gas",2022-08-01,2,NA
+"Mining, oil and gas",2022-09-01,3,NA
+"Mining, oil and gas",2022-10-01,1,NA
+"Mining, oil and gas",2022-11-01,3,NA
+"Mining, oil and gas",2022-12-01,1,NA
+"Mining, oil and gas",2023-01-01,1,NA
+"Mining, oil and gas",2023-02-01,3,NA
+"Mining, oil and gas",2023-03-01,1,NA
+"Mining, oil and gas",2023-04-01,2,NA
+"Mining, oil and gas",2023-05-01,1,NA
+"Mining, oil and gas",2023-06-01,1,NA
+"Mining, oil and gas",2023-07-01,2,NA
+"Mining, oil and gas",2023-08-01,4,NA
+"Mining, oil and gas",2023-09-01,6,NA
+"Mining, oil and gas",2023-10-01,0,NA
+"Mining, oil and gas",2023-11-01,2,NA
+"Mining, oil and gas",2023-12-01,1,NA
+"Mining, oil and gas",2024-01-01,3,NA
+"Mining, oil and gas",2024-02-01,1,NA
+"Mining, oil and gas",2024-03-01,2,NA
+"Mining, oil and gas",2024-04-01,1,NA
+"Mining, oil and gas",2024-05-01,3,NA
+"Mining, oil and gas",2024-06-01,0,NA
+"Mining, oil and gas",2024-07-01,0,NA
+"Mining, oil and gas",2024-08-01,0,NA
+"Mining, oil and gas",2024-09-01,1,NA
+"Mining, oil and gas",2024-10-01,2,NA
+"Mining, oil and gas",2024-11-01,1,NA
+"Mining, oil and gas",2024-12-01,2,NA
+"Mining, oil and gas",2025-01-01,4,NA
+"Mining, oil and gas",2025-02-01,1,NA
+"Mining, oil and gas",2025-03-01,7,NA
+"Mining, oil and gas",2025-04-01,2,NA
+"Mining, oil and gas",2025-05-01,1,NA
+"Utilities",2011-01-01,0,NA
+"Utilities",2011-02-01,0,NA
+"Utilities",2011-03-01,2,NA
+"Utilities",2011-04-01,1,NA
+"Utilities",2011-05-01,1,NA
+"Utilities",2011-06-01,1,NA
+"Utilities",2011-07-01,1,NA
+"Utilities",2011-08-01,1,NA
+"Utilities",2011-09-01,0,NA
+"Utilities",2011-10-01,1,NA
+"Utilities",2011-11-01,2,NA
+"Utilities",2011-12-01,0,NA
+"Utilities",2012-01-01,2,NA
+"Utilities",2012-02-01,0,NA
+"Utilities",2012-03-01,1,NA
+"Utilities",2012-04-01,2,NA
+"Utilities",2012-05-01,1,NA
+"Utilities",2012-06-01,2,NA
+"Utilities",2012-07-01,1,NA
+"Utilities",2012-08-01,0,NA
+"Utilities",2012-09-01,0,NA
+"Utilities",2012-10-01,2,NA
+"Utilities",2012-11-01,0,NA
+"Utilities",2012-12-01,0,NA
+"Utilities",2013-01-01,0,NA
+"Utilities",2013-02-01,3,NA
+"Utilities",2013-03-01,0,NA
+"Utilities",2013-04-01,0,NA
+"Utilities",2013-05-01,0,NA
+"Utilities",2013-06-01,0,NA
+"Utilities",2013-07-01,0,NA
+"Utilities",2013-08-01,0,NA
+"Utilities",2013-09-01,0,NA
+"Utilities",2013-10-01,0,NA
+"Utilities",2013-11-01,0,NA
+"Utilities",2013-12-01,2,NA
+"Utilities",2014-01-01,1,NA
+"Utilities",2014-02-01,0,NA
+"Utilities",2014-03-01,3,NA
+"Utilities",2014-04-01,0,NA
+"Utilities",2014-05-01,0,NA
+"Utilities",2014-06-01,0,NA
+"Utilities",2014-07-01,2,NA
+"Utilities",2014-08-01,1,NA
+"Utilities",2014-09-01,2,NA
+"Utilities",2014-10-01,0,NA
+"Utilities",2014-11-01,0,NA
+"Utilities",2014-12-01,0,NA
+"Utilities",2015-01-01,0,NA
+"Utilities",2015-02-01,1,NA
+"Utilities",2015-03-01,0,NA
+"Utilities",2015-04-01,2,NA
+"Utilities",2015-05-01,1,NA
+"Utilities",2015-06-01,1,NA
+"Utilities",2015-07-01,2,NA
+"Utilities",2015-08-01,0,NA
+"Utilities",2015-09-01,2,NA
+"Utilities",2015-10-01,0,NA
+"Utilities",2015-11-01,1,NA
+"Utilities",2015-12-01,0,NA
+"Utilities",2016-01-01,0,NA
+"Utilities",2016-02-01,0,NA
+"Utilities",2016-03-01,0,NA
+"Utilities",2016-04-01,0,NA
+"Utilities",2016-05-01,0,NA
+"Utilities",2016-06-01,0,NA
+"Utilities",2016-07-01,0,NA
+"Utilities",2016-08-01,0,NA
+"Utilities",2016-09-01,1,NA
+"Utilities",2016-10-01,0,NA
+"Utilities",2016-11-01,1,NA
+"Utilities",2016-12-01,1,NA
+"Utilities",2017-01-01,1,NA
+"Utilities",2017-02-01,0,NA
+"Utilities",2017-03-01,1,NA
+"Utilities",2017-04-01,1,NA
+"Utilities",2017-05-01,0,NA
+"Utilities",2017-06-01,0,NA
+"Utilities",2017-07-01,1,NA
+"Utilities",2017-08-01,0,NA
+"Utilities",2017-09-01,0,NA
+"Utilities",2017-10-01,1,NA
+"Utilities",2017-11-01,0,NA
+"Utilities",2017-12-01,1,NA
+"Utilities",2018-01-01,0,NA
+"Utilities",2018-02-01,3,NA
+"Utilities",2018-03-01,0,NA
+"Utilities",2018-04-01,1,NA
+"Utilities",2018-05-01,0,NA
+"Utilities",2018-06-01,0,NA
+"Utilities",2018-07-01,0,NA
+"Utilities",2018-08-01,0,NA
+"Utilities",2018-09-01,0,NA
+"Utilities",2018-10-01,0,NA
+"Utilities",2018-11-01,0,NA
+"Utilities",2018-12-01,1,NA
+"Utilities",2019-01-01,0,NA
+"Utilities",2019-02-01,0,NA
+"Utilities",2019-03-01,0,NA
+"Utilities",2019-04-01,0,NA
+"Utilities",2019-05-01,1,NA
+"Utilities",2019-06-01,0,NA
+"Utilities",2019-07-01,0,NA
+"Utilities",2019-08-01,1,NA
+"Utilities",2019-09-01,2,NA
+"Utilities",2019-10-01,0,NA
+"Utilities",2019-11-01,0,NA
+"Utilities",2019-12-01,0,NA
+"Utilities",2020-01-01,0,NA
+"Utilities",2020-02-01,0,NA
+"Utilities",2020-03-01,2,NA
+"Utilities",2020-04-01,0,NA
+"Utilities",2020-05-01,1,NA
+"Utilities",2020-06-01,0,NA
+"Utilities",2020-07-01,0,NA
+"Utilities",2020-08-01,1,NA
+"Utilities",2020-09-01,0,NA
+"Utilities",2020-10-01,1,NA
+"Utilities",2020-11-01,0,NA
+"Utilities",2020-12-01,0,NA
+"Utilities",2021-01-01,0,NA
+"Utilities",2021-02-01,0,NA
+"Utilities",2021-03-01,0,NA
+"Utilities",2021-04-01,0,NA
+"Utilities",2021-05-01,0,NA
+"Utilities",2021-06-01,0,NA
+"Utilities",2021-07-01,0,NA
+"Utilities",2021-08-01,0,NA
+"Utilities",2021-09-01,0,NA
+"Utilities",2021-10-01,0,NA
+"Utilities",2021-11-01,1,NA
+"Utilities",2021-12-01,0,NA
+"Utilities",2022-01-01,0,NA
+"Utilities",2022-02-01,1,NA
+"Utilities",2022-03-01,0,NA
+"Utilities",2022-04-01,1,NA
+"Utilities",2022-05-01,0,NA
+"Utilities",2022-06-01,2,NA
+"Utilities",2022-07-01,0,NA
+"Utilities",2022-08-01,0,NA
+"Utilities",2022-09-01,0,NA
+"Utilities",2022-10-01,0,NA
+"Utilities",2022-11-01,0,NA
+"Utilities",2022-12-01,0,NA
+"Utilities",2023-01-01,1,NA
+"Utilities",2023-02-01,0,NA
+"Utilities",2023-03-01,0,NA
+"Utilities",2023-04-01,0,NA
+"Utilities",2023-05-01,1,NA
+"Utilities",2023-06-01,1,NA
+"Utilities",2023-07-01,0,NA
+"Utilities",2023-08-01,0,NA
+"Utilities",2023-09-01,0,NA
+"Utilities",2023-10-01,2,NA
+"Utilities",2023-11-01,0,NA
+"Utilities",2023-12-01,2,NA
+"Utilities",2024-01-01,1,NA
+"Utilities",2024-02-01,0,NA
+"Utilities",2024-03-01,0,NA
+"Utilities",2024-04-01,1,NA
+"Utilities",2024-05-01,1,NA
+"Utilities",2024-06-01,0,NA
+"Utilities",2024-07-01,0,NA
+"Utilities",2024-08-01,2,NA
+"Utilities",2024-09-01,0,NA
+"Utilities",2024-10-01,1,NA
+"Utilities",2024-11-01,1,NA
+"Utilities",2024-12-01,2,NA
+"Utilities",2025-01-01,0,NA
+"Utilities",2025-02-01,6,NA
+"Utilities",2025-03-01,0,NA
+"Utilities",2025-04-01,2,NA
+"Utilities",2025-05-01,1,NA
+"Construction",2011-01-01,46,NA
+"Construction",2011-02-01,62,NA
+"Construction",2011-03-01,75,NA
+"Construction",2011-04-01,45,NA
+"Construction",2011-05-01,58,NA
+"Construction",2011-06-01,62,NA
+"Construction",2011-07-01,36,NA
+"Construction",2011-08-01,46,NA
+"Construction",2011-09-01,53,NA
+"Construction",2011-10-01,55,NA
+"Construction",2011-11-01,36,NA
+"Construction",2011-12-01,46,NA
+"Construction",2012-01-01,55,NA
+"Construction",2012-02-01,48,NA
+"Construction",2012-03-01,69,NA
+"Construction",2012-04-01,52,NA
+"Construction",2012-05-01,55,NA
+"Construction",2012-06-01,56,NA
+"Construction",2012-07-01,50,NA
+"Construction",2012-08-01,41,NA
+"Construction",2012-09-01,42,NA
+"Construction",2012-10-01,49,NA
+"Construction",2012-11-01,52,NA
+"Construction",2012-12-01,38,NA
+"Construction",2013-01-01,38,NA
+"Construction",2013-02-01,57,NA
+"Construction",2013-03-01,57,NA
+"Construction",2013-04-01,45,NA
+"Construction",2013-05-01,50,NA
+"Construction",2013-06-01,42,NA
+"Construction",2013-07-01,46,NA
+"Construction",2013-08-01,50,NA
+"Construction",2013-09-01,44,NA
+"Construction",2013-10-01,43,NA
+"Construction",2013-11-01,41,NA
+"Construction",2013-12-01,51,NA
+"Construction",2014-01-01,50,NA
+"Construction",2014-02-01,45,NA
+"Construction",2014-03-01,44,NA
+"Construction",2014-04-01,49,NA
+"Construction",2014-05-01,56,NA
+"Construction",2014-06-01,48,NA
+"Construction",2014-07-01,44,NA
+"Construction",2014-08-01,35,NA
+"Construction",2014-09-01,37,NA
+"Construction",2014-10-01,43,NA
+"Construction",2014-11-01,37,NA
+"Construction",2014-12-01,42,NA
+"Construction",2015-01-01,38,NA
+"Construction",2015-02-01,45,NA
+"Construction",2015-03-01,58,NA
+"Construction",2015-04-01,56,NA
+"Construction",2015-05-01,38,NA
+"Construction",2015-06-01,54,NA
+"Construction",2015-07-01,44,NA
+"Construction",2015-08-01,32,NA
+"Construction",2015-09-01,57,NA
+"Construction",2015-10-01,49,NA
+"Construction",2015-11-01,54,NA
+"Construction",2015-12-01,47,NA
+"Construction",2016-01-01,40,NA
+"Construction",2016-02-01,48,NA
+"Construction",2016-03-01,56,NA
+"Construction",2016-04-01,53,NA
+"Construction",2016-05-01,44,NA
+"Construction",2016-06-01,33,NA
+"Construction",2016-07-01,42,NA
+"Construction",2016-08-01,36,NA
+"Construction",2016-09-01,44,NA
+"Construction",2016-10-01,44,NA
+"Construction",2016-11-01,35,NA
+"Construction",2016-12-01,45,NA
+"Construction",2017-01-01,34,NA
+"Construction",2017-02-01,36,NA
+"Construction",2017-03-01,47,NA
+"Construction",2017-04-01,33,NA
+"Construction",2017-05-01,55,NA
+"Construction",2017-06-01,47,NA
+"Construction",2017-07-01,26,NA
+"Construction",2017-08-01,43,NA
+"Construction",2017-09-01,36,NA
+"Construction",2017-10-01,50,NA
+"Construction",2017-11-01,28,NA
+"Construction",2017-12-01,44,NA
+"Construction",2018-01-01,42,NA
+"Construction",2018-02-01,48,NA
+"Construction",2018-03-01,49,NA
+"Construction",2018-04-01,48,NA
+"Construction",2018-05-01,51,NA
+"Construction",2018-06-01,32,NA
+"Construction",2018-07-01,38,NA
+"Construction",2018-08-01,35,NA
+"Construction",2018-09-01,45,NA
+"Construction",2018-10-01,49,NA
+"Construction",2018-11-01,44,NA
+"Construction",2018-12-01,46,NA
+"Construction",2019-01-01,34,NA
+"Construction",2019-02-01,48,NA
+"Construction",2019-03-01,61,NA
+"Construction",2019-04-01,50,NA
+"Construction",2019-05-01,51,NA
+"Construction",2019-06-01,29,NA
+"Construction",2019-07-01,52,NA
+"Construction",2019-08-01,36,NA
+"Construction",2019-09-01,33,NA
+"Construction",2019-10-01,38,NA
+"Construction",2019-11-01,41,NA
+"Construction",2019-12-01,26,NA
+"Construction",2020-01-01,23,NA
+"Construction",2020-02-01,48,NA
+"Construction",2020-03-01,27,NA
+"Construction",2020-04-01,12,NA
+"Construction",2020-05-01,8,NA
+"Construction",2020-06-01,25,NA
+"Construction",2020-07-01,16,NA
+"Construction",2020-08-01,16,NA
+"Construction",2020-09-01,19,NA
+"Construction",2020-10-01,24,NA
+"Construction",2020-11-01,23,NA
+"Construction",2020-12-01,17,NA
+"Construction",2021-01-01,23,NA
+"Construction",2021-02-01,25,NA
+"Construction",2021-03-01,13,NA
+"Construction",2021-04-01,13,NA
+"Construction",2021-05-01,26,NA
+"Construction",2021-06-01,30,NA
+"Construction",2021-07-01,12,NA
+"Construction",2021-08-01,21,NA
+"Construction",2021-09-01,20,NA
+"Construction",2021-10-01,30,NA
+"Construction",2021-11-01,24,NA
+"Construction",2021-12-01,25,NA
+"Construction",2022-01-01,23,NA
+"Construction",2022-02-01,21,NA
+"Construction",2022-03-01,40,NA
+"Construction",2022-04-01,32,NA
+"Construction",2022-05-01,22,NA
+"Construction",2022-06-01,39,NA
+"Construction",2022-07-01,17,NA
+"Construction",2022-08-01,29,NA
+"Construction",2022-09-01,24,NA
+"Construction",2022-10-01,36,NA
+"Construction",2022-11-01,41,NA
+"Construction",2022-12-01,33,NA
+"Construction",2023-01-01,31,NA
+"Construction",2023-02-01,26,NA
+"Construction",2023-03-01,46,NA
+"Construction",2023-04-01,42,NA
+"Construction",2023-05-01,31,NA
+"Construction",2023-06-01,45,NA
+"Construction",2023-07-01,28,NA
+"Construction",2023-08-01,48,NA
+"Construction",2023-09-01,44,NA
+"Construction",2023-10-01,58,NA
+"Construction",2023-11-01,46,NA
+"Construction",2023-12-01,55,NA
+"Construction",2024-01-01,56,NA
+"Construction",2024-02-01,70,NA
+"Construction",2024-03-01,57,NA
+"Construction",2024-04-01,54,NA
+"Construction",2024-05-01,68,NA
+"Construction",2024-06-01,44,NA
+"Construction",2024-07-01,47,NA
+"Construction",2024-08-01,45,NA
+"Construction",2024-09-01,50,NA
+"Construction",2024-10-01,57,NA
+"Construction",2024-11-01,58,NA
+"Construction",2024-12-01,32,NA
+"Construction",2025-01-01,35,NA
+"Construction",2025-02-01,57,NA
+"Construction",2025-03-01,56,NA
+"Construction",2025-04-01,60,NA
+"Construction",2025-05-01,51,NA
+"Manufacturing",2011-01-01,27,NA
+"Manufacturing",2011-02-01,21,NA
+"Manufacturing",2011-03-01,37,NA
+"Manufacturing",2011-04-01,44,NA
+"Manufacturing",2011-05-01,29,NA
+"Manufacturing",2011-06-01,29,NA
+"Manufacturing",2011-07-01,37,NA
+"Manufacturing",2011-08-01,30,NA
+"Manufacturing",2011-09-01,23,NA
+"Manufacturing",2011-10-01,49,NA
+"Manufacturing",2011-11-01,27,NA
+"Manufacturing",2011-12-01,40,NA
+"Manufacturing",2012-01-01,31,NA
+"Manufacturing",2012-02-01,31,NA
+"Manufacturing",2012-03-01,26,NA
+"Manufacturing",2012-04-01,30,NA
+"Manufacturing",2012-05-01,23,NA
+"Manufacturing",2012-06-01,17,NA
+"Manufacturing",2012-07-01,26,NA
+"Manufacturing",2012-08-01,17,NA
+"Manufacturing",2012-09-01,25,NA
+"Manufacturing",2012-10-01,29,NA
+"Manufacturing",2012-11-01,30,NA
+"Manufacturing",2012-12-01,23,NA
+"Manufacturing",2013-01-01,22,NA
+"Manufacturing",2013-02-01,22,NA
+"Manufacturing",2013-03-01,24,NA
+"Manufacturing",2013-04-01,31,NA
+"Manufacturing",2013-05-01,24,NA
+"Manufacturing",2013-06-01,21,NA
+"Manufacturing",2013-07-01,21,NA
+"Manufacturing",2013-08-01,24,NA
+"Manufacturing",2013-09-01,27,NA
+"Manufacturing",2013-10-01,32,NA
+"Manufacturing",2013-11-01,22,NA
+"Manufacturing",2013-12-01,25,NA
+"Manufacturing",2014-01-01,24,NA
+"Manufacturing",2014-02-01,21,NA
+"Manufacturing",2014-03-01,22,NA
+"Manufacturing",2014-04-01,21,NA
+"Manufacturing",2014-05-01,27,NA
+"Manufacturing",2014-06-01,25,NA
+"Manufacturing",2014-07-01,23,NA
+"Manufacturing",2014-08-01,18,NA
+"Manufacturing",2014-09-01,25,NA
+"Manufacturing",2014-10-01,24,NA
+"Manufacturing",2014-11-01,18,NA
+"Manufacturing",2014-12-01,28,NA
+"Manufacturing",2015-01-01,9,NA
+"Manufacturing",2015-02-01,28,NA
+"Manufacturing",2015-03-01,25,NA
+"Manufacturing",2015-04-01,27,NA
+"Manufacturing",2015-05-01,23,NA
+"Manufacturing",2015-06-01,18,NA
+"Manufacturing",2015-07-01,16,NA
+"Manufacturing",2015-08-01,18,NA
+"Manufacturing",2015-09-01,29,NA
+"Manufacturing",2015-10-01,26,NA
+"Manufacturing",2015-11-01,23,NA
+"Manufacturing",2015-12-01,25,NA
+"Manufacturing",2016-01-01,22,NA
+"Manufacturing",2016-02-01,24,NA
+"Manufacturing",2016-03-01,21,NA
+"Manufacturing",2016-04-01,17,NA
+"Manufacturing",2016-05-01,23,NA
+"Manufacturing",2016-06-01,17,NA
+"Manufacturing",2016-07-01,12,NA
+"Manufacturing",2016-08-01,17,NA
+"Manufacturing",2016-09-01,16,NA
+"Manufacturing",2016-10-01,17,NA
+"Manufacturing",2016-11-01,17,NA
+"Manufacturing",2016-12-01,13,NA
+"Manufacturing",2017-01-01,14,NA
+"Manufacturing",2017-02-01,23,NA
+"Manufacturing",2017-03-01,23,NA
+"Manufacturing",2017-04-01,29,NA
+"Manufacturing",2017-05-01,20,NA
+"Manufacturing",2017-06-01,23,NA
+"Manufacturing",2017-07-01,15,NA
+"Manufacturing",2017-08-01,18,NA
+"Manufacturing",2017-09-01,12,NA
+"Manufacturing",2017-10-01,26,NA
+"Manufacturing",2017-11-01,20,NA
+"Manufacturing",2017-12-01,15,NA
+"Manufacturing",2018-01-01,10,NA
+"Manufacturing",2018-02-01,12,NA
+"Manufacturing",2018-03-01,22,NA
+"Manufacturing",2018-04-01,21,NA
+"Manufacturing",2018-05-01,14,NA
+"Manufacturing",2018-06-01,15,NA
+"Manufacturing",2018-07-01,19,NA
+"Manufacturing",2018-08-01,23,NA
+"Manufacturing",2018-09-01,20,NA
+"Manufacturing",2018-10-01,16,NA
+"Manufacturing",2018-11-01,20,NA
+"Manufacturing",2018-12-01,21,NA
+"Manufacturing",2019-01-01,16,NA
+"Manufacturing",2019-02-01,17,NA
+"Manufacturing",2019-03-01,21,NA
+"Manufacturing",2019-04-01,25,NA
+"Manufacturing",2019-05-01,25,NA
+"Manufacturing",2019-06-01,21,NA
+"Manufacturing",2019-07-01,22,NA
+"Manufacturing",2019-08-01,16,NA
+"Manufacturing",2019-09-01,16,NA
+"Manufacturing",2019-10-01,18,NA
+"Manufacturing",2019-11-01,19,NA
+"Manufacturing",2019-12-01,27,NA
+"Manufacturing",2020-01-01,13,NA
+"Manufacturing",2020-02-01,21,NA
+"Manufacturing",2020-03-01,15,NA
+"Manufacturing",2020-04-01,12,NA
+"Manufacturing",2020-05-01,15,NA
+"Manufacturing",2020-06-01,16,NA
+"Manufacturing",2020-07-01,11,NA
+"Manufacturing",2020-08-01,9,NA
+"Manufacturing",2020-09-01,18,NA
+"Manufacturing",2020-10-01,9,NA
+"Manufacturing",2020-11-01,12,NA
+"Manufacturing",2020-12-01,14,NA
+"Manufacturing",2021-01-01,9,NA
+"Manufacturing",2021-02-01,18,NA
+"Manufacturing",2021-03-01,13,NA
+"Manufacturing",2021-04-01,13,NA
+"Manufacturing",2021-05-01,13,NA
+"Manufacturing",2021-06-01,10,NA
+"Manufacturing",2021-07-01,17,NA
+"Manufacturing",2021-08-01,19,NA
+"Manufacturing",2021-09-01,9,NA
+"Manufacturing",2021-10-01,13,NA
+"Manufacturing",2021-11-01,13,NA
+"Manufacturing",2021-12-01,10,NA
+"Manufacturing",2022-01-01,17,NA
+"Manufacturing",2022-02-01,18,NA
+"Manufacturing",2022-03-01,17,NA
+"Manufacturing",2022-04-01,16,NA
+"Manufacturing",2022-05-01,13,NA
+"Manufacturing",2022-06-01,12,NA
+"Manufacturing",2022-07-01,11,NA
+"Manufacturing",2022-08-01,16,NA
+"Manufacturing",2022-09-01,18,NA
+"Manufacturing",2022-10-01,20,NA
+"Manufacturing",2022-11-01,25,NA
+"Manufacturing",2022-12-01,16,NA
+"Manufacturing",2023-01-01,32,NA
+"Manufacturing",2023-02-01,17,NA
+"Manufacturing",2023-03-01,30,NA
+"Manufacturing",2023-04-01,13,NA
+"Manufacturing",2023-05-01,22,NA
+"Manufacturing",2023-06-01,21,NA
+"Manufacturing",2023-07-01,16,NA
+"Manufacturing",2023-08-01,23,NA
+"Manufacturing",2023-09-01,26,NA
+"Manufacturing",2023-10-01,37,NA
+"Manufacturing",2023-11-01,36,NA
+"Manufacturing",2023-12-01,39,NA
+"Manufacturing",2024-01-01,51,NA
+"Manufacturing",2024-02-01,36,NA
+"Manufacturing",2024-03-01,39,NA
+"Manufacturing",2024-04-01,16,NA
+"Manufacturing",2024-05-01,21,NA
+"Manufacturing",2024-06-01,36,NA
+"Manufacturing",2024-07-01,17,NA
+"Manufacturing",2024-08-01,31,NA
+"Manufacturing",2024-09-01,33,NA
+"Manufacturing",2024-10-01,28,NA
+"Manufacturing",2024-11-01,23,NA
+"Manufacturing",2024-12-01,26,NA
+"Manufacturing",2025-01-01,28,NA
+"Manufacturing",2025-02-01,29,NA
+"Manufacturing",2025-03-01,22,NA
+"Manufacturing",2025-04-01,28,NA
+"Manufacturing",2025-05-01,21,NA
+"Wholesale trade",2011-01-01,12,NA
+"Wholesale trade",2011-02-01,16,NA
+"Wholesale trade",2011-03-01,20,NA
+"Wholesale trade",2011-04-01,19,NA
+"Wholesale trade",2011-05-01,24,NA
+"Wholesale trade",2011-06-01,15,NA
+"Wholesale trade",2011-07-01,14,NA
+"Wholesale trade",2011-08-01,19,NA
+"Wholesale trade",2011-09-01,12,NA
+"Wholesale trade",2011-10-01,15,NA
+"Wholesale trade",2011-11-01,18,NA
+"Wholesale trade",2011-12-01,14,NA
+"Wholesale trade",2012-01-01,18,NA
+"Wholesale trade",2012-02-01,15,NA
+"Wholesale trade",2012-03-01,21,NA
+"Wholesale trade",2012-04-01,12,NA
+"Wholesale trade",2012-05-01,12,NA
+"Wholesale trade",2012-06-01,18,NA
+"Wholesale trade",2012-07-01,12,NA
+"Wholesale trade",2012-08-01,14,NA
+"Wholesale trade",2012-09-01,13,NA
+"Wholesale trade",2012-10-01,8,NA
+"Wholesale trade",2012-11-01,18,NA
+"Wholesale trade",2012-12-01,15,NA
+"Wholesale trade",2013-01-01,13,NA
+"Wholesale trade",2013-02-01,18,NA
+"Wholesale trade",2013-03-01,12,NA
+"Wholesale trade",2013-04-01,15,NA
+"Wholesale trade",2013-05-01,14,NA
+"Wholesale trade",2013-06-01,5,NA
+"Wholesale trade",2013-07-01,16,NA
+"Wholesale trade",2013-08-01,18,NA
+"Wholesale trade",2013-09-01,7,NA
+"Wholesale trade",2013-10-01,19,NA
+"Wholesale trade",2013-11-01,12,NA
+"Wholesale trade",2013-12-01,12,NA
+"Wholesale trade",2014-01-01,16,NA
+"Wholesale trade",2014-02-01,8,NA
+"Wholesale trade",2014-03-01,8,NA
+"Wholesale trade",2014-04-01,18,NA
+"Wholesale trade",2014-05-01,18,NA
+"Wholesale trade",2014-06-01,7,NA
+"Wholesale trade",2014-07-01,19,NA
+"Wholesale trade",2014-08-01,13,NA
+"Wholesale trade",2014-09-01,8,NA
+"Wholesale trade",2014-10-01,11,NA
+"Wholesale trade",2014-11-01,9,NA
+"Wholesale trade",2014-12-01,20,NA
+"Wholesale trade",2015-01-01,13,NA
+"Wholesale trade",2015-02-01,10,NA
+"Wholesale trade",2015-03-01,20,NA
+"Wholesale trade",2015-04-01,16,NA
+"Wholesale trade",2015-05-01,14,NA
+"Wholesale trade",2015-06-01,10,NA
+"Wholesale trade",2015-07-01,15,NA
+"Wholesale trade",2015-08-01,9,NA
+"Wholesale trade",2015-09-01,10,NA
+"Wholesale trade",2015-10-01,10,NA
+"Wholesale trade",2015-11-01,13,NA
+"Wholesale trade",2015-12-01,14,NA
+"Wholesale trade",2016-01-01,7,NA
+"Wholesale trade",2016-02-01,7,NA
+"Wholesale trade",2016-03-01,17,NA
+"Wholesale trade",2016-04-01,12,NA
+"Wholesale trade",2016-05-01,13,NA
+"Wholesale trade",2016-06-01,10,NA
+"Wholesale trade",2016-07-01,13,NA
+"Wholesale trade",2016-08-01,12,NA
+"Wholesale trade",2016-09-01,12,NA
+"Wholesale trade",2016-10-01,15,NA
+"Wholesale trade",2016-11-01,13,NA
+"Wholesale trade",2016-12-01,11,NA
+"Wholesale trade",2017-01-01,9,NA
+"Wholesale trade",2017-02-01,9,NA
+"Wholesale trade",2017-03-01,8,NA
+"Wholesale trade",2017-04-01,9,NA
+"Wholesale trade",2017-05-01,13,NA
+"Wholesale trade",2017-06-01,14,NA
+"Wholesale trade",2017-07-01,9,NA
+"Wholesale trade",2017-08-01,12,NA
+"Wholesale trade",2017-09-01,10,NA
+"Wholesale trade",2017-10-01,6,NA
+"Wholesale trade",2017-11-01,11,NA
+"Wholesale trade",2017-12-01,12,NA
+"Wholesale trade",2018-01-01,8,NA
+"Wholesale trade",2018-02-01,12,NA
+"Wholesale trade",2018-03-01,8,NA
+"Wholesale trade",2018-04-01,13,NA
+"Wholesale trade",2018-05-01,8,NA
+"Wholesale trade",2018-06-01,12,NA
+"Wholesale trade",2018-07-01,11,NA
+"Wholesale trade",2018-08-01,12,NA
+"Wholesale trade",2018-09-01,8,NA
+"Wholesale trade",2018-10-01,6,NA
+"Wholesale trade",2018-11-01,13,NA
+"Wholesale trade",2018-12-01,10,NA
+"Wholesale trade",2019-01-01,6,NA
+"Wholesale trade",2019-02-01,16,NA
+"Wholesale trade",2019-03-01,16,NA
+"Wholesale trade",2019-04-01,11,NA
+"Wholesale trade",2019-05-01,8,NA
+"Wholesale trade",2019-06-01,15,NA
+"Wholesale trade",2019-07-01,8,NA
+"Wholesale trade",2019-08-01,10,NA
+"Wholesale trade",2019-09-01,10,NA
+"Wholesale trade",2019-10-01,10,NA
+"Wholesale trade",2019-11-01,12,NA
+"Wholesale trade",2019-12-01,10,NA
+"Wholesale trade",2020-01-01,11,NA
+"Wholesale trade",2020-02-01,11,NA
+"Wholesale trade",2020-03-01,10,NA
+"Wholesale trade",2020-04-01,5,NA
+"Wholesale trade",2020-05-01,5,NA
+"Wholesale trade",2020-06-01,14,NA
+"Wholesale trade",2020-07-01,8,NA
+"Wholesale trade",2020-08-01,7,NA
+"Wholesale trade",2020-09-01,14,NA
+"Wholesale trade",2020-10-01,5,NA
+"Wholesale trade",2020-11-01,14,NA
+"Wholesale trade",2020-12-01,6,NA
+"Wholesale trade",2021-01-01,7,NA
+"Wholesale trade",2021-02-01,8,NA
+"Wholesale trade",2021-03-01,6,NA
+"Wholesale trade",2021-04-01,6,NA
+"Wholesale trade",2021-05-01,3,NA
+"Wholesale trade",2021-06-01,6,NA
+"Wholesale trade",2021-07-01,8,NA
+"Wholesale trade",2021-08-01,8,NA
+"Wholesale trade",2021-09-01,2,NA
+"Wholesale trade",2021-10-01,10,NA
+"Wholesale trade",2021-11-01,8,NA
+"Wholesale trade",2021-12-01,11,NA
+"Wholesale trade",2022-01-01,5,NA
+"Wholesale trade",2022-02-01,10,NA
+"Wholesale trade",2022-03-01,13,NA
+"Wholesale trade",2022-04-01,9,NA
+"Wholesale trade",2022-05-01,7,NA
+"Wholesale trade",2022-06-01,12,NA
+"Wholesale trade",2022-07-01,6,NA
+"Wholesale trade",2022-08-01,9,NA
+"Wholesale trade",2022-09-01,7,NA
+"Wholesale trade",2022-10-01,13,NA
+"Wholesale trade",2022-11-01,15,NA
+"Wholesale trade",2022-12-01,16,NA
+"Wholesale trade",2023-01-01,10,NA
+"Wholesale trade",2023-02-01,14,NA
+"Wholesale trade",2023-03-01,17,NA
+"Wholesale trade",2023-04-01,12,NA
+"Wholesale trade",2023-05-01,15,NA
+"Wholesale trade",2023-06-01,11,NA
+"Wholesale trade",2023-07-01,14,NA
+"Wholesale trade",2023-08-01,8,NA
+"Wholesale trade",2023-09-01,22,NA
+"Wholesale trade",2023-10-01,16,NA
+"Wholesale trade",2023-11-01,27,NA
+"Wholesale trade",2023-12-01,21,NA
+"Wholesale trade",2024-01-01,33,NA
+"Wholesale trade",2024-02-01,21,NA
+"Wholesale trade",2024-03-01,16,NA
+"Wholesale trade",2024-04-01,25,NA
+"Wholesale trade",2024-05-01,22,NA
+"Wholesale trade",2024-06-01,23,NA
+"Wholesale trade",2024-07-01,21,NA
+"Wholesale trade",2024-08-01,23,NA
+"Wholesale trade",2024-09-01,15,NA
+"Wholesale trade",2024-10-01,7,NA
+"Wholesale trade",2024-11-01,24,NA
+"Wholesale trade",2024-12-01,17,NA
+"Wholesale trade",2025-01-01,16,NA
+"Wholesale trade",2025-02-01,14,NA
+"Wholesale trade",2025-03-01,16,NA
+"Wholesale trade",2025-04-01,22,NA
+"Wholesale trade",2025-05-01,14,NA
+"Retail trade",2011-01-01,49,NA
+"Retail trade",2011-02-01,40,NA
+"Retail trade",2011-03-01,66,NA
+"Retail trade",2011-04-01,47,NA
+"Retail trade",2011-05-01,34,NA
+"Retail trade",2011-06-01,27,NA
+"Retail trade",2011-07-01,32,NA
+"Retail trade",2011-08-01,45,NA
+"Retail trade",2011-09-01,46,NA
+"Retail trade",2011-10-01,46,NA
+"Retail trade",2011-11-01,37,NA
+"Retail trade",2011-12-01,36,NA
+"Retail trade",2012-01-01,38,NA
+"Retail trade",2012-02-01,31,NA
+"Retail trade",2012-03-01,41,NA
+"Retail trade",2012-04-01,50,NA
+"Retail trade",2012-05-01,38,NA
+"Retail trade",2012-06-01,34,NA
+"Retail trade",2012-07-01,21,NA
+"Retail trade",2012-08-01,43,NA
+"Retail trade",2012-09-01,42,NA
+"Retail trade",2012-10-01,30,NA
+"Retail trade",2012-11-01,35,NA
+"Retail trade",2012-12-01,32,NA
+"Retail trade",2013-01-01,36,NA
+"Retail trade",2013-02-01,36,NA
+"Retail trade",2013-03-01,41,NA
+"Retail trade",2013-04-01,38,NA
+"Retail trade",2013-05-01,32,NA
+"Retail trade",2013-06-01,28,NA
+"Retail trade",2013-07-01,28,NA
+"Retail trade",2013-08-01,33,NA
+"Retail trade",2013-09-01,35,NA
+"Retail trade",2013-10-01,37,NA
+"Retail trade",2013-11-01,36,NA
+"Retail trade",2013-12-01,41,NA
+"Retail trade",2014-01-01,39,NA
+"Retail trade",2014-02-01,30,NA
+"Retail trade",2014-03-01,36,NA
+"Retail trade",2014-04-01,30,NA
+"Retail trade",2014-05-01,29,NA
+"Retail trade",2014-06-01,28,NA
+"Retail trade",2014-07-01,28,NA
+"Retail trade",2014-08-01,29,NA
+"Retail trade",2014-09-01,33,NA
+"Retail trade",2014-10-01,38,NA
+"Retail trade",2014-11-01,32,NA
+"Retail trade",2014-12-01,24,NA
+"Retail trade",2015-01-01,29,NA
+"Retail trade",2015-02-01,39,NA
+"Retail trade",2015-03-01,36,NA
+"Retail trade",2015-04-01,35,NA
+"Retail trade",2015-05-01,25,NA
+"Retail trade",2015-06-01,27,NA
+"Retail trade",2015-07-01,30,NA
+"Retail trade",2015-08-01,29,NA
+"Retail trade",2015-09-01,39,NA
+"Retail trade",2015-10-01,30,NA
+"Retail trade",2015-11-01,33,NA
+"Retail trade",2015-12-01,33,NA
+"Retail trade",2016-01-01,30,NA
+"Retail trade",2016-02-01,40,NA
+"Retail trade",2016-03-01,32,NA
+"Retail trade",2016-04-01,37,NA
+"Retail trade",2016-05-01,32,NA
+"Retail trade",2016-06-01,29,NA
+"Retail trade",2016-07-01,22,NA
+"Retail trade",2016-08-01,25,NA
+"Retail trade",2016-09-01,22,NA
+"Retail trade",2016-10-01,17,NA
+"Retail trade",2016-11-01,17,NA
+"Retail trade",2016-12-01,28,NA
+"Retail trade",2017-01-01,18,NA
+"Retail trade",2017-02-01,40,NA
+"Retail trade",2017-03-01,30,NA
+"Retail trade",2017-04-01,24,NA
+"Retail trade",2017-05-01,30,NA
+"Retail trade",2017-06-01,23,NA
+"Retail trade",2017-07-01,24,NA
+"Retail trade",2017-08-01,22,NA
+"Retail trade",2017-09-01,22,NA
+"Retail trade",2017-10-01,27,NA
+"Retail trade",2017-11-01,26,NA
+"Retail trade",2017-12-01,33,NA
+"Retail trade",2018-01-01,28,NA
+"Retail trade",2018-02-01,25,NA
+"Retail trade",2018-03-01,35,NA
+"Retail trade",2018-04-01,23,NA
+"Retail trade",2018-05-01,23,NA
+"Retail trade",2018-06-01,22,NA
+"Retail trade",2018-07-01,24,NA
+"Retail trade",2018-08-01,28,NA
+"Retail trade",2018-09-01,27,NA
+"Retail trade",2018-10-01,37,NA
+"Retail trade",2018-11-01,26,NA
+"Retail trade",2018-12-01,24,NA
+"Retail trade",2019-01-01,24,NA
+"Retail trade",2019-02-01,31,NA
+"Retail trade",2019-03-01,22,NA
+"Retail trade",2019-04-01,23,NA
+"Retail trade",2019-05-01,20,NA
+"Retail trade",2019-06-01,27,NA
+"Retail trade",2019-07-01,26,NA
+"Retail trade",2019-08-01,12,NA
+"Retail trade",2019-09-01,23,NA
+"Retail trade",2019-10-01,22,NA
+"Retail trade",2019-11-01,38,NA
+"Retail trade",2019-12-01,25,NA
+"Retail trade",2020-01-01,29,NA
+"Retail trade",2020-02-01,28,NA
+"Retail trade",2020-03-01,27,NA
+"Retail trade",2020-04-01,16,NA
+"Retail trade",2020-05-01,19,NA
+"Retail trade",2020-06-01,24,NA
+"Retail trade",2020-07-01,28,NA
+"Retail trade",2020-08-01,22,NA
+"Retail trade",2020-09-01,22,NA
+"Retail trade",2020-10-01,14,NA
+"Retail trade",2020-11-01,22,NA
+"Retail trade",2020-12-01,19,NA
+"Retail trade",2021-01-01,9,NA
+"Retail trade",2021-02-01,10,NA
+"Retail trade",2021-03-01,16,NA
+"Retail trade",2021-04-01,16,NA
+"Retail trade",2021-05-01,19,NA
+"Retail trade",2021-06-01,17,NA
+"Retail trade",2021-07-01,14,NA
+"Retail trade",2021-08-01,13,NA
+"Retail trade",2021-09-01,20,NA
+"Retail trade",2021-10-01,18,NA
+"Retail trade",2021-11-01,16,NA
+"Retail trade",2021-12-01,24,NA
+"Retail trade",2022-01-01,21,NA
+"Retail trade",2022-02-01,26,NA
+"Retail trade",2022-03-01,21,NA
+"Retail trade",2022-04-01,19,NA
+"Retail trade",2022-05-01,29,NA
+"Retail trade",2022-06-01,33,NA
+"Retail trade",2022-07-01,20,NA
+"Retail trade",2022-08-01,26,NA
+"Retail trade",2022-09-01,23,NA
+"Retail trade",2022-10-01,24,NA
+"Retail trade",2022-11-01,33,NA
+"Retail trade",2022-12-01,42,NA
+"Retail trade",2023-01-01,32,NA
+"Retail trade",2023-02-01,31,NA
+"Retail trade",2023-03-01,41,NA
+"Retail trade",2023-04-01,32,NA
+"Retail trade",2023-05-01,40,NA
+"Retail trade",2023-06-01,50,NA
+"Retail trade",2023-07-01,33,NA
+"Retail trade",2023-08-01,31,NA
+"Retail trade",2023-09-01,34,NA
+"Retail trade",2023-10-01,46,NA
+"Retail trade",2023-11-01,41,NA
+"Retail trade",2023-12-01,53,NA
+"Retail trade",2024-01-01,75,NA
+"Retail trade",2024-02-01,54,NA
+"Retail trade",2024-03-01,35,NA
+"Retail trade",2024-04-01,49,NA
+"Retail trade",2024-05-01,38,NA
+"Retail trade",2024-06-01,35,NA
+"Retail trade",2024-07-01,44,NA
+"Retail trade",2024-08-01,38,NA
+"Retail trade",2024-09-01,31,NA
+"Retail trade",2024-10-01,44,NA
+"Retail trade",2024-11-01,60,NA
+"Retail trade",2024-12-01,34,NA
+"Retail trade",2025-01-01,39,NA
+"Retail trade",2025-02-01,42,NA
+"Retail trade",2025-03-01,61,NA
+"Retail trade",2025-04-01,46,NA
+"Retail trade",2025-05-01,28,NA
+"Transportation",2011-01-01,18,NA
+"Transportation",2011-02-01,16,NA
+"Transportation",2011-03-01,24,NA
+"Transportation",2011-04-01,27,NA
+"Transportation",2011-05-01,24,NA
+"Transportation",2011-06-01,30,NA
+"Transportation",2011-07-01,19,NA
+"Transportation",2011-08-01,25,NA
+"Transportation",2011-09-01,22,NA
+"Transportation",2011-10-01,9,NA
+"Transportation",2011-11-01,22,NA
+"Transportation",2011-12-01,16,NA
+"Transportation",2012-01-01,19,NA
+"Transportation",2012-02-01,16,NA
+"Transportation",2012-03-01,14,NA
+"Transportation",2012-04-01,16,NA
+"Transportation",2012-05-01,15,NA
+"Transportation",2012-06-01,20,NA
+"Transportation",2012-07-01,14,NA
+"Transportation",2012-08-01,11,NA
+"Transportation",2012-09-01,17,NA
+"Transportation",2012-10-01,26,NA
+"Transportation",2012-11-01,24,NA
+"Transportation",2012-12-01,21,NA
+"Transportation",2013-01-01,19,NA
+"Transportation",2013-02-01,12,NA
+"Transportation",2013-03-01,14,NA
+"Transportation",2013-04-01,20,NA
+"Transportation",2013-05-01,15,NA
+"Transportation",2013-06-01,14,NA
+"Transportation",2013-07-01,12,NA
+"Transportation",2013-08-01,13,NA
+"Transportation",2013-09-01,24,NA
+"Transportation",2013-10-01,12,NA
+"Transportation",2013-11-01,17,NA
+"Transportation",2013-12-01,15,NA
+"Transportation",2014-01-01,11,NA
+"Transportation",2014-02-01,14,NA
+"Transportation",2014-03-01,24,NA
+"Transportation",2014-04-01,20,NA
+"Transportation",2014-05-01,7,NA
+"Transportation",2014-06-01,13,NA
+"Transportation",2014-07-01,17,NA
+"Transportation",2014-08-01,18,NA
+"Transportation",2014-09-01,16,NA
+"Transportation",2014-10-01,23,NA
+"Transportation",2014-11-01,13,NA
+"Transportation",2014-12-01,9,NA
+"Transportation",2015-01-01,15,NA
+"Transportation",2015-02-01,11,NA
+"Transportation",2015-03-01,24,NA
+"Transportation",2015-04-01,14,NA
+"Transportation",2015-05-01,9,NA
+"Transportation",2015-06-01,14,NA
+"Transportation",2015-07-01,12,NA
+"Transportation",2015-08-01,7,NA
+"Transportation",2015-09-01,12,NA
+"Transportation",2015-10-01,14,NA
+"Transportation",2015-11-01,16,NA
+"Transportation",2015-12-01,11,NA
+"Transportation",2016-01-01,11,NA
+"Transportation",2016-02-01,13,NA
+"Transportation",2016-03-01,13,NA
+"Transportation",2016-04-01,17,NA
+"Transportation",2016-05-01,12,NA
+"Transportation",2016-06-01,26,NA
+"Transportation",2016-07-01,12,NA
+"Transportation",2016-08-01,11,NA
+"Transportation",2016-09-01,13,NA
+"Transportation",2016-10-01,14,NA
+"Transportation",2016-11-01,13,NA
+"Transportation",2016-12-01,22,NA
+"Transportation",2017-01-01,13,NA
+"Transportation",2017-02-01,9,NA
+"Transportation",2017-03-01,19,NA
+"Transportation",2017-04-01,24,NA
+"Transportation",2017-05-01,20,NA
+"Transportation",2017-06-01,14,NA
+"Transportation",2017-07-01,14,NA
+"Transportation",2017-08-01,12,NA
+"Transportation",2017-09-01,12,NA
+"Transportation",2017-10-01,13,NA
+"Transportation",2017-11-01,12,NA
+"Transportation",2017-12-01,9,NA
+"Transportation",2018-01-01,15,NA
+"Transportation",2018-02-01,17,NA
+"Transportation",2018-03-01,15,NA
+"Transportation",2018-04-01,25,NA
+"Transportation",2018-05-01,10,NA
+"Transportation",2018-06-01,15,NA
+"Transportation",2018-07-01,14,NA
+"Transportation",2018-08-01,9,NA
+"Transportation",2018-09-01,16,NA
+"Transportation",2018-10-01,19,NA
+"Transportation",2018-11-01,13,NA
+"Transportation",2018-12-01,10,NA
+"Transportation",2019-01-01,18,NA
+"Transportation",2019-02-01,19,NA
+"Transportation",2019-03-01,16,NA
+"Transportation",2019-04-01,13,NA
+"Transportation",2019-05-01,16,NA
+"Transportation",2019-06-01,7,NA
+"Transportation",2019-07-01,9,NA
+"Transportation",2019-08-01,9,NA
+"Transportation",2019-09-01,10,NA
+"Transportation",2019-10-01,15,NA
+"Transportation",2019-11-01,13,NA
+"Transportation",2019-12-01,19,NA
+"Transportation",2020-01-01,17,NA
+"Transportation",2020-02-01,12,NA
+"Transportation",2020-03-01,18,NA
+"Transportation",2020-04-01,3,NA
+"Transportation",2020-05-01,6,NA
+"Transportation",2020-06-01,6,NA
+"Transportation",2020-07-01,6,NA
+"Transportation",2020-08-01,10,NA
+"Transportation",2020-09-01,13,NA
+"Transportation",2020-10-01,14,NA
+"Transportation",2020-11-01,8,NA
+"Transportation",2020-12-01,10,NA
+"Transportation",2021-01-01,8,NA
+"Transportation",2021-02-01,12,NA
+"Transportation",2021-03-01,14,NA
+"Transportation",2021-04-01,14,NA
+"Transportation",2021-05-01,13,NA
+"Transportation",2021-06-01,18,NA
+"Transportation",2021-07-01,11,NA
+"Transportation",2021-08-01,8,NA
+"Transportation",2021-09-01,12,NA
+"Transportation",2021-10-01,16,NA
+"Transportation",2021-11-01,13,NA
+"Transportation",2021-12-01,16,NA
+"Transportation",2022-01-01,17,NA
+"Transportation",2022-02-01,19,NA
+"Transportation",2022-03-01,26,NA
+"Transportation",2022-04-01,12,NA
+"Transportation",2022-05-01,17,NA
+"Transportation",2022-06-01,16,NA
+"Transportation",2022-07-01,22,NA
+"Transportation",2022-08-01,25,NA
+"Transportation",2022-09-01,13,NA
+"Transportation",2022-10-01,18,NA
+"Transportation",2022-11-01,15,NA
+"Transportation",2022-12-01,23,NA
+"Transportation",2023-01-01,16,NA
+"Transportation",2023-02-01,15,NA
+"Transportation",2023-03-01,20,NA
+"Transportation",2023-04-01,19,NA
+"Transportation",2023-05-01,24,NA
+"Transportation",2023-06-01,14,NA
+"Transportation",2023-07-01,18,NA
+"Transportation",2023-08-01,16,NA
+"Transportation",2023-09-01,29,NA
+"Transportation",2023-10-01,19,NA
+"Transportation",2023-11-01,33,NA
+"Transportation",2023-12-01,34,NA
+"Transportation",2024-01-01,70,NA
+"Transportation",2024-02-01,52,NA
+"Transportation",2024-03-01,37,NA
+"Transportation",2024-04-01,44,NA
+"Transportation",2024-05-01,31,NA
+"Transportation",2024-06-01,26,NA
+"Transportation",2024-07-01,28,NA
+"Transportation",2024-08-01,23,NA
+"Transportation",2024-09-01,34,NA
+"Transportation",2024-10-01,28,NA
+"Transportation",2024-11-01,23,NA
+"Transportation",2024-12-01,28,NA
+"Transportation",2025-01-01,28,NA
+"Transportation",2025-02-01,21,NA
+"Transportation",2025-03-01,33,NA
+"Transportation",2025-04-01,33,NA
+"Transportation",2025-05-01,17,NA
+"Information, culture",2011-01-01,4,NA
+"Information, culture",2011-02-01,3,NA
+"Information, culture",2011-03-01,7,NA
+"Information, culture",2011-04-01,6,NA
+"Information, culture",2011-05-01,2,NA
+"Information, culture",2011-06-01,7,NA
+"Information, culture",2011-07-01,3,NA
+"Information, culture",2011-08-01,1,NA
+"Information, culture",2011-09-01,4,NA
+"Information, culture",2011-10-01,5,NA
+"Information, culture",2011-11-01,6,NA
+"Information, culture",2011-12-01,5,NA
+"Information, culture",2012-01-01,2,NA
+"Information, culture",2012-02-01,5,NA
+"Information, culture",2012-03-01,6,NA
+"Information, culture",2012-04-01,6,NA
+"Information, culture",2012-05-01,5,NA
+"Information, culture",2012-06-01,5,NA
+"Information, culture",2012-07-01,3,NA
+"Information, culture",2012-08-01,1,NA
+"Information, culture",2012-09-01,4,NA
+"Information, culture",2012-10-01,3,NA
+"Information, culture",2012-11-01,5,NA
+"Information, culture",2012-12-01,8,NA
+"Information, culture",2013-01-01,1,NA
+"Information, culture",2013-02-01,4,NA
+"Information, culture",2013-03-01,5,NA
+"Information, culture",2013-04-01,6,NA
+"Information, culture",2013-05-01,9,NA
+"Information, culture",2013-06-01,4,NA
+"Information, culture",2013-07-01,5,NA
+"Information, culture",2013-08-01,0,NA
+"Information, culture",2013-09-01,0,NA
+"Information, culture",2013-10-01,1,NA
+"Information, culture",2013-11-01,1,NA
+"Information, culture",2013-12-01,6,NA
+"Information, culture",2014-01-01,3,NA
+"Information, culture",2014-02-01,4,NA
+"Information, culture",2014-03-01,3,NA
+"Information, culture",2014-04-01,5,NA
+"Information, culture",2014-05-01,4,NA
+"Information, culture",2014-06-01,1,NA
+"Information, culture",2014-07-01,4,NA
+"Information, culture",2014-08-01,4,NA
+"Information, culture",2014-09-01,6,NA
+"Information, culture",2014-10-01,5,NA
+"Information, culture",2014-11-01,7,NA
+"Information, culture",2014-12-01,4,NA
+"Information, culture",2015-01-01,0,NA
+"Information, culture",2015-02-01,8,NA
+"Information, culture",2015-03-01,4,NA
+"Information, culture",2015-04-01,5,NA
+"Information, culture",2015-05-01,2,NA
+"Information, culture",2015-06-01,6,NA
+"Information, culture",2015-07-01,4,NA
+"Information, culture",2015-08-01,2,NA
+"Information, culture",2015-09-01,4,NA
+"Information, culture",2015-10-01,7,NA
+"Information, culture",2015-11-01,5,NA
+"Information, culture",2015-12-01,7,NA
+"Information, culture",2016-01-01,3,NA
+"Information, culture",2016-02-01,9,NA
+"Information, culture",2016-03-01,11,NA
+"Information, culture",2016-04-01,1,NA
+"Information, culture",2016-05-01,4,NA
+"Information, culture",2016-06-01,2,NA
+"Information, culture",2016-07-01,5,NA
+"Information, culture",2016-08-01,3,NA
+"Information, culture",2016-09-01,5,NA
+"Information, culture",2016-10-01,2,NA
+"Information, culture",2016-11-01,5,NA
+"Information, culture",2016-12-01,6,NA
+"Information, culture",2017-01-01,5,NA
+"Information, culture",2017-02-01,2,NA
+"Information, culture",2017-03-01,8,NA
+"Information, culture",2017-04-01,4,NA
+"Information, culture",2017-05-01,2,NA
+"Information, culture",2017-06-01,3,NA
+"Information, culture",2017-07-01,4,NA
+"Information, culture",2017-08-01,3,NA
+"Information, culture",2017-09-01,5,NA
+"Information, culture",2017-10-01,1,NA
+"Information, culture",2017-11-01,4,NA
+"Information, culture",2017-12-01,5,NA
+"Information, culture",2018-01-01,7,NA
+"Information, culture",2018-02-01,7,NA
+"Information, culture",2018-03-01,5,NA
+"Information, culture",2018-04-01,3,NA
+"Information, culture",2018-05-01,1,NA
+"Information, culture",2018-06-01,6,NA
+"Information, culture",2018-07-01,2,NA
+"Information, culture",2018-08-01,1,NA
+"Information, culture",2018-09-01,4,NA
+"Information, culture",2018-10-01,6,NA
+"Information, culture",2018-11-01,4,NA
+"Information, culture",2018-12-01,3,NA
+"Information, culture",2019-01-01,5,NA
+"Information, culture",2019-02-01,7,NA
+"Information, culture",2019-03-01,8,NA
+"Information, culture",2019-04-01,7,NA
+"Information, culture",2019-05-01,3,NA
+"Information, culture",2019-06-01,6,NA
+"Information, culture",2019-07-01,6,NA
+"Information, culture",2019-08-01,1,NA
+"Information, culture",2019-09-01,2,NA
+"Information, culture",2019-10-01,4,NA
+"Information, culture",2019-11-01,7,NA
+"Information, culture",2019-12-01,4,NA
+"Information, culture",2020-01-01,6,NA
+"Information, culture",2020-02-01,9,NA
+"Information, culture",2020-03-01,3,NA
+"Information, culture",2020-04-01,1,NA
+"Information, culture",2020-05-01,2,NA
+"Information, culture",2020-06-01,1,NA
+"Information, culture",2020-07-01,1,NA
+"Information, culture",2020-08-01,1,NA
+"Information, culture",2020-09-01,1,NA
+"Information, culture",2020-10-01,6,NA
+"Information, culture",2020-11-01,2,NA
+"Information, culture",2020-12-01,3,NA
+"Information, culture",2021-01-01,5,NA
+"Information, culture",2021-02-01,2,NA
+"Information, culture",2021-03-01,3,NA
+"Information, culture",2021-04-01,3,NA
+"Information, culture",2021-05-01,1,NA
+"Information, culture",2021-06-01,3,NA
+"Information, culture",2021-07-01,4,NA
+"Information, culture",2021-08-01,2,NA
+"Information, culture",2021-09-01,1,NA
+"Information, culture",2021-10-01,2,NA
+"Information, culture",2021-11-01,6,NA
+"Information, culture",2021-12-01,2,NA
+"Information, culture",2022-01-01,1,NA
+"Information, culture",2022-02-01,5,NA
+"Information, culture",2022-03-01,4,NA
+"Information, culture",2022-04-01,4,NA
+"Information, culture",2022-05-01,2,NA
+"Information, culture",2022-06-01,7,NA
+"Information, culture",2022-07-01,1,NA
+"Information, culture",2022-08-01,3,NA
+"Information, culture",2022-09-01,2,NA
+"Information, culture",2022-10-01,5,NA
+"Information, culture",2022-11-01,5,NA
+"Information, culture",2022-12-01,5,NA
+"Information, culture",2023-01-01,10,NA
+"Information, culture",2023-02-01,4,NA
+"Information, culture",2023-03-01,5,NA
+"Information, culture",2023-04-01,1,NA
+"Information, culture",2023-05-01,7,NA
+"Information, culture",2023-06-01,5,NA
+"Information, culture",2023-07-01,4,NA
+"Information, culture",2023-08-01,5,NA
+"Information, culture",2023-09-01,6,NA
+"Information, culture",2023-10-01,15,NA
+"Information, culture",2023-11-01,10,NA
+"Information, culture",2023-12-01,15,NA
+"Information, culture",2024-01-01,20,NA
+"Information, culture",2024-02-01,7,NA
+"Information, culture",2024-03-01,7,NA
+"Information, culture",2024-04-01,15,NA
+"Information, culture",2024-05-01,12,NA
+"Information, culture",2024-06-01,7,NA
+"Information, culture",2024-07-01,10,NA
+"Information, culture",2024-08-01,4,NA
+"Information, culture",2024-09-01,5,NA
+"Information, culture",2024-10-01,10,NA
+"Information, culture",2024-11-01,9,NA
+"Information, culture",2024-12-01,6,NA
+"Information, culture",2025-01-01,5,NA
+"Information, culture",2025-02-01,7,NA
+"Information, culture",2025-03-01,4,NA
+"Information, culture",2025-04-01,8,NA
+"Information, culture",2025-05-01,4,NA
+"Finance",2011-01-01,11,NA
+"Finance",2011-02-01,2,NA
+"Finance",2011-03-01,10,NA
+"Finance",2011-04-01,10,NA
+"Finance",2011-05-01,8,NA
+"Finance",2011-06-01,7,NA
+"Finance",2011-07-01,1,NA
+"Finance",2011-08-01,8,NA
+"Finance",2011-09-01,4,NA
+"Finance",2011-10-01,3,NA
+"Finance",2011-11-01,6,NA
+"Finance",2011-12-01,10,NA
+"Finance",2012-01-01,2,NA
+"Finance",2012-02-01,8,NA
+"Finance",2012-03-01,7,NA
+"Finance",2012-04-01,2,NA
+"Finance",2012-05-01,7,NA
+"Finance",2012-06-01,4,NA
+"Finance",2012-07-01,7,NA
+"Finance",2012-08-01,3,NA
+"Finance",2012-09-01,3,NA
+"Finance",2012-10-01,4,NA
+"Finance",2012-11-01,7,NA
+"Finance",2012-12-01,5,NA
+"Finance",2013-01-01,5,NA
+"Finance",2013-02-01,10,NA
+"Finance",2013-03-01,4,NA
+"Finance",2013-04-01,5,NA
+"Finance",2013-05-01,9,NA
+"Finance",2013-06-01,3,NA
+"Finance",2013-07-01,3,NA
+"Finance",2013-08-01,6,NA
+"Finance",2013-09-01,8,NA
+"Finance",2013-10-01,4,NA
+"Finance",2013-11-01,4,NA
+"Finance",2013-12-01,2,NA
+"Finance",2014-01-01,3,NA
+"Finance",2014-02-01,6,NA
+"Finance",2014-03-01,7,NA
+"Finance",2014-04-01,3,NA
+"Finance",2014-05-01,2,NA
+"Finance",2014-06-01,3,NA
+"Finance",2014-07-01,6,NA
+"Finance",2014-08-01,7,NA
+"Finance",2014-09-01,5,NA
+"Finance",2014-10-01,7,NA
+"Finance",2014-11-01,7,NA
+"Finance",2014-12-01,8,NA
+"Finance",2015-01-01,7,NA
+"Finance",2015-02-01,5,NA
+"Finance",2015-03-01,4,NA
+"Finance",2015-04-01,5,NA
+"Finance",2015-05-01,2,NA
+"Finance",2015-06-01,7,NA
+"Finance",2015-07-01,3,NA
+"Finance",2015-08-01,3,NA
+"Finance",2015-09-01,3,NA
+"Finance",2015-10-01,4,NA
+"Finance",2015-11-01,6,NA
+"Finance",2015-12-01,6,NA
+"Finance",2016-01-01,5,NA
+"Finance",2016-02-01,3,NA
+"Finance",2016-03-01,6,NA
+"Finance",2016-04-01,2,NA
+"Finance",2016-05-01,4,NA
+"Finance",2016-06-01,6,NA
+"Finance",2016-07-01,3,NA
+"Finance",2016-08-01,6,NA
+"Finance",2016-09-01,6,NA
+"Finance",2016-10-01,4,NA
+"Finance",2016-11-01,4,NA
+"Finance",2016-12-01,3,NA
+"Finance",2017-01-01,3,NA
+"Finance",2017-02-01,3,NA
+"Finance",2017-03-01,9,NA
+"Finance",2017-04-01,3,NA
+"Finance",2017-05-01,8,NA
+"Finance",2017-06-01,5,NA
+"Finance",2017-07-01,4,NA
+"Finance",2017-08-01,2,NA
+"Finance",2017-09-01,3,NA
+"Finance",2017-10-01,7,NA
+"Finance",2017-11-01,1,NA
+"Finance",2017-12-01,4,NA
+"Finance",2018-01-01,3,NA
+"Finance",2018-02-01,6,NA
+"Finance",2018-03-01,5,NA
+"Finance",2018-04-01,1,NA
+"Finance",2018-05-01,2,NA
+"Finance",2018-06-01,2,NA
+"Finance",2018-07-01,3,NA
+"Finance",2018-08-01,5,NA
+"Finance",2018-09-01,3,NA
+"Finance",2018-10-01,6,NA
+"Finance",2018-11-01,8,NA
+"Finance",2018-12-01,4,NA
+"Finance",2019-01-01,5,NA
+"Finance",2019-02-01,5,NA
+"Finance",2019-03-01,6,NA
+"Finance",2019-04-01,7,NA
+"Finance",2019-05-01,5,NA
+"Finance",2019-06-01,4,NA
+"Finance",2019-07-01,2,NA
+"Finance",2019-08-01,4,NA
+"Finance",2019-09-01,3,NA
+"Finance",2019-10-01,3,NA
+"Finance",2019-11-01,5,NA
+"Finance",2019-12-01,3,NA
+"Finance",2020-01-01,2,NA
+"Finance",2020-02-01,4,NA
+"Finance",2020-03-01,3,NA
+"Finance",2020-04-01,0,NA
+"Finance",2020-05-01,0,NA
+"Finance",2020-06-01,3,NA
+"Finance",2020-07-01,3,NA
+"Finance",2020-08-01,0,NA
+"Finance",2020-09-01,2,NA
+"Finance",2020-10-01,1,NA
+"Finance",2020-11-01,3,NA
+"Finance",2020-12-01,7,NA
+"Finance",2021-01-01,10,NA
+"Finance",2021-02-01,5,NA
+"Finance",2021-03-01,4,NA
+"Finance",2021-04-01,4,NA
+"Finance",2021-05-01,0,NA
+"Finance",2021-06-01,7,NA
+"Finance",2021-07-01,2,NA
+"Finance",2021-08-01,0,NA
+"Finance",2021-09-01,2,NA
+"Finance",2021-10-01,2,NA
+"Finance",2021-11-01,4,NA
+"Finance",2021-12-01,4,NA
+"Finance",2022-01-01,1,NA
+"Finance",2022-02-01,0,NA
+"Finance",2022-03-01,2,NA
+"Finance",2022-04-01,2,NA
+"Finance",2022-05-01,1,NA
+"Finance",2022-06-01,1,NA
+"Finance",2022-07-01,1,NA
+"Finance",2022-08-01,7,NA
+"Finance",2022-09-01,2,NA
+"Finance",2022-10-01,1,NA
+"Finance",2022-11-01,3,NA
+"Finance",2022-12-01,7,NA
+"Finance",2023-01-01,3,NA
+"Finance",2023-02-01,2,NA
+"Finance",2023-03-01,4,NA
+"Finance",2023-04-01,3,NA
+"Finance",2023-05-01,4,NA
+"Finance",2023-06-01,2,NA
+"Finance",2023-07-01,10,NA
+"Finance",2023-08-01,0,NA
+"Finance",2023-09-01,4,NA
+"Finance",2023-10-01,7,NA
+"Finance",2023-11-01,5,NA
+"Finance",2023-12-01,9,NA
+"Finance",2024-01-01,10,NA
+"Finance",2024-02-01,5,NA
+"Finance",2024-03-01,5,NA
+"Finance",2024-04-01,9,NA
+"Finance",2024-05-01,8,NA
+"Finance",2024-06-01,5,NA
+"Finance",2024-07-01,4,NA
+"Finance",2024-08-01,2,NA
+"Finance",2024-09-01,6,NA
+"Finance",2024-10-01,6,NA
+"Finance",2024-11-01,8,NA
+"Finance",2024-12-01,6,NA
+"Finance",2025-01-01,5,NA
+"Finance",2025-02-01,4,NA
+"Finance",2025-03-01,3,NA
+"Finance",2025-04-01,3,NA
+"Finance",2025-05-01,7,NA
+"Real estate",2011-01-01,11,NA
+"Real estate",2011-02-01,14,NA
+"Real estate",2011-03-01,8,NA
+"Real estate",2011-04-01,10,NA
+"Real estate",2011-05-01,14,NA
+"Real estate",2011-06-01,8,NA
+"Real estate",2011-07-01,6,NA
+"Real estate",2011-08-01,8,NA
+"Real estate",2011-09-01,5,NA
+"Real estate",2011-10-01,8,NA
+"Real estate",2011-11-01,6,NA
+"Real estate",2011-12-01,6,NA
+"Real estate",2012-01-01,5,NA
+"Real estate",2012-02-01,11,NA
+"Real estate",2012-03-01,10,NA
+"Real estate",2012-04-01,4,NA
+"Real estate",2012-05-01,4,NA
+"Real estate",2012-06-01,3,NA
+"Real estate",2012-07-01,7,NA
+"Real estate",2012-08-01,6,NA
+"Real estate",2012-09-01,6,NA
+"Real estate",2012-10-01,4,NA
+"Real estate",2012-11-01,3,NA
+"Real estate",2012-12-01,14,NA
+"Real estate",2013-01-01,2,NA
+"Real estate",2013-02-01,10,NA
+"Real estate",2013-03-01,16,NA
+"Real estate",2013-04-01,4,NA
+"Real estate",2013-05-01,10,NA
+"Real estate",2013-06-01,14,NA
+"Real estate",2013-07-01,11,NA
+"Real estate",2013-08-01,6,NA
+"Real estate",2013-09-01,1,NA
+"Real estate",2013-10-01,14,NA
+"Real estate",2013-11-01,12,NA
+"Real estate",2013-12-01,9,NA
+"Real estate",2014-01-01,6,NA
+"Real estate",2014-02-01,8,NA
+"Real estate",2014-03-01,9,NA
+"Real estate",2014-04-01,14,NA
+"Real estate",2014-05-01,9,NA
+"Real estate",2014-06-01,13,NA
+"Real estate",2014-07-01,7,NA
+"Real estate",2014-08-01,4,NA
+"Real estate",2014-09-01,5,NA
+"Real estate",2014-10-01,10,NA
+"Real estate",2014-11-01,10,NA
+"Real estate",2014-12-01,6,NA
+"Real estate",2015-01-01,6,NA
+"Real estate",2015-02-01,5,NA
+"Real estate",2015-03-01,16,NA
+"Real estate",2015-04-01,7,NA
+"Real estate",2015-05-01,7,NA
+"Real estate",2015-06-01,12,NA
+"Real estate",2015-07-01,9,NA
+"Real estate",2015-08-01,8,NA
+"Real estate",2015-09-01,10,NA
+"Real estate",2015-10-01,12,NA
+"Real estate",2015-11-01,12,NA
+"Real estate",2015-12-01,10,NA
+"Real estate",2016-01-01,8,NA
+"Real estate",2016-02-01,6,NA
+"Real estate",2016-03-01,8,NA
+"Real estate",2016-04-01,6,NA
+"Real estate",2016-05-01,12,NA
+"Real estate",2016-06-01,8,NA
+"Real estate",2016-07-01,8,NA
+"Real estate",2016-08-01,13,NA
+"Real estate",2016-09-01,9,NA
+"Real estate",2016-10-01,4,NA
+"Real estate",2016-11-01,13,NA
+"Real estate",2016-12-01,6,NA
+"Real estate",2017-01-01,4,NA
+"Real estate",2017-02-01,7,NA
+"Real estate",2017-03-01,8,NA
+"Real estate",2017-04-01,16,NA
+"Real estate",2017-05-01,5,NA
+"Real estate",2017-06-01,10,NA
+"Real estate",2017-07-01,11,NA
+"Real estate",2017-08-01,4,NA
+"Real estate",2017-09-01,10,NA
+"Real estate",2017-10-01,6,NA
+"Real estate",2017-11-01,12,NA
+"Real estate",2017-12-01,5,NA
+"Real estate",2018-01-01,5,NA
+"Real estate",2018-02-01,19,NA
+"Real estate",2018-03-01,7,NA
+"Real estate",2018-04-01,9,NA
+"Real estate",2018-05-01,14,NA
+"Real estate",2018-06-01,8,NA
+"Real estate",2018-07-01,6,NA
+"Real estate",2018-08-01,6,NA
+"Real estate",2018-09-01,6,NA
+"Real estate",2018-10-01,9,NA
+"Real estate",2018-11-01,9,NA
+"Real estate",2018-12-01,7,NA
+"Real estate",2019-01-01,19,NA
+"Real estate",2019-02-01,4,NA
+"Real estate",2019-03-01,10,NA
+"Real estate",2019-04-01,16,NA
+"Real estate",2019-05-01,10,NA
+"Real estate",2019-06-01,5,NA
+"Real estate",2019-07-01,12,NA
+"Real estate",2019-08-01,6,NA
+"Real estate",2019-09-01,8,NA
+"Real estate",2019-10-01,11,NA
+"Real estate",2019-11-01,4,NA
+"Real estate",2019-12-01,14,NA
+"Real estate",2020-01-01,12,NA
+"Real estate",2020-02-01,2,NA
+"Real estate",2020-03-01,5,NA
+"Real estate",2020-04-01,9,NA
+"Real estate",2020-05-01,10,NA
+"Real estate",2020-06-01,5,NA
+"Real estate",2020-07-01,9,NA
+"Real estate",2020-08-01,4,NA
+"Real estate",2020-09-01,7,NA
+"Real estate",2020-10-01,6,NA
+"Real estate",2020-11-01,12,NA
+"Real estate",2020-12-01,21,NA
+"Real estate",2021-01-01,7,NA
+"Real estate",2021-02-01,9,NA
+"Real estate",2021-03-01,8,NA
+"Real estate",2021-04-01,8,NA
+"Real estate",2021-05-01,4,NA
+"Real estate",2021-06-01,5,NA
+"Real estate",2021-07-01,3,NA
+"Real estate",2021-08-01,1,NA
+"Real estate",2021-09-01,10,NA
+"Real estate",2021-10-01,8,NA
+"Real estate",2021-11-01,11,NA
+"Real estate",2021-12-01,7,NA
+"Real estate",2022-01-01,5,NA
+"Real estate",2022-02-01,2,NA
+"Real estate",2022-03-01,6,NA
+"Real estate",2022-04-01,3,NA
+"Real estate",2022-05-01,9,NA
+"Real estate",2022-06-01,11,NA
+"Real estate",2022-07-01,8,NA
+"Real estate",2022-08-01,12,NA
+"Real estate",2022-09-01,10,NA
+"Real estate",2022-10-01,8,NA
+"Real estate",2022-11-01,11,NA
+"Real estate",2022-12-01,8,NA
+"Real estate",2023-01-01,11,NA
+"Real estate",2023-02-01,5,NA
+"Real estate",2023-03-01,7,NA
+"Real estate",2023-04-01,9,NA
+"Real estate",2023-05-01,6,NA
+"Real estate",2023-06-01,10,NA
+"Real estate",2023-07-01,12,NA
+"Real estate",2023-08-01,4,NA
+"Real estate",2023-09-01,11,NA
+"Real estate",2023-10-01,5,NA
+"Real estate",2023-11-01,13,NA
+"Real estate",2023-12-01,17,NA
+"Real estate",2024-01-01,18,NA
+"Real estate",2024-02-01,23,NA
+"Real estate",2024-03-01,17,NA
+"Real estate",2024-04-01,9,NA
+"Real estate",2024-05-01,15,NA
+"Real estate",2024-06-01,11,NA
+"Real estate",2024-07-01,12,NA
+"Real estate",2024-08-01,11,NA
+"Real estate",2024-09-01,14,NA
+"Real estate",2024-10-01,13,NA
+"Real estate",2024-11-01,12,NA
+"Real estate",2024-12-01,10,NA
+"Real estate",2025-01-01,8,NA
+"Real estate",2025-02-01,16,NA
+"Real estate",2025-03-01,12,NA
+"Real estate",2025-04-01,10,NA
+"Real estate",2025-05-01,10,NA
+"Professional services",2011-01-01,9,NA
+"Professional services",2011-02-01,21,NA
+"Professional services",2011-03-01,19,NA
+"Professional services",2011-04-01,16,NA
+"Professional services",2011-05-01,10,NA
+"Professional services",2011-06-01,21,NA
+"Professional services",2011-07-01,10,NA
+"Professional services",2011-08-01,12,NA
+"Professional services",2011-09-01,16,NA
+"Professional services",2011-10-01,22,NA
+"Professional services",2011-11-01,24,NA
+"Professional services",2011-12-01,18,NA
+"Professional services",2012-01-01,18,NA
+"Professional services",2012-02-01,21,NA
+"Professional services",2012-03-01,21,NA
+"Professional services",2012-04-01,10,NA
+"Professional services",2012-05-01,18,NA
+"Professional services",2012-06-01,15,NA
+"Professional services",2012-07-01,14,NA
+"Professional services",2012-08-01,12,NA
+"Professional services",2012-09-01,16,NA
+"Professional services",2012-10-01,12,NA
+"Professional services",2012-11-01,21,NA
+"Professional services",2012-12-01,19,NA
+"Professional services",2013-01-01,13,NA
+"Professional services",2013-02-01,20,NA
+"Professional services",2013-03-01,29,NA
+"Professional services",2013-04-01,27,NA
+"Professional services",2013-05-01,20,NA
+"Professional services",2013-06-01,10,NA
+"Professional services",2013-07-01,16,NA
+"Professional services",2013-08-01,10,NA
+"Professional services",2013-09-01,20,NA
+"Professional services",2013-10-01,23,NA
+"Professional services",2013-11-01,14,NA
+"Professional services",2013-12-01,17,NA
+"Professional services",2014-01-01,9,NA
+"Professional services",2014-02-01,23,NA
+"Professional services",2014-03-01,22,NA
+"Professional services",2014-04-01,27,NA
+"Professional services",2014-05-01,22,NA
+"Professional services",2014-06-01,14,NA
+"Professional services",2014-07-01,15,NA
+"Professional services",2014-08-01,17,NA
+"Professional services",2014-09-01,19,NA
+"Professional services",2014-10-01,25,NA
+"Professional services",2014-11-01,24,NA
+"Professional services",2014-12-01,25,NA
+"Professional services",2015-01-01,20,NA
+"Professional services",2015-02-01,17,NA
+"Professional services",2015-03-01,14,NA
+"Professional services",2015-04-01,24,NA
+"Professional services",2015-05-01,23,NA
+"Professional services",2015-06-01,20,NA
+"Professional services",2015-07-01,20,NA
+"Professional services",2015-08-01,17,NA
+"Professional services",2015-09-01,14,NA
+"Professional services",2015-10-01,19,NA
+"Professional services",2015-11-01,21,NA
+"Professional services",2015-12-01,15,NA
+"Professional services",2016-01-01,17,NA
+"Professional services",2016-02-01,13,NA
+"Professional services",2016-03-01,27,NA
+"Professional services",2016-04-01,26,NA
+"Professional services",2016-05-01,16,NA
+"Professional services",2016-06-01,26,NA
+"Professional services",2016-07-01,13,NA
+"Professional services",2016-08-01,12,NA
+"Professional services",2016-09-01,16,NA
+"Professional services",2016-10-01,14,NA
+"Professional services",2016-11-01,25,NA
+"Professional services",2016-12-01,23,NA
+"Professional services",2017-01-01,13,NA
+"Professional services",2017-02-01,16,NA
+"Professional services",2017-03-01,21,NA
+"Professional services",2017-04-01,12,NA
+"Professional services",2017-05-01,23,NA
+"Professional services",2017-06-01,17,NA
+"Professional services",2017-07-01,19,NA
+"Professional services",2017-08-01,12,NA
+"Professional services",2017-09-01,17,NA
+"Professional services",2017-10-01,18,NA
+"Professional services",2017-11-01,16,NA
+"Professional services",2017-12-01,15,NA
+"Professional services",2018-01-01,13,NA
+"Professional services",2018-02-01,21,NA
+"Professional services",2018-03-01,14,NA
+"Professional services",2018-04-01,20,NA
+"Professional services",2018-05-01,16,NA
+"Professional services",2018-06-01,15,NA
+"Professional services",2018-07-01,18,NA
+"Professional services",2018-08-01,10,NA
+"Professional services",2018-09-01,9,NA
+"Professional services",2018-10-01,19,NA
+"Professional services",2018-11-01,22,NA
+"Professional services",2018-12-01,13,NA
+"Professional services",2019-01-01,14,NA
+"Professional services",2019-02-01,21,NA
+"Professional services",2019-03-01,19,NA
+"Professional services",2019-04-01,25,NA
+"Professional services",2019-05-01,17,NA
+"Professional services",2019-06-01,24,NA
+"Professional services",2019-07-01,30,NA
+"Professional services",2019-08-01,11,NA
+"Professional services",2019-09-01,21,NA
+"Professional services",2019-10-01,16,NA
+"Professional services",2019-11-01,14,NA
+"Professional services",2019-12-01,12,NA
+"Professional services",2020-01-01,12,NA
+"Professional services",2020-02-01,16,NA
+"Professional services",2020-03-01,12,NA
+"Professional services",2020-04-01,8,NA
+"Professional services",2020-05-01,7,NA
+"Professional services",2020-06-01,5,NA
+"Professional services",2020-07-01,10,NA
+"Professional services",2020-08-01,13,NA
+"Professional services",2020-09-01,8,NA
+"Professional services",2020-10-01,15,NA
+"Professional services",2020-11-01,20,NA
+"Professional services",2020-12-01,16,NA
+"Professional services",2021-01-01,12,NA
+"Professional services",2021-02-01,5,NA
+"Professional services",2021-03-01,12,NA
+"Professional services",2021-04-01,12,NA
+"Professional services",2021-05-01,14,NA
+"Professional services",2021-06-01,14,NA
+"Professional services",2021-07-01,11,NA
+"Professional services",2021-08-01,9,NA
+"Professional services",2021-09-01,7,NA
+"Professional services",2021-10-01,21,NA
+"Professional services",2021-11-01,17,NA
+"Professional services",2021-12-01,16,NA
+"Professional services",2022-01-01,11,NA
+"Professional services",2022-02-01,11,NA
+"Professional services",2022-03-01,20,NA
+"Professional services",2022-04-01,15,NA
+"Professional services",2022-05-01,13,NA
+"Professional services",2022-06-01,19,NA
+"Professional services",2022-07-01,13,NA
+"Professional services",2022-08-01,9,NA
+"Professional services",2022-09-01,20,NA
+"Professional services",2022-10-01,19,NA
+"Professional services",2022-11-01,18,NA
+"Professional services",2022-12-01,9,NA
+"Professional services",2023-01-01,14,NA
+"Professional services",2023-02-01,22,NA
+"Professional services",2023-03-01,18,NA
+"Professional services",2023-04-01,32,NA
+"Professional services",2023-05-01,17,NA
+"Professional services",2023-06-01,22,NA
+"Professional services",2023-07-01,18,NA
+"Professional services",2023-08-01,28,NA
+"Professional services",2023-09-01,25,NA
+"Professional services",2023-10-01,23,NA
+"Professional services",2023-11-01,21,NA
+"Professional services",2023-12-01,34,NA
+"Professional services",2024-01-01,57,NA
+"Professional services",2024-02-01,44,NA
+"Professional services",2024-03-01,30,NA
+"Professional services",2024-04-01,34,NA
+"Professional services",2024-05-01,30,NA
+"Professional services",2024-06-01,34,NA
+"Professional services",2024-07-01,30,NA
+"Professional services",2024-08-01,17,NA
+"Professional services",2024-09-01,18,NA
+"Professional services",2024-10-01,27,NA
+"Professional services",2024-11-01,30,NA
+"Professional services",2024-12-01,23,NA
+"Professional services",2025-01-01,34,NA
+"Professional services",2025-02-01,27,NA
+"Professional services",2025-03-01,27,NA
+"Professional services",2025-04-01,24,NA
+"Professional services",2025-05-01,31,NA
+"Management of companies",2011-01-01,1,NA
+"Management of companies",2011-02-01,1,NA
+"Management of companies",2011-03-01,5,NA
+"Management of companies",2011-04-01,5,NA
+"Management of companies",2011-05-01,8,NA
+"Management of companies",2011-06-01,2,NA
+"Management of companies",2011-07-01,1,NA
+"Management of companies",2011-08-01,5,NA
+"Management of companies",2011-09-01,3,NA
+"Management of companies",2011-10-01,4,NA
+"Management of companies",2011-11-01,3,NA
+"Management of companies",2011-12-01,5,NA
+"Management of companies",2012-01-01,3,NA
+"Management of companies",2012-02-01,5,NA
+"Management of companies",2012-03-01,4,NA
+"Management of companies",2012-04-01,3,NA
+"Management of companies",2012-05-01,5,NA
+"Management of companies",2012-06-01,5,NA
+"Management of companies",2012-07-01,5,NA
+"Management of companies",2012-08-01,3,NA
+"Management of companies",2012-09-01,7,NA
+"Management of companies",2012-10-01,6,NA
+"Management of companies",2012-11-01,2,NA
+"Management of companies",2012-12-01,3,NA
+"Management of companies",2013-01-01,1,NA
+"Management of companies",2013-02-01,3,NA
+"Management of companies",2013-03-01,6,NA
+"Management of companies",2013-04-01,4,NA
+"Management of companies",2013-05-01,3,NA
+"Management of companies",2013-06-01,6,NA
+"Management of companies",2013-07-01,4,NA
+"Management of companies",2013-08-01,8,NA
+"Management of companies",2013-09-01,4,NA
+"Management of companies",2013-10-01,2,NA
+"Management of companies",2013-11-01,3,NA
+"Management of companies",2013-12-01,2,NA
+"Management of companies",2014-01-01,5,NA
+"Management of companies",2014-02-01,2,NA
+"Management of companies",2014-03-01,2,NA
+"Management of companies",2014-04-01,5,NA
+"Management of companies",2014-05-01,5,NA
+"Management of companies",2014-06-01,4,NA
+"Management of companies",2014-07-01,5,NA
+"Management of companies",2014-08-01,4,NA
+"Management of companies",2014-09-01,3,NA
+"Management of companies",2014-10-01,2,NA
+"Management of companies",2014-11-01,5,NA
+"Management of companies",2014-12-01,5,NA
+"Management of companies",2015-01-01,3,NA
+"Management of companies",2015-02-01,1,NA
+"Management of companies",2015-03-01,7,NA
+"Management of companies",2015-04-01,2,NA
+"Management of companies",2015-05-01,2,NA
+"Management of companies",2015-06-01,5,NA
+"Management of companies",2015-07-01,3,NA
+"Management of companies",2015-08-01,1,NA
+"Management of companies",2015-09-01,5,NA
+"Management of companies",2015-10-01,2,NA
+"Management of companies",2015-11-01,5,NA
+"Management of companies",2015-12-01,4,NA
+"Management of companies",2016-01-01,7,NA
+"Management of companies",2016-02-01,6,NA
+"Management of companies",2016-03-01,5,NA
+"Management of companies",2016-04-01,3,NA
+"Management of companies",2016-05-01,4,NA
+"Management of companies",2016-06-01,5,NA
+"Management of companies",2016-07-01,1,NA
+"Management of companies",2016-08-01,3,NA
+"Management of companies",2016-09-01,4,NA
+"Management of companies",2016-10-01,6,NA
+"Management of companies",2016-11-01,3,NA
+"Management of companies",2016-12-01,8,NA
+"Management of companies",2017-01-01,4,NA
+"Management of companies",2017-02-01,7,NA
+"Management of companies",2017-03-01,4,NA
+"Management of companies",2017-04-01,4,NA
+"Management of companies",2017-05-01,5,NA
+"Management of companies",2017-06-01,7,NA
+"Management of companies",2017-07-01,4,NA
+"Management of companies",2017-08-01,1,NA
+"Management of companies",2017-09-01,7,NA
+"Management of companies",2017-10-01,4,NA
+"Management of companies",2017-11-01,12,NA
+"Management of companies",2017-12-01,5,NA
+"Management of companies",2018-01-01,5,NA
+"Management of companies",2018-02-01,6,NA
+"Management of companies",2018-03-01,5,NA
+"Management of companies",2018-04-01,3,NA
+"Management of companies",2018-05-01,4,NA
+"Management of companies",2018-06-01,6,NA
+"Management of companies",2018-07-01,7,NA
+"Management of companies",2018-08-01,5,NA
+"Management of companies",2018-09-01,4,NA
+"Management of companies",2018-10-01,7,NA
+"Management of companies",2018-11-01,8,NA
+"Management of companies",2018-12-01,6,NA
+"Management of companies",2019-01-01,6,NA
+"Management of companies",2019-02-01,4,NA
+"Management of companies",2019-03-01,7,NA
+"Management of companies",2019-04-01,9,NA
+"Management of companies",2019-05-01,5,NA
+"Management of companies",2019-06-01,4,NA
+"Management of companies",2019-07-01,8,NA
+"Management of companies",2019-08-01,4,NA
+"Management of companies",2019-09-01,5,NA
+"Management of companies",2019-10-01,6,NA
+"Management of companies",2019-11-01,5,NA
+"Management of companies",2019-12-01,5,NA
+"Management of companies",2020-01-01,5,NA
+"Management of companies",2020-02-01,7,NA
+"Management of companies",2020-03-01,5,NA
+"Management of companies",2020-04-01,4,NA
+"Management of companies",2020-05-01,7,NA
+"Management of companies",2020-06-01,8,NA
+"Management of companies",2020-07-01,5,NA
+"Management of companies",2020-08-01,6,NA
+"Management of companies",2020-09-01,9,NA
+"Management of companies",2020-10-01,1,NA
+"Management of companies",2020-11-01,3,NA
+"Management of companies",2020-12-01,8,NA
+"Management of companies",2021-01-01,2,NA
+"Management of companies",2021-02-01,6,NA
+"Management of companies",2021-03-01,6,NA
+"Management of companies",2021-04-01,6,NA
+"Management of companies",2021-05-01,7,NA
+"Management of companies",2021-06-01,5,NA
+"Management of companies",2021-07-01,3,NA
+"Management of companies",2021-08-01,3,NA
+"Management of companies",2021-09-01,2,NA
+"Management of companies",2021-10-01,2,NA
+"Management of companies",2021-11-01,2,NA
+"Management of companies",2021-12-01,7,NA
+"Management of companies",2022-01-01,6,NA
+"Management of companies",2022-02-01,6,NA
+"Management of companies",2022-03-01,9,NA
+"Management of companies",2022-04-01,3,NA
+"Management of companies",2022-05-01,3,NA
+"Management of companies",2022-06-01,4,NA
+"Management of companies",2022-07-01,0,NA
+"Management of companies",2022-08-01,3,NA
+"Management of companies",2022-09-01,4,NA
+"Management of companies",2022-10-01,13,NA
+"Management of companies",2022-11-01,15,NA
+"Management of companies",2022-12-01,4,NA
+"Management of companies",2023-01-01,4,NA
+"Management of companies",2023-02-01,4,NA
+"Management of companies",2023-03-01,10,NA
+"Management of companies",2023-04-01,6,NA
+"Management of companies",2023-05-01,5,NA
+"Management of companies",2023-06-01,4,NA
+"Management of companies",2023-07-01,4,NA
+"Management of companies",2023-08-01,4,NA
+"Management of companies",2023-09-01,5,NA
+"Management of companies",2023-10-01,14,NA
+"Management of companies",2023-11-01,12,NA
+"Management of companies",2023-12-01,11,NA
+"Management of companies",2024-01-01,12,NA
+"Management of companies",2024-02-01,17,NA
+"Management of companies",2024-03-01,8,NA
+"Management of companies",2024-04-01,11,NA
+"Management of companies",2024-05-01,15,NA
+"Management of companies",2024-06-01,14,NA
+"Management of companies",2024-07-01,8,NA
+"Management of companies",2024-08-01,10,NA
+"Management of companies",2024-09-01,3,NA
+"Management of companies",2024-10-01,10,NA
+"Management of companies",2024-11-01,6,NA
+"Management of companies",2024-12-01,12,NA
+"Management of companies",2025-01-01,5,NA
+"Management of companies",2025-02-01,11,NA
+"Management of companies",2025-03-01,9,NA
+"Management of companies",2025-04-01,16,NA
+"Management of companies",2025-05-01,11,NA
+"Administrative services",2011-01-01,12,NA
+"Administrative services",2011-02-01,9,NA
+"Administrative services",2011-03-01,15,NA
+"Administrative services",2011-04-01,13,NA
+"Administrative services",2011-05-01,12,NA
+"Administrative services",2011-06-01,12,NA
+"Administrative services",2011-07-01,4,NA
+"Administrative services",2011-08-01,16,NA
+"Administrative services",2011-09-01,22,NA
+"Administrative services",2011-10-01,18,NA
+"Administrative services",2011-11-01,18,NA
+"Administrative services",2011-12-01,13,NA
+"Administrative services",2012-01-01,12,NA
+"Administrative services",2012-02-01,17,NA
+"Administrative services",2012-03-01,10,NA
+"Administrative services",2012-04-01,9,NA
+"Administrative services",2012-05-01,16,NA
+"Administrative services",2012-06-01,15,NA
+"Administrative services",2012-07-01,10,NA
+"Administrative services",2012-08-01,8,NA
+"Administrative services",2012-09-01,15,NA
+"Administrative services",2012-10-01,11,NA
+"Administrative services",2012-11-01,11,NA
+"Administrative services",2012-12-01,12,NA
+"Administrative services",2013-01-01,17,NA
+"Administrative services",2013-02-01,8,NA
+"Administrative services",2013-03-01,13,NA
+"Administrative services",2013-04-01,13,NA
+"Administrative services",2013-05-01,14,NA
+"Administrative services",2013-06-01,15,NA
+"Administrative services",2013-07-01,14,NA
+"Administrative services",2013-08-01,13,NA
+"Administrative services",2013-09-01,9,NA
+"Administrative services",2013-10-01,10,NA
+"Administrative services",2013-11-01,7,NA
+"Administrative services",2013-12-01,15,NA
+"Administrative services",2014-01-01,5,NA
+"Administrative services",2014-02-01,11,NA
+"Administrative services",2014-03-01,9,NA
+"Administrative services",2014-04-01,19,NA
+"Administrative services",2014-05-01,11,NA
+"Administrative services",2014-06-01,17,NA
+"Administrative services",2014-07-01,14,NA
+"Administrative services",2014-08-01,15,NA
+"Administrative services",2014-09-01,15,NA
+"Administrative services",2014-10-01,18,NA
+"Administrative services",2014-11-01,11,NA
+"Administrative services",2014-12-01,12,NA
+"Administrative services",2015-01-01,10,NA
+"Administrative services",2015-02-01,8,NA
+"Administrative services",2015-03-01,17,NA
+"Administrative services",2015-04-01,15,NA
+"Administrative services",2015-05-01,11,NA
+"Administrative services",2015-06-01,15,NA
+"Administrative services",2015-07-01,18,NA
+"Administrative services",2015-08-01,9,NA
+"Administrative services",2015-09-01,11,NA
+"Administrative services",2015-10-01,8,NA
+"Administrative services",2015-11-01,14,NA
+"Administrative services",2015-12-01,12,NA
+"Administrative services",2016-01-01,11,NA
+"Administrative services",2016-02-01,12,NA
+"Administrative services",2016-03-01,8,NA
+"Administrative services",2016-04-01,9,NA
+"Administrative services",2016-05-01,16,NA
+"Administrative services",2016-06-01,12,NA
+"Administrative services",2016-07-01,9,NA
+"Administrative services",2016-08-01,12,NA
+"Administrative services",2016-09-01,11,NA
+"Administrative services",2016-10-01,16,NA
+"Administrative services",2016-11-01,11,NA
+"Administrative services",2016-12-01,16,NA
+"Administrative services",2017-01-01,10,NA
+"Administrative services",2017-02-01,16,NA
+"Administrative services",2017-03-01,8,NA
+"Administrative services",2017-04-01,13,NA
+"Administrative services",2017-05-01,16,NA
+"Administrative services",2017-06-01,6,NA
+"Administrative services",2017-07-01,7,NA
+"Administrative services",2017-08-01,6,NA
+"Administrative services",2017-09-01,5,NA
+"Administrative services",2017-10-01,7,NA
+"Administrative services",2017-11-01,7,NA
+"Administrative services",2017-12-01,9,NA
+"Administrative services",2018-01-01,4,NA
+"Administrative services",2018-02-01,17,NA
+"Administrative services",2018-03-01,13,NA
+"Administrative services",2018-04-01,13,NA
+"Administrative services",2018-05-01,11,NA
+"Administrative services",2018-06-01,10,NA
+"Administrative services",2018-07-01,3,NA
+"Administrative services",2018-08-01,4,NA
+"Administrative services",2018-09-01,10,NA
+"Administrative services",2018-10-01,10,NA
+"Administrative services",2018-11-01,7,NA
+"Administrative services",2018-12-01,7,NA
+"Administrative services",2019-01-01,8,NA
+"Administrative services",2019-02-01,11,NA
+"Administrative services",2019-03-01,9,NA
+"Administrative services",2019-04-01,11,NA
+"Administrative services",2019-05-01,15,NA
+"Administrative services",2019-06-01,13,NA
+"Administrative services",2019-07-01,6,NA
+"Administrative services",2019-08-01,10,NA
+"Administrative services",2019-09-01,11,NA
+"Administrative services",2019-10-01,13,NA
+"Administrative services",2019-11-01,4,NA
+"Administrative services",2019-12-01,13,NA
+"Administrative services",2020-01-01,8,NA
+"Administrative services",2020-02-01,5,NA
+"Administrative services",2020-03-01,5,NA
+"Administrative services",2020-04-01,5,NA
+"Administrative services",2020-05-01,4,NA
+"Administrative services",2020-06-01,3,NA
+"Administrative services",2020-07-01,12,NA
+"Administrative services",2020-08-01,4,NA
+"Administrative services",2020-09-01,14,NA
+"Administrative services",2020-10-01,10,NA
+"Administrative services",2020-11-01,5,NA
+"Administrative services",2020-12-01,9,NA
+"Administrative services",2021-01-01,6,NA
+"Administrative services",2021-02-01,10,NA
+"Administrative services",2021-03-01,10,NA
+"Administrative services",2021-04-01,10,NA
+"Administrative services",2021-05-01,2,NA
+"Administrative services",2021-06-01,11,NA
+"Administrative services",2021-07-01,10,NA
+"Administrative services",2021-08-01,4,NA
+"Administrative services",2021-09-01,16,NA
+"Administrative services",2021-10-01,9,NA
+"Administrative services",2021-11-01,8,NA
+"Administrative services",2021-12-01,15,NA
+"Administrative services",2022-01-01,8,NA
+"Administrative services",2022-02-01,17,NA
+"Administrative services",2022-03-01,13,NA
+"Administrative services",2022-04-01,10,NA
+"Administrative services",2022-05-01,11,NA
+"Administrative services",2022-06-01,11,NA
+"Administrative services",2022-07-01,4,NA
+"Administrative services",2022-08-01,7,NA
+"Administrative services",2022-09-01,12,NA
+"Administrative services",2022-10-01,7,NA
+"Administrative services",2022-11-01,12,NA
+"Administrative services",2022-12-01,10,NA
+"Administrative services",2023-01-01,3,NA
+"Administrative services",2023-02-01,11,NA
+"Administrative services",2023-03-01,14,NA
+"Administrative services",2023-04-01,9,NA
+"Administrative services",2023-05-01,14,NA
+"Administrative services",2023-06-01,15,NA
+"Administrative services",2023-07-01,19,NA
+"Administrative services",2023-08-01,11,NA
+"Administrative services",2023-09-01,18,NA
+"Administrative services",2023-10-01,21,NA
+"Administrative services",2023-11-01,20,NA
+"Administrative services",2023-12-01,20,NA
+"Administrative services",2024-01-01,24,NA
+"Administrative services",2024-02-01,19,NA
+"Administrative services",2024-03-01,24,NA
+"Administrative services",2024-04-01,38,NA
+"Administrative services",2024-05-01,27,NA
+"Administrative services",2024-06-01,24,NA
+"Administrative services",2024-07-01,16,NA
+"Administrative services",2024-08-01,20,NA
+"Administrative services",2024-09-01,13,NA
+"Administrative services",2024-10-01,21,NA
+"Administrative services",2024-11-01,23,NA
+"Administrative services",2024-12-01,14,NA
+"Administrative services",2025-01-01,21,NA
+"Administrative services",2025-02-01,16,NA
+"Administrative services",2025-03-01,16,NA
+"Administrative services",2025-04-01,11,NA
+"Administrative services",2025-05-01,14,NA
+"Education",2011-01-01,3,NA
+"Education",2011-02-01,0,NA
+"Education",2011-03-01,3,NA
+"Education",2011-04-01,4,NA
+"Education",2011-05-01,0,NA
+"Education",2011-06-01,1,NA
+"Education",2011-07-01,0,NA
+"Education",2011-08-01,3,NA
+"Education",2011-09-01,1,NA
+"Education",2011-10-01,3,NA
+"Education",2011-11-01,2,NA
+"Education",2011-12-01,3,NA
+"Education",2012-01-01,0,NA
+"Education",2012-02-01,5,NA
+"Education",2012-03-01,3,NA
+"Education",2012-04-01,1,NA
+"Education",2012-05-01,3,NA
+"Education",2012-06-01,2,NA
+"Education",2012-07-01,4,NA
+"Education",2012-08-01,0,NA
+"Education",2012-09-01,2,NA
+"Education",2012-10-01,2,NA
+"Education",2012-11-01,2,NA
+"Education",2012-12-01,2,NA
+"Education",2013-01-01,3,NA
+"Education",2013-02-01,1,NA
+"Education",2013-03-01,1,NA
+"Education",2013-04-01,3,NA
+"Education",2013-05-01,0,NA
+"Education",2013-06-01,2,NA
+"Education",2013-07-01,5,NA
+"Education",2013-08-01,3,NA
+"Education",2013-09-01,2,NA
+"Education",2013-10-01,4,NA
+"Education",2013-11-01,1,NA
+"Education",2013-12-01,1,NA
+"Education",2014-01-01,2,NA
+"Education",2014-02-01,5,NA
+"Education",2014-03-01,5,NA
+"Education",2014-04-01,7,NA
+"Education",2014-05-01,7,NA
+"Education",2014-06-01,5,NA
+"Education",2014-07-01,0,NA
+"Education",2014-08-01,3,NA
+"Education",2014-09-01,1,NA
+"Education",2014-10-01,4,NA
+"Education",2014-11-01,3,NA
+"Education",2014-12-01,2,NA
+"Education",2015-01-01,3,NA
+"Education",2015-02-01,6,NA
+"Education",2015-03-01,3,NA
+"Education",2015-04-01,3,NA
+"Education",2015-05-01,2,NA
+"Education",2015-06-01,2,NA
+"Education",2015-07-01,0,NA
+"Education",2015-08-01,2,NA
+"Education",2015-09-01,2,NA
+"Education",2015-10-01,1,NA
+"Education",2015-11-01,2,NA
+"Education",2015-12-01,4,NA
+"Education",2016-01-01,0,NA
+"Education",2016-02-01,4,NA
+"Education",2016-03-01,2,NA
+"Education",2016-04-01,0,NA
+"Education",2016-05-01,2,NA
+"Education",2016-06-01,3,NA
+"Education",2016-07-01,0,NA
+"Education",2016-08-01,2,NA
+"Education",2016-09-01,1,NA
+"Education",2016-10-01,3,NA
+"Education",2016-11-01,2,NA
+"Education",2016-12-01,1,NA
+"Education",2017-01-01,0,NA
+"Education",2017-02-01,6,NA
+"Education",2017-03-01,14,NA
+"Education",2017-04-01,1,NA
+"Education",2017-05-01,0,NA
+"Education",2017-06-01,2,NA
+"Education",2017-07-01,0,NA
+"Education",2017-08-01,3,NA
+"Education",2017-09-01,0,NA
+"Education",2017-10-01,3,NA
+"Education",2017-11-01,1,NA
+"Education",2017-12-01,1,NA
+"Education",2018-01-01,2,NA
+"Education",2018-02-01,2,NA
+"Education",2018-03-01,1,NA
+"Education",2018-04-01,4,NA
+"Education",2018-05-01,0,NA
+"Education",2018-06-01,2,NA
+"Education",2018-07-01,1,NA
+"Education",2018-08-01,4,NA
+"Education",2018-09-01,0,NA
+"Education",2018-10-01,2,NA
+"Education",2018-11-01,2,NA
+"Education",2018-12-01,2,NA
+"Education",2019-01-01,0,NA
+"Education",2019-02-01,3,NA
+"Education",2019-03-01,3,NA
+"Education",2019-04-01,2,NA
+"Education",2019-05-01,1,NA
+"Education",2019-06-01,2,NA
+"Education",2019-07-01,2,NA
+"Education",2019-08-01,3,NA
+"Education",2019-09-01,2,NA
+"Education",2019-10-01,3,NA
+"Education",2019-11-01,1,NA
+"Education",2019-12-01,1,NA
+"Education",2020-01-01,3,NA
+"Education",2020-02-01,4,NA
+"Education",2020-03-01,0,NA
+"Education",2020-04-01,0,NA
+"Education",2020-05-01,2,NA
+"Education",2020-06-01,6,NA
+"Education",2020-07-01,3,NA
+"Education",2020-08-01,2,NA
+"Education",2020-09-01,2,NA
+"Education",2020-10-01,3,NA
+"Education",2020-11-01,4,NA
+"Education",2020-12-01,3,NA
+"Education",2021-01-01,1,NA
+"Education",2021-02-01,3,NA
+"Education",2021-03-01,0,NA
+"Education",2021-04-01,0,NA
+"Education",2021-05-01,4,NA
+"Education",2021-06-01,1,NA
+"Education",2021-07-01,0,NA
+"Education",2021-08-01,1,NA
+"Education",2021-09-01,3,NA
+"Education",2021-10-01,2,NA
+"Education",2021-11-01,2,NA
+"Education",2021-12-01,2,NA
+"Education",2022-01-01,2,NA
+"Education",2022-02-01,1,NA
+"Education",2022-03-01,3,NA
+"Education",2022-04-01,2,NA
+"Education",2022-05-01,0,NA
+"Education",2022-06-01,0,NA
+"Education",2022-07-01,1,NA
+"Education",2022-08-01,2,NA
+"Education",2022-09-01,1,NA
+"Education",2022-10-01,4,NA
+"Education",2022-11-01,7,NA
+"Education",2022-12-01,5,NA
+"Education",2023-01-01,5,NA
+"Education",2023-02-01,5,NA
+"Education",2023-03-01,3,NA
+"Education",2023-04-01,4,NA
+"Education",2023-05-01,3,NA
+"Education",2023-06-01,0,NA
+"Education",2023-07-01,2,NA
+"Education",2023-08-01,2,NA
+"Education",2023-09-01,2,NA
+"Education",2023-10-01,5,NA
+"Education",2023-11-01,6,NA
+"Education",2023-12-01,5,NA
+"Education",2024-01-01,12,NA
+"Education",2024-02-01,5,NA
+"Education",2024-03-01,4,NA
+"Education",2024-04-01,3,NA
+"Education",2024-05-01,6,NA
+"Education",2024-06-01,4,NA
+"Education",2024-07-01,9,NA
+"Education",2024-08-01,4,NA
+"Education",2024-09-01,4,NA
+"Education",2024-10-01,3,NA
+"Education",2024-11-01,2,NA
+"Education",2024-12-01,5,NA
+"Education",2025-01-01,3,NA
+"Education",2025-02-01,3,NA
+"Education",2025-03-01,2,NA
+"Education",2025-04-01,4,NA
+"Education",2025-05-01,4,NA
+"Health care, social assistance",2011-01-01,6,NA
+"Health care, social assistance",2011-02-01,4,NA
+"Health care, social assistance",2011-03-01,13,NA
+"Health care, social assistance",2011-04-01,8,NA
+"Health care, social assistance",2011-05-01,8,NA
+"Health care, social assistance",2011-06-01,5,NA
+"Health care, social assistance",2011-07-01,2,NA
+"Health care, social assistance",2011-08-01,3,NA
+"Health care, social assistance",2011-09-01,7,NA
+"Health care, social assistance",2011-10-01,2,NA
+"Health care, social assistance",2011-11-01,3,NA
+"Health care, social assistance",2011-12-01,2,NA
+"Health care, social assistance",2012-01-01,6,NA
+"Health care, social assistance",2012-02-01,2,NA
+"Health care, social assistance",2012-03-01,3,NA
+"Health care, social assistance",2012-04-01,4,NA
+"Health care, social assistance",2012-05-01,4,NA
+"Health care, social assistance",2012-06-01,3,NA
+"Health care, social assistance",2012-07-01,4,NA
+"Health care, social assistance",2012-08-01,6,NA
+"Health care, social assistance",2012-09-01,5,NA
+"Health care, social assistance",2012-10-01,2,NA
+"Health care, social assistance",2012-11-01,2,NA
+"Health care, social assistance",2012-12-01,3,NA
+"Health care, social assistance",2013-01-01,2,NA
+"Health care, social assistance",2013-02-01,4,NA
+"Health care, social assistance",2013-03-01,2,NA
+"Health care, social assistance",2013-04-01,8,NA
+"Health care, social assistance",2013-05-01,4,NA
+"Health care, social assistance",2013-06-01,5,NA
+"Health care, social assistance",2013-07-01,2,NA
+"Health care, social assistance",2013-08-01,2,NA
+"Health care, social assistance",2013-09-01,6,NA
+"Health care, social assistance",2013-10-01,3,NA
+"Health care, social assistance",2013-11-01,9,NA
+"Health care, social assistance",2013-12-01,4,NA
+"Health care, social assistance",2014-01-01,1,NA
+"Health care, social assistance",2014-02-01,6,NA
+"Health care, social assistance",2014-03-01,8,NA
+"Health care, social assistance",2014-04-01,6,NA
+"Health care, social assistance",2014-05-01,8,NA
+"Health care, social assistance",2014-06-01,2,NA
+"Health care, social assistance",2014-07-01,6,NA
+"Health care, social assistance",2014-08-01,2,NA
+"Health care, social assistance",2014-09-01,5,NA
+"Health care, social assistance",2014-10-01,17,NA
+"Health care, social assistance",2014-11-01,7,NA
+"Health care, social assistance",2014-12-01,5,NA
+"Health care, social assistance",2015-01-01,4,NA
+"Health care, social assistance",2015-02-01,2,NA
+"Health care, social assistance",2015-03-01,7,NA
+"Health care, social assistance",2015-04-01,4,NA
+"Health care, social assistance",2015-05-01,5,NA
+"Health care, social assistance",2015-06-01,5,NA
+"Health care, social assistance",2015-07-01,2,NA
+"Health care, social assistance",2015-08-01,4,NA
+"Health care, social assistance",2015-09-01,11,NA
+"Health care, social assistance",2015-10-01,5,NA
+"Health care, social assistance",2015-11-01,5,NA
+"Health care, social assistance",2015-12-01,2,NA
+"Health care, social assistance",2016-01-01,4,NA
+"Health care, social assistance",2016-02-01,1,NA
+"Health care, social assistance",2016-03-01,6,NA
+"Health care, social assistance",2016-04-01,3,NA
+"Health care, social assistance",2016-05-01,4,NA
+"Health care, social assistance",2016-06-01,7,NA
+"Health care, social assistance",2016-07-01,3,NA
+"Health care, social assistance",2016-08-01,6,NA
+"Health care, social assistance",2016-09-01,4,NA
+"Health care, social assistance",2016-10-01,4,NA
+"Health care, social assistance",2016-11-01,6,NA
+"Health care, social assistance",2016-12-01,4,NA
+"Health care, social assistance",2017-01-01,3,NA
+"Health care, social assistance",2017-02-01,4,NA
+"Health care, social assistance",2017-03-01,9,NA
+"Health care, social assistance",2017-04-01,5,NA
+"Health care, social assistance",2017-05-01,5,NA
+"Health care, social assistance",2017-06-01,6,NA
+"Health care, social assistance",2017-07-01,7,NA
+"Health care, social assistance",2017-08-01,3,NA
+"Health care, social assistance",2017-09-01,2,NA
+"Health care, social assistance",2017-10-01,7,NA
+"Health care, social assistance",2017-11-01,5,NA
+"Health care, social assistance",2017-12-01,6,NA
+"Health care, social assistance",2018-01-01,1,NA
+"Health care, social assistance",2018-02-01,6,NA
+"Health care, social assistance",2018-03-01,5,NA
+"Health care, social assistance",2018-04-01,8,NA
+"Health care, social assistance",2018-05-01,4,NA
+"Health care, social assistance",2018-06-01,1,NA
+"Health care, social assistance",2018-07-01,2,NA
+"Health care, social assistance",2018-08-01,7,NA
+"Health care, social assistance",2018-09-01,6,NA
+"Health care, social assistance",2018-10-01,2,NA
+"Health care, social assistance",2018-11-01,4,NA
+"Health care, social assistance",2018-12-01,2,NA
+"Health care, social assistance",2019-01-01,6,NA
+"Health care, social assistance",2019-02-01,1,NA
+"Health care, social assistance",2019-03-01,11,NA
+"Health care, social assistance",2019-04-01,7,NA
+"Health care, social assistance",2019-05-01,1,NA
+"Health care, social assistance",2019-06-01,7,NA
+"Health care, social assistance",2019-07-01,3,NA
+"Health care, social assistance",2019-08-01,3,NA
+"Health care, social assistance",2019-09-01,5,NA
+"Health care, social assistance",2019-10-01,7,NA
+"Health care, social assistance",2019-11-01,6,NA
+"Health care, social assistance",2019-12-01,1,NA
+"Health care, social assistance",2020-01-01,6,NA
+"Health care, social assistance",2020-02-01,3,NA
+"Health care, social assistance",2020-03-01,1,NA
+"Health care, social assistance",2020-04-01,2,NA
+"Health care, social assistance",2020-05-01,4,NA
+"Health care, social assistance",2020-06-01,8,NA
+"Health care, social assistance",2020-07-01,4,NA
+"Health care, social assistance",2020-08-01,1,NA
+"Health care, social assistance",2020-09-01,5,NA
+"Health care, social assistance",2020-10-01,11,NA
+"Health care, social assistance",2020-11-01,4,NA
+"Health care, social assistance",2020-12-01,4,NA
+"Health care, social assistance",2021-01-01,2,NA
+"Health care, social assistance",2021-02-01,6,NA
+"Health care, social assistance",2021-03-01,6,NA
+"Health care, social assistance",2021-04-01,6,NA
+"Health care, social assistance",2021-05-01,2,NA
+"Health care, social assistance",2021-06-01,1,NA
+"Health care, social assistance",2021-07-01,2,NA
+"Health care, social assistance",2021-08-01,5,NA
+"Health care, social assistance",2021-09-01,7,NA
+"Health care, social assistance",2021-10-01,3,NA
+"Health care, social assistance",2021-11-01,4,NA
+"Health care, social assistance",2021-12-01,7,NA
+"Health care, social assistance",2022-01-01,9,NA
+"Health care, social assistance",2022-02-01,5,NA
+"Health care, social assistance",2022-03-01,4,NA
+"Health care, social assistance",2022-04-01,2,NA
+"Health care, social assistance",2022-05-01,7,NA
+"Health care, social assistance",2022-06-01,7,NA
+"Health care, social assistance",2022-07-01,8,NA
+"Health care, social assistance",2022-08-01,6,NA
+"Health care, social assistance",2022-09-01,5,NA
+"Health care, social assistance",2022-10-01,6,NA
+"Health care, social assistance",2022-11-01,2,NA
+"Health care, social assistance",2022-12-01,6,NA
+"Health care, social assistance",2023-01-01,1,NA
+"Health care, social assistance",2023-02-01,2,NA
+"Health care, social assistance",2023-03-01,6,NA
+"Health care, social assistance",2023-04-01,5,NA
+"Health care, social assistance",2023-05-01,8,NA
+"Health care, social assistance",2023-06-01,12,NA
+"Health care, social assistance",2023-07-01,4,NA
+"Health care, social assistance",2023-08-01,9,NA
+"Health care, social assistance",2023-09-01,5,NA
+"Health care, social assistance",2023-10-01,7,NA
+"Health care, social assistance",2023-11-01,9,NA
+"Health care, social assistance",2023-12-01,8,NA
+"Health care, social assistance",2024-01-01,18,NA
+"Health care, social assistance",2024-02-01,12,NA
+"Health care, social assistance",2024-03-01,10,NA
+"Health care, social assistance",2024-04-01,12,NA
+"Health care, social assistance",2024-05-01,11,NA
+"Health care, social assistance",2024-06-01,16,NA
+"Health care, social assistance",2024-07-01,7,NA
+"Health care, social assistance",2024-08-01,12,NA
+"Health care, social assistance",2024-09-01,6,NA
+"Health care, social assistance",2024-10-01,2,NA
+"Health care, social assistance",2024-11-01,11,NA
+"Health care, social assistance",2024-12-01,9,NA
+"Health care, social assistance",2025-01-01,12,NA
+"Health care, social assistance",2025-02-01,5,NA
+"Health care, social assistance",2025-03-01,14,NA
+"Health care, social assistance",2025-04-01,12,NA
+"Health care, social assistance",2025-05-01,8,NA
+"Arts, entertainment, recreation",2011-01-01,2,NA
+"Arts, entertainment, recreation",2011-02-01,6,NA
+"Arts, entertainment, recreation",2011-03-01,5,NA
+"Arts, entertainment, recreation",2011-04-01,5,NA
+"Arts, entertainment, recreation",2011-05-01,10,NA
+"Arts, entertainment, recreation",2011-06-01,12,NA
+"Arts, entertainment, recreation",2011-07-01,4,NA
+"Arts, entertainment, recreation",2011-08-01,4,NA
+"Arts, entertainment, recreation",2011-09-01,8,NA
+"Arts, entertainment, recreation",2011-10-01,3,NA
+"Arts, entertainment, recreation",2011-11-01,9,NA
+"Arts, entertainment, recreation",2011-12-01,6,NA
+"Arts, entertainment, recreation",2012-01-01,2,NA
+"Arts, entertainment, recreation",2012-02-01,9,NA
+"Arts, entertainment, recreation",2012-03-01,7,NA
+"Arts, entertainment, recreation",2012-04-01,4,NA
+"Arts, entertainment, recreation",2012-05-01,5,NA
+"Arts, entertainment, recreation",2012-06-01,5,NA
+"Arts, entertainment, recreation",2012-07-01,4,NA
+"Arts, entertainment, recreation",2012-08-01,3,NA
+"Arts, entertainment, recreation",2012-09-01,4,NA
+"Arts, entertainment, recreation",2012-10-01,5,NA
+"Arts, entertainment, recreation",2012-11-01,8,NA
+"Arts, entertainment, recreation",2012-12-01,6,NA
+"Arts, entertainment, recreation",2013-01-01,4,NA
+"Arts, entertainment, recreation",2013-02-01,8,NA
+"Arts, entertainment, recreation",2013-03-01,6,NA
+"Arts, entertainment, recreation",2013-04-01,9,NA
+"Arts, entertainment, recreation",2013-05-01,5,NA
+"Arts, entertainment, recreation",2013-06-01,4,NA
+"Arts, entertainment, recreation",2013-07-01,8,NA
+"Arts, entertainment, recreation",2013-08-01,6,NA
+"Arts, entertainment, recreation",2013-09-01,6,NA
+"Arts, entertainment, recreation",2013-10-01,4,NA
+"Arts, entertainment, recreation",2013-11-01,3,NA
+"Arts, entertainment, recreation",2013-12-01,5,NA
+"Arts, entertainment, recreation",2014-01-01,1,NA
+"Arts, entertainment, recreation",2014-02-01,11,NA
+"Arts, entertainment, recreation",2014-03-01,10,NA
+"Arts, entertainment, recreation",2014-04-01,6,NA
+"Arts, entertainment, recreation",2014-05-01,10,NA
+"Arts, entertainment, recreation",2014-06-01,1,NA
+"Arts, entertainment, recreation",2014-07-01,4,NA
+"Arts, entertainment, recreation",2014-08-01,5,NA
+"Arts, entertainment, recreation",2014-09-01,7,NA
+"Arts, entertainment, recreation",2014-10-01,6,NA
+"Arts, entertainment, recreation",2014-11-01,3,NA
+"Arts, entertainment, recreation",2014-12-01,4,NA
+"Arts, entertainment, recreation",2015-01-01,3,NA
+"Arts, entertainment, recreation",2015-02-01,7,NA
+"Arts, entertainment, recreation",2015-03-01,7,NA
+"Arts, entertainment, recreation",2015-04-01,4,NA
+"Arts, entertainment, recreation",2015-05-01,7,NA
+"Arts, entertainment, recreation",2015-06-01,2,NA
+"Arts, entertainment, recreation",2015-07-01,5,NA
+"Arts, entertainment, recreation",2015-08-01,4,NA
+"Arts, entertainment, recreation",2015-09-01,0,NA
+"Arts, entertainment, recreation",2015-10-01,4,NA
+"Arts, entertainment, recreation",2015-11-01,8,NA
+"Arts, entertainment, recreation",2015-12-01,1,NA
+"Arts, entertainment, recreation",2016-01-01,6,NA
+"Arts, entertainment, recreation",2016-02-01,9,NA
+"Arts, entertainment, recreation",2016-03-01,8,NA
+"Arts, entertainment, recreation",2016-04-01,6,NA
+"Arts, entertainment, recreation",2016-05-01,7,NA
+"Arts, entertainment, recreation",2016-06-01,6,NA
+"Arts, entertainment, recreation",2016-07-01,2,NA
+"Arts, entertainment, recreation",2016-08-01,4,NA
+"Arts, entertainment, recreation",2016-09-01,3,NA
+"Arts, entertainment, recreation",2016-10-01,5,NA
+"Arts, entertainment, recreation",2016-11-01,4,NA
+"Arts, entertainment, recreation",2016-12-01,4,NA
+"Arts, entertainment, recreation",2017-01-01,3,NA
+"Arts, entertainment, recreation",2017-02-01,3,NA
+"Arts, entertainment, recreation",2017-03-01,6,NA
+"Arts, entertainment, recreation",2017-04-01,7,NA
+"Arts, entertainment, recreation",2017-05-01,6,NA
+"Arts, entertainment, recreation",2017-06-01,3,NA
+"Arts, entertainment, recreation",2017-07-01,2,NA
+"Arts, entertainment, recreation",2017-08-01,7,NA
+"Arts, entertainment, recreation",2017-09-01,1,NA
+"Arts, entertainment, recreation",2017-10-01,7,NA
+"Arts, entertainment, recreation",2017-11-01,8,NA
+"Arts, entertainment, recreation",2017-12-01,6,NA
+"Arts, entertainment, recreation",2018-01-01,8,NA
+"Arts, entertainment, recreation",2018-02-01,6,NA
+"Arts, entertainment, recreation",2018-03-01,4,NA
+"Arts, entertainment, recreation",2018-04-01,2,NA
+"Arts, entertainment, recreation",2018-05-01,6,NA
+"Arts, entertainment, recreation",2018-06-01,5,NA
+"Arts, entertainment, recreation",2018-07-01,5,NA
+"Arts, entertainment, recreation",2018-08-01,2,NA
+"Arts, entertainment, recreation",2018-09-01,6,NA
+"Arts, entertainment, recreation",2018-10-01,3,NA
+"Arts, entertainment, recreation",2018-11-01,1,NA
+"Arts, entertainment, recreation",2018-12-01,4,NA
+"Arts, entertainment, recreation",2019-01-01,7,NA
+"Arts, entertainment, recreation",2019-02-01,5,NA
+"Arts, entertainment, recreation",2019-03-01,4,NA
+"Arts, entertainment, recreation",2019-04-01,4,NA
+"Arts, entertainment, recreation",2019-05-01,5,NA
+"Arts, entertainment, recreation",2019-06-01,5,NA
+"Arts, entertainment, recreation",2019-07-01,9,NA
+"Arts, entertainment, recreation",2019-08-01,7,NA
+"Arts, entertainment, recreation",2019-09-01,4,NA
+"Arts, entertainment, recreation",2019-10-01,2,NA
+"Arts, entertainment, recreation",2019-11-01,5,NA
+"Arts, entertainment, recreation",2019-12-01,5,NA
+"Arts, entertainment, recreation",2020-01-01,11,NA
+"Arts, entertainment, recreation",2020-02-01,7,NA
+"Arts, entertainment, recreation",2020-03-01,3,NA
+"Arts, entertainment, recreation",2020-04-01,8,NA
+"Arts, entertainment, recreation",2020-05-01,12,NA
+"Arts, entertainment, recreation",2020-06-01,11,NA
+"Arts, entertainment, recreation",2020-07-01,11,NA
+"Arts, entertainment, recreation",2020-08-01,6,NA
+"Arts, entertainment, recreation",2020-09-01,8,NA
+"Arts, entertainment, recreation",2020-10-01,6,NA
+"Arts, entertainment, recreation",2020-11-01,6,NA
+"Arts, entertainment, recreation",2020-12-01,4,NA
+"Arts, entertainment, recreation",2021-01-01,2,NA
+"Arts, entertainment, recreation",2021-02-01,5,NA
+"Arts, entertainment, recreation",2021-03-01,4,NA
+"Arts, entertainment, recreation",2021-04-01,4,NA
+"Arts, entertainment, recreation",2021-05-01,4,NA
+"Arts, entertainment, recreation",2021-06-01,4,NA
+"Arts, entertainment, recreation",2021-07-01,3,NA
+"Arts, entertainment, recreation",2021-08-01,6,NA
+"Arts, entertainment, recreation",2021-09-01,6,NA
+"Arts, entertainment, recreation",2021-10-01,4,NA
+"Arts, entertainment, recreation",2021-11-01,2,NA
+"Arts, entertainment, recreation",2021-12-01,6,NA
+"Arts, entertainment, recreation",2022-01-01,8,NA
+"Arts, entertainment, recreation",2022-02-01,7,NA
+"Arts, entertainment, recreation",2022-03-01,5,NA
+"Arts, entertainment, recreation",2022-04-01,5,NA
+"Arts, entertainment, recreation",2022-05-01,4,NA
+"Arts, entertainment, recreation",2022-06-01,7,NA
+"Arts, entertainment, recreation",2022-07-01,13,NA
+"Arts, entertainment, recreation",2022-08-01,7,NA
+"Arts, entertainment, recreation",2022-09-01,4,NA
+"Arts, entertainment, recreation",2022-10-01,5,NA
+"Arts, entertainment, recreation",2022-11-01,5,NA
+"Arts, entertainment, recreation",2022-12-01,3,NA
+"Arts, entertainment, recreation",2023-01-01,9,NA
+"Arts, entertainment, recreation",2023-02-01,9,NA
+"Arts, entertainment, recreation",2023-03-01,11,NA
+"Arts, entertainment, recreation",2023-04-01,5,NA
+"Arts, entertainment, recreation",2023-05-01,7,NA
+"Arts, entertainment, recreation",2023-06-01,7,NA
+"Arts, entertainment, recreation",2023-07-01,11,NA
+"Arts, entertainment, recreation",2023-08-01,11,NA
+"Arts, entertainment, recreation",2023-09-01,6,NA
+"Arts, entertainment, recreation",2023-10-01,11,NA
+"Arts, entertainment, recreation",2023-11-01,9,NA
+"Arts, entertainment, recreation",2023-12-01,18,NA
+"Arts, entertainment, recreation",2024-01-01,13,NA
+"Arts, entertainment, recreation",2024-02-01,19,NA
+"Arts, entertainment, recreation",2024-03-01,16,NA
+"Arts, entertainment, recreation",2024-04-01,13,NA
+"Arts, entertainment, recreation",2024-05-01,8,NA
+"Arts, entertainment, recreation",2024-06-01,8,NA
+"Arts, entertainment, recreation",2024-07-01,10,NA
+"Arts, entertainment, recreation",2024-08-01,7,NA
+"Arts, entertainment, recreation",2024-09-01,7,NA
+"Arts, entertainment, recreation",2024-10-01,4,NA
+"Arts, entertainment, recreation",2024-11-01,2,NA
+"Arts, entertainment, recreation",2024-12-01,2,NA
+"Arts, entertainment, recreation",2025-01-01,10,NA
+"Arts, entertainment, recreation",2025-02-01,5,NA
+"Arts, entertainment, recreation",2025-03-01,5,NA
+"Arts, entertainment, recreation",2025-04-01,10,NA
+"Arts, entertainment, recreation",2025-05-01,8,NA
+"Accommodation, food services",2011-01-01,41,NA
+"Accommodation, food services",2011-02-01,39,NA
+"Accommodation, food services",2011-03-01,54,NA
+"Accommodation, food services",2011-04-01,33,NA
+"Accommodation, food services",2011-05-01,47,NA
+"Accommodation, food services",2011-06-01,54,NA
+"Accommodation, food services",2011-07-01,25,NA
+"Accommodation, food services",2011-08-01,40,NA
+"Accommodation, food services",2011-09-01,45,NA
+"Accommodation, food services",2011-10-01,37,NA
+"Accommodation, food services",2011-11-01,50,NA
+"Accommodation, food services",2011-12-01,45,NA
+"Accommodation, food services",2012-01-01,38,NA
+"Accommodation, food services",2012-02-01,45,NA
+"Accommodation, food services",2012-03-01,36,NA
+"Accommodation, food services",2012-04-01,41,NA
+"Accommodation, food services",2012-05-01,41,NA
+"Accommodation, food services",2012-06-01,37,NA
+"Accommodation, food services",2012-07-01,36,NA
+"Accommodation, food services",2012-08-01,40,NA
+"Accommodation, food services",2012-09-01,39,NA
+"Accommodation, food services",2012-10-01,26,NA
+"Accommodation, food services",2012-11-01,34,NA
+"Accommodation, food services",2012-12-01,27,NA
+"Accommodation, food services",2013-01-01,37,NA
+"Accommodation, food services",2013-02-01,40,NA
+"Accommodation, food services",2013-03-01,40,NA
+"Accommodation, food services",2013-04-01,47,NA
+"Accommodation, food services",2013-05-01,50,NA
+"Accommodation, food services",2013-06-01,37,NA
+"Accommodation, food services",2013-07-01,38,NA
+"Accommodation, food services",2013-08-01,32,NA
+"Accommodation, food services",2013-09-01,37,NA
+"Accommodation, food services",2013-10-01,38,NA
+"Accommodation, food services",2013-11-01,38,NA
+"Accommodation, food services",2013-12-01,46,NA
+"Accommodation, food services",2014-01-01,47,NA
+"Accommodation, food services",2014-02-01,31,NA
+"Accommodation, food services",2014-03-01,43,NA
+"Accommodation, food services",2014-04-01,36,NA
+"Accommodation, food services",2014-05-01,37,NA
+"Accommodation, food services",2014-06-01,36,NA
+"Accommodation, food services",2014-07-01,36,NA
+"Accommodation, food services",2014-08-01,38,NA
+"Accommodation, food services",2014-09-01,39,NA
+"Accommodation, food services",2014-10-01,53,NA
+"Accommodation, food services",2014-11-01,63,NA
+"Accommodation, food services",2014-12-01,34,NA
+"Accommodation, food services",2015-01-01,43,NA
+"Accommodation, food services",2015-02-01,48,NA
+"Accommodation, food services",2015-03-01,45,NA
+"Accommodation, food services",2015-04-01,41,NA
+"Accommodation, food services",2015-05-01,45,NA
+"Accommodation, food services",2015-06-01,54,NA
+"Accommodation, food services",2015-07-01,43,NA
+"Accommodation, food services",2015-08-01,40,NA
+"Accommodation, food services",2015-09-01,35,NA
+"Accommodation, food services",2015-10-01,29,NA
+"Accommodation, food services",2015-11-01,45,NA
+"Accommodation, food services",2015-12-01,58,NA
+"Accommodation, food services",2016-01-01,36,NA
+"Accommodation, food services",2016-02-01,47,NA
+"Accommodation, food services",2016-03-01,42,NA
+"Accommodation, food services",2016-04-01,33,NA
+"Accommodation, food services",2016-05-01,45,NA
+"Accommodation, food services",2016-06-01,53,NA
+"Accommodation, food services",2016-07-01,34,NA
+"Accommodation, food services",2016-08-01,42,NA
+"Accommodation, food services",2016-09-01,41,NA
+"Accommodation, food services",2016-10-01,37,NA
+"Accommodation, food services",2016-11-01,39,NA
+"Accommodation, food services",2016-12-01,24,NA
+"Accommodation, food services",2017-01-01,31,NA
+"Accommodation, food services",2017-02-01,34,NA
+"Accommodation, food services",2017-03-01,41,NA
+"Accommodation, food services",2017-04-01,27,NA
+"Accommodation, food services",2017-05-01,47,NA
+"Accommodation, food services",2017-06-01,30,NA
+"Accommodation, food services",2017-07-01,33,NA
+"Accommodation, food services",2017-08-01,36,NA
+"Accommodation, food services",2017-09-01,22,NA
+"Accommodation, food services",2017-10-01,46,NA
+"Accommodation, food services",2017-11-01,36,NA
+"Accommodation, food services",2017-12-01,21,NA
+"Accommodation, food services",2018-01-01,27,NA
+"Accommodation, food services",2018-02-01,35,NA
+"Accommodation, food services",2018-03-01,47,NA
+"Accommodation, food services",2018-04-01,30,NA
+"Accommodation, food services",2018-05-01,33,NA
+"Accommodation, food services",2018-06-01,30,NA
+"Accommodation, food services",2018-07-01,27,NA
+"Accommodation, food services",2018-08-01,40,NA
+"Accommodation, food services",2018-09-01,30,NA
+"Accommodation, food services",2018-10-01,31,NA
+"Accommodation, food services",2018-11-01,38,NA
+"Accommodation, food services",2018-12-01,43,NA
+"Accommodation, food services",2019-01-01,40,NA
+"Accommodation, food services",2019-02-01,38,NA
+"Accommodation, food services",2019-03-01,44,NA
+"Accommodation, food services",2019-04-01,48,NA
+"Accommodation, food services",2019-05-01,35,NA
+"Accommodation, food services",2019-06-01,27,NA
+"Accommodation, food services",2019-07-01,36,NA
+"Accommodation, food services",2019-08-01,22,NA
+"Accommodation, food services",2019-09-01,27,NA
+"Accommodation, food services",2019-10-01,24,NA
+"Accommodation, food services",2019-11-01,25,NA
+"Accommodation, food services",2019-12-01,34,NA
+"Accommodation, food services",2020-01-01,38,NA
+"Accommodation, food services",2020-02-01,46,NA
+"Accommodation, food services",2020-03-01,25,NA
+"Accommodation, food services",2020-04-01,15,NA
+"Accommodation, food services",2020-05-01,35,NA
+"Accommodation, food services",2020-06-01,42,NA
+"Accommodation, food services",2020-07-01,31,NA
+"Accommodation, food services",2020-08-01,25,NA
+"Accommodation, food services",2020-09-01,28,NA
+"Accommodation, food services",2020-10-01,30,NA
+"Accommodation, food services",2020-11-01,17,NA
+"Accommodation, food services",2020-12-01,25,NA
+"Accommodation, food services",2021-01-01,11,NA
+"Accommodation, food services",2021-02-01,20,NA
+"Accommodation, food services",2021-03-01,18,NA
+"Accommodation, food services",2021-04-01,18,NA
+"Accommodation, food services",2021-05-01,22,NA
+"Accommodation, food services",2021-06-01,25,NA
+"Accommodation, food services",2021-07-01,12,NA
+"Accommodation, food services",2021-08-01,19,NA
+"Accommodation, food services",2021-09-01,32,NA
+"Accommodation, food services",2021-10-01,29,NA
+"Accommodation, food services",2021-11-01,34,NA
+"Accommodation, food services",2021-12-01,48,NA
+"Accommodation, food services",2022-01-01,24,NA
+"Accommodation, food services",2022-02-01,18,NA
+"Accommodation, food services",2022-03-01,32,NA
+"Accommodation, food services",2022-04-01,32,NA
+"Accommodation, food services",2022-05-01,22,NA
+"Accommodation, food services",2022-06-01,50,NA
+"Accommodation, food services",2022-07-01,38,NA
+"Accommodation, food services",2022-08-01,43,NA
+"Accommodation, food services",2022-09-01,35,NA
+"Accommodation, food services",2022-10-01,41,NA
+"Accommodation, food services",2022-11-01,44,NA
+"Accommodation, food services",2022-12-01,44,NA
+"Accommodation, food services",2023-01-01,53,NA
+"Accommodation, food services",2023-02-01,39,NA
+"Accommodation, food services",2023-03-01,59,NA
+"Accommodation, food services",2023-04-01,41,NA
+"Accommodation, food services",2023-05-01,54,NA
+"Accommodation, food services",2023-06-01,42,NA
+"Accommodation, food services",2023-07-01,30,NA
+"Accommodation, food services",2023-08-01,54,NA
+"Accommodation, food services",2023-09-01,38,NA
+"Accommodation, food services",2023-10-01,55,NA
+"Accommodation, food services",2023-11-01,59,NA
+"Accommodation, food services",2023-12-01,60,NA
+"Accommodation, food services",2024-01-01,107,NA
+"Accommodation, food services",2024-02-01,95,NA
+"Accommodation, food services",2024-03-01,100,NA
+"Accommodation, food services",2024-04-01,58,NA
+"Accommodation, food services",2024-05-01,62,NA
+"Accommodation, food services",2024-06-01,39,NA
+"Accommodation, food services",2024-07-01,50,NA
+"Accommodation, food services",2024-08-01,45,NA
+"Accommodation, food services",2024-09-01,44,NA
+"Accommodation, food services",2024-10-01,38,NA
+"Accommodation, food services",2024-11-01,46,NA
+"Accommodation, food services",2024-12-01,32,NA
+"Accommodation, food services",2025-01-01,48,NA
+"Accommodation, food services",2025-02-01,44,NA
+"Accommodation, food services",2025-03-01,42,NA
+"Accommodation, food services",2025-04-01,49,NA
+"Accommodation, food services",2025-05-01,44,NA
+"Other services",2011-01-01,22,NA
+"Other services",2011-02-01,23,NA
+"Other services",2011-03-01,22,NA
+"Other services",2011-04-01,17,NA
+"Other services",2011-05-01,20,NA
+"Other services",2011-06-01,24,NA
+"Other services",2011-07-01,13,NA
+"Other services",2011-08-01,18,NA
+"Other services",2011-09-01,17,NA
+"Other services",2011-10-01,13,NA
+"Other services",2011-11-01,27,NA
+"Other services",2011-12-01,22,NA
+"Other services",2012-01-01,16,NA
+"Other services",2012-02-01,24,NA
+"Other services",2012-03-01,17,NA
+"Other services",2012-04-01,19,NA
+"Other services",2012-05-01,20,NA
+"Other services",2012-06-01,10,NA
+"Other services",2012-07-01,19,NA
+"Other services",2012-08-01,26,NA
+"Other services",2012-09-01,14,NA
+"Other services",2012-10-01,16,NA
+"Other services",2012-11-01,18,NA
+"Other services",2012-12-01,17,NA
+"Other services",2013-01-01,21,NA
+"Other services",2013-02-01,15,NA
+"Other services",2013-03-01,7,NA
+"Other services",2013-04-01,17,NA
+"Other services",2013-05-01,18,NA
+"Other services",2013-06-01,13,NA
+"Other services",2013-07-01,12,NA
+"Other services",2013-08-01,20,NA
+"Other services",2013-09-01,13,NA
+"Other services",2013-10-01,27,NA
+"Other services",2013-11-01,17,NA
+"Other services",2013-12-01,14,NA
+"Other services",2014-01-01,14,NA
+"Other services",2014-02-01,15,NA
+"Other services",2014-03-01,15,NA
+"Other services",2014-04-01,23,NA
+"Other services",2014-05-01,15,NA
+"Other services",2014-06-01,11,NA
+"Other services",2014-07-01,9,NA
+"Other services",2014-08-01,11,NA
+"Other services",2014-09-01,18,NA
+"Other services",2014-10-01,16,NA
+"Other services",2014-11-01,8,NA
+"Other services",2014-12-01,10,NA
+"Other services",2015-01-01,18,NA
+"Other services",2015-02-01,14,NA
+"Other services",2015-03-01,18,NA
+"Other services",2015-04-01,12,NA
+"Other services",2015-05-01,14,NA
+"Other services",2015-06-01,12,NA
+"Other services",2015-07-01,10,NA
+"Other services",2015-08-01,12,NA
+"Other services",2015-09-01,17,NA
+"Other services",2015-10-01,14,NA
+"Other services",2015-11-01,11,NA
+"Other services",2015-12-01,13,NA
+"Other services",2016-01-01,3,NA
+"Other services",2016-02-01,16,NA
+"Other services",2016-03-01,22,NA
+"Other services",2016-04-01,15,NA
+"Other services",2016-05-01,9,NA
+"Other services",2016-06-01,8,NA
+"Other services",2016-07-01,11,NA
+"Other services",2016-08-01,14,NA
+"Other services",2016-09-01,11,NA
+"Other services",2016-10-01,11,NA
+"Other services",2016-11-01,10,NA
+"Other services",2016-12-01,6,NA
+"Other services",2017-01-01,8,NA
+"Other services",2017-02-01,10,NA
+"Other services",2017-03-01,12,NA
+"Other services",2017-04-01,15,NA
+"Other services",2017-05-01,16,NA
+"Other services",2017-06-01,12,NA
+"Other services",2017-07-01,14,NA
+"Other services",2017-08-01,14,NA
+"Other services",2017-09-01,11,NA
+"Other services",2017-10-01,17,NA
+"Other services",2017-11-01,15,NA
+"Other services",2017-12-01,13,NA
+"Other services",2018-01-01,7,NA
+"Other services",2018-02-01,10,NA
+"Other services",2018-03-01,14,NA
+"Other services",2018-04-01,8,NA
+"Other services",2018-05-01,15,NA
+"Other services",2018-06-01,9,NA
+"Other services",2018-07-01,8,NA
+"Other services",2018-08-01,14,NA
+"Other services",2018-09-01,12,NA
+"Other services",2018-10-01,16,NA
+"Other services",2018-11-01,13,NA
+"Other services",2018-12-01,21,NA
+"Other services",2019-01-01,8,NA
+"Other services",2019-02-01,11,NA
+"Other services",2019-03-01,12,NA
+"Other services",2019-04-01,16,NA
+"Other services",2019-05-01,14,NA
+"Other services",2019-06-01,10,NA
+"Other services",2019-07-01,15,NA
+"Other services",2019-08-01,16,NA
+"Other services",2019-09-01,5,NA
+"Other services",2019-10-01,19,NA
+"Other services",2019-11-01,13,NA
+"Other services",2019-12-01,11,NA
+"Other services",2020-01-01,20,NA
+"Other services",2020-02-01,7,NA
+"Other services",2020-03-01,7,NA
+"Other services",2020-04-01,8,NA
+"Other services",2020-05-01,9,NA
+"Other services",2020-06-01,7,NA
+"Other services",2020-07-01,14,NA
+"Other services",2020-08-01,5,NA
+"Other services",2020-09-01,9,NA
+"Other services",2020-10-01,12,NA
+"Other services",2020-11-01,3,NA
+"Other services",2020-12-01,10,NA
+"Other services",2021-01-01,8,NA
+"Other services",2021-02-01,9,NA
+"Other services",2021-03-01,6,NA
+"Other services",2021-04-01,6,NA
+"Other services",2021-05-01,10,NA
+"Other services",2021-06-01,10,NA
+"Other services",2021-07-01,4,NA
+"Other services",2021-08-01,10,NA
+"Other services",2021-09-01,5,NA
+"Other services",2021-10-01,15,NA
+"Other services",2021-11-01,7,NA
+"Other services",2021-12-01,9,NA
+"Other services",2022-01-01,11,NA
+"Other services",2022-02-01,13,NA
+"Other services",2022-03-01,17,NA
+"Other services",2022-04-01,19,NA
+"Other services",2022-05-01,18,NA
+"Other services",2022-06-01,7,NA
+"Other services",2022-07-01,15,NA
+"Other services",2022-08-01,11,NA
+"Other services",2022-09-01,22,NA
+"Other services",2022-10-01,15,NA
+"Other services",2022-11-01,14,NA
+"Other services",2022-12-01,17,NA
+"Other services",2023-01-01,13,NA
+"Other services",2023-02-01,21,NA
+"Other services",2023-03-01,32,NA
+"Other services",2023-04-01,16,NA
+"Other services",2023-05-01,19,NA
+"Other services",2023-06-01,21,NA
+"Other services",2023-07-01,17,NA
+"Other services",2023-08-01,27,NA
+"Other services",2023-09-01,22,NA
+"Other services",2023-10-01,30,NA
+"Other services",2023-11-01,31,NA
+"Other services",2023-12-01,34,NA
+"Other services",2024-01-01,37,NA
+"Other services",2024-02-01,38,NA
+"Other services",2024-03-01,24,NA
+"Other services",2024-04-01,30,NA
+"Other services",2024-05-01,31,NA
+"Other services",2024-06-01,17,NA
+"Other services",2024-07-01,18,NA
+"Other services",2024-08-01,17,NA
+"Other services",2024-09-01,32,NA
+"Other services",2024-10-01,26,NA
+"Other services",2024-11-01,29,NA
+"Other services",2024-12-01,21,NA
+"Other services",2025-01-01,14,NA
+"Other services",2025-02-01,21,NA
+"Other services",2025-03-01,11,NA
+"Other services",2025-04-01,22,NA
+"Other services",2025-05-01,15,NA
+"Public administration",2011-01-01,0,NA
+"Public administration",2011-02-01,0,NA
+"Public administration",2011-03-01,0,NA
+"Public administration",2011-04-01,0,NA
+"Public administration",2011-05-01,0,NA
+"Public administration",2011-06-01,0,NA
+"Public administration",2011-07-01,1,NA
+"Public administration",2011-08-01,1,NA
+"Public administration",2011-09-01,0,NA
+"Public administration",2011-10-01,0,NA
+"Public administration",2011-11-01,1,NA
+"Public administration",2011-12-01,0,NA
+"Public administration",2012-01-01,0,NA
+"Public administration",2012-02-01,0,NA
+"Public administration",2012-03-01,2,NA
+"Public administration",2012-04-01,0,NA
+"Public administration",2012-05-01,0,NA
+"Public administration",2012-06-01,0,NA
+"Public administration",2012-07-01,0,NA
+"Public administration",2012-08-01,0,NA
+"Public administration",2012-09-01,0,NA
+"Public administration",2012-10-01,0,NA
+"Public administration",2012-11-01,0,NA
+"Public administration",2012-12-01,0,NA
+"Public administration",2013-01-01,0,NA
+"Public administration",2013-02-01,0,NA
+"Public administration",2013-03-01,0,NA
+"Public administration",2013-04-01,0,NA
+"Public administration",2013-05-01,0,NA
+"Public administration",2013-06-01,0,NA
+"Public administration",2013-07-01,0,NA
+"Public administration",2013-08-01,0,NA
+"Public administration",2013-09-01,0,NA
+"Public administration",2013-10-01,0,NA
+"Public administration",2013-11-01,0,NA
+"Public administration",2013-12-01,0,NA
+"Public administration",2014-01-01,0,NA
+"Public administration",2014-02-01,0,NA
+"Public administration",2014-03-01,0,NA
+"Public administration",2014-04-01,1,NA
+"Public administration",2014-05-01,0,NA
+"Public administration",2014-06-01,0,NA
+"Public administration",2014-07-01,0,NA
+"Public administration",2014-08-01,0,NA
+"Public administration",2014-09-01,0,NA
+"Public administration",2014-10-01,0,NA
+"Public administration",2014-11-01,0,NA
+"Public administration",2014-12-01,0,NA
+"Public administration",2015-01-01,0,NA
+"Public administration",2015-02-01,0,NA
+"Public administration",2015-03-01,0,NA
+"Public administration",2015-04-01,0,NA
+"Public administration",2015-05-01,1,NA
+"Public administration",2015-06-01,0,NA
+"Public administration",2015-07-01,0,NA
+"Public administration",2015-08-01,1,NA
+"Public administration",2015-09-01,1,NA
+"Public administration",2015-10-01,1,NA
+"Public administration",2015-11-01,0,NA
+"Public administration",2015-12-01,0,NA
+"Public administration",2016-01-01,1,NA
+"Public administration",2016-02-01,1,NA
+"Public administration",2016-03-01,0,NA
+"Public administration",2016-04-01,0,NA
+"Public administration",2016-05-01,0,NA
+"Public administration",2016-06-01,0,NA
+"Public administration",2016-07-01,0,NA
+"Public administration",2016-08-01,1,NA
+"Public administration",2016-09-01,0,NA
+"Public administration",2016-10-01,0,NA
+"Public administration",2016-11-01,0,NA
+"Public administration",2016-12-01,0,NA
+"Public administration",2017-01-01,0,NA
+"Public administration",2017-02-01,0,NA
+"Public administration",2017-03-01,1,NA
+"Public administration",2017-04-01,0,NA
+"Public administration",2017-05-01,2,NA
+"Public administration",2017-06-01,0,NA
+"Public administration",2017-07-01,0,NA
+"Public administration",2017-08-01,0,NA
+"Public administration",2017-09-01,1,NA
+"Public administration",2017-10-01,0,NA
+"Public administration",2017-11-01,0,NA
+"Public administration",2017-12-01,0,NA
+"Public administration",2018-01-01,1,NA
+"Public administration",2018-02-01,0,NA
+"Public administration",2018-03-01,0,NA
+"Public administration",2018-04-01,0,NA
+"Public administration",2018-05-01,1,NA
+"Public administration",2018-06-01,0,NA
+"Public administration",2018-07-01,0,NA
+"Public administration",2018-08-01,0,NA
+"Public administration",2018-09-01,0,NA
+"Public administration",2018-10-01,0,NA
+"Public administration",2018-11-01,0,NA
+"Public administration",2018-12-01,1,NA
+"Public administration",2019-01-01,0,NA
+"Public administration",2019-02-01,0,NA
+"Public administration",2019-03-01,0,NA
+"Public administration",2019-04-01,0,NA
+"Public administration",2019-05-01,0,NA
+"Public administration",2019-06-01,0,NA
+"Public administration",2019-07-01,0,NA
+"Public administration",2019-08-01,0,NA
+"Public administration",2019-09-01,0,NA
+"Public administration",2019-10-01,0,NA
+"Public administration",2019-11-01,0,NA
+"Public administration",2019-12-01,0,NA
+"Public administration",2020-01-01,0,NA
+"Public administration",2020-02-01,0,NA
+"Public administration",2020-03-01,0,NA
+"Public administration",2020-04-01,0,NA
+"Public administration",2020-05-01,0,NA
+"Public administration",2020-06-01,0,NA
+"Public administration",2020-07-01,1,NA
+"Public administration",2020-08-01,0,NA
+"Public administration",2020-09-01,1,NA
+"Public administration",2020-10-01,0,NA
+"Public administration",2020-11-01,0,NA
+"Public administration",2020-12-01,0,NA
+"Public administration",2021-01-01,0,NA
+"Public administration",2021-02-01,0,NA
+"Public administration",2021-03-01,2,NA
+"Public administration",2021-04-01,2,NA
+"Public administration",2021-05-01,1,NA
+"Public administration",2021-06-01,0,NA
+"Public administration",2021-07-01,0,NA
+"Public administration",2021-08-01,0,NA
+"Public administration",2021-09-01,0,NA
+"Public administration",2021-10-01,0,NA
+"Public administration",2021-11-01,1,NA
+"Public administration",2021-12-01,0,NA
+"Public administration",2022-01-01,0,NA
+"Public administration",2022-02-01,0,NA
+"Public administration",2022-03-01,0,NA
+"Public administration",2022-04-01,1,NA
+"Public administration",2022-05-01,0,NA
+"Public administration",2022-06-01,0,NA
+"Public administration",2022-07-01,2,NA
+"Public administration",2022-08-01,1,NA
+"Public administration",2022-09-01,0,NA
+"Public administration",2022-10-01,0,NA
+"Public administration",2022-11-01,4,NA
+"Public administration",2022-12-01,0,NA
+"Public administration",2023-01-01,1,NA
+"Public administration",2023-02-01,0,NA
+"Public administration",2023-03-01,1,NA
+"Public administration",2023-04-01,0,NA
+"Public administration",2023-05-01,0,NA
+"Public administration",2023-06-01,0,NA
+"Public administration",2023-07-01,0,NA
+"Public administration",2023-08-01,1,NA
+"Public administration",2023-09-01,0,NA
+"Public administration",2023-10-01,0,NA
+"Public administration",2023-11-01,0,NA
+"Public administration",2023-12-01,1,NA
+"Public administration",2024-01-01,1,NA
+"Public administration",2024-02-01,6,NA
+"Public administration",2024-03-01,2,NA
+"Public administration",2024-04-01,2,NA
+"Public administration",2024-05-01,2,NA
+"Public administration",2024-06-01,1,NA
+"Public administration",2024-07-01,1,NA
+"Public administration",2024-08-01,0,NA
+"Public administration",2024-09-01,3,NA
+"Public administration",2024-10-01,0,NA
+"Public administration",2024-11-01,0,NA
+"Public administration",2024-12-01,0,NA
+"Public administration",2025-01-01,0,NA
+"Public administration",2025-02-01,0,NA
+"Public administration",2025-03-01,0,NA
+"Public administration",2025-04-01,0,NA
+"Public administration",2025-05-01,1,NA
+NA,2000-01-01,928,"Canada"
+NA,2000-02-01,1073,"Canada"
+NA,2000-03-01,1171,"Canada"
+NA,2000-04-01,915,"Canada"
+NA,2000-05-01,1059,"Canada"
+NA,2000-06-01,982,"Canada"
+NA,2000-07-01,938,"Canada"
+NA,2000-08-01,911,"Canada"
+NA,2000-09-01,944,"Canada"
+NA,2000-10-01,1039,"Canada"
+NA,2000-11-01,1041,"Canada"
+NA,2000-12-01,820,"Canada"
+NA,2001-01-01,1051,"Canada"
+NA,2001-02-01,1040,"Canada"
+NA,2001-03-01,1208,"Canada"
+NA,2001-04-01,1089,"Canada"
+NA,2001-05-01,1107,"Canada"
+NA,2001-06-01,1031,"Canada"
+NA,2001-07-01,847,"Canada"
+NA,2001-08-01,905,"Canada"
+NA,2001-09-01,782,"Canada"
+NA,2001-10-01,1232,"Canada"
+NA,2001-11-01,1110,"Canada"
+NA,2001-12-01,846,"Canada"
+NA,2002-01-01,1084,"Canada"
+NA,2002-02-01,1011,"Canada"
+NA,2002-03-01,1076,"Canada"
+NA,2002-04-01,1073,"Canada"
+NA,2002-05-01,1058,"Canada"
+NA,2002-06-01,867,"Canada"
+NA,2002-07-01,863,"Canada"
+NA,2002-08-01,909,"Canada"
+NA,2002-09-01,840,"Canada"
+NA,2002-10-01,929,"Canada"
+NA,2002-11-01,875,"Canada"
+NA,2002-12-01,787,"Canada"
+NA,2003-01-01,908,"Canada"
+NA,2003-02-01,902,"Canada"
+NA,2003-03-01,1044,"Canada"
+NA,2003-04-01,973,"Canada"
+NA,2003-05-01,929,"Canada"
+NA,2003-06-01,898,"Canada"
+NA,2003-07-01,821,"Canada"
+NA,2003-08-01,704,"Canada"
+NA,2003-09-01,885,"Canada"
+NA,2003-10-01,926,"Canada"
+NA,2003-11-01,849,"Canada"
+NA,2003-12-01,839,"Canada"
+NA,2004-01-01,808,"Canada"
+NA,2004-02-01,922,"Canada"
+NA,2004-03-01,1050,"Canada"
+NA,2004-04-01,851,"Canada"
+NA,2004-05-01,749,"Canada"
+NA,2004-06-01,888,"Canada"
+NA,2004-07-01,754,"Canada"
+NA,2004-08-01,729,"Canada"
+NA,2004-09-01,730,"Canada"
+NA,2004-10-01,753,"Canada"
+NA,2004-11-01,848,"Canada"
+NA,2004-12-01,785,"Canada"
+NA,2005-01-01,742,"Canada"
+NA,2005-02-01,885,"Canada"
+NA,2005-03-01,942,"Canada"
+NA,2005-04-01,875,"Canada"
+NA,2005-05-01,832,"Canada"
+NA,2005-06-01,753,"Canada"
+NA,2005-07-01,641,"Canada"
+NA,2005-08-01,657,"Canada"
+NA,2005-09-01,708,"Canada"
+NA,2005-10-01,712,"Canada"
+NA,2005-11-01,732,"Canada"
+NA,2005-12-01,701,"Canada"
+NA,2006-01-01,744,"Canada"
+NA,2006-02-01,732,"Canada"
+NA,2006-03-01,835,"Canada"
+NA,2006-04-01,667,"Canada"
+NA,2006-05-01,767,"Canada"
+NA,2006-06-01,733,"Canada"
+NA,2006-07-01,548,"Canada"
+NA,2006-08-01,574,"Canada"
+NA,2006-09-01,616,"Canada"
+NA,2006-10-01,711,"Canada"
+NA,2006-11-01,645,"Canada"
+NA,2006-12-01,599,"Canada"
+NA,2007-01-01,664,"Canada"
+NA,2007-02-01,710,"Canada"
+NA,2007-03-01,725,"Canada"
+NA,2007-04-01,676,"Canada"
+NA,2007-05-01,654,"Canada"
+NA,2007-06-01,627,"Canada"
+NA,2007-07-01,587,"Canada"
+NA,2007-08-01,597,"Canada"
+NA,2007-09-01,554,"Canada"
+NA,2007-10-01,620,"Canada"
+NA,2007-11-01,643,"Canada"
+NA,2007-12-01,555,"Canada"
+NA,2008-01-01,629,"Canada"
+NA,2008-02-01,678,"Canada"
+NA,2008-03-01,715,"Canada"
+NA,2008-04-01,715,"Canada"
+NA,2008-05-01,657,"Canada"
+NA,2008-06-01,550,"Canada"
+NA,2008-07-01,569,"Canada"
+NA,2008-08-01,574,"Canada"
+NA,2008-09-01,570,"Canada"
+NA,2008-10-01,630,"Canada"
+NA,2008-11-01,605,"Canada"
+NA,2008-12-01,553,"Canada"
+NA,2009-01-01,567,"Canada"
+NA,2009-02-01,614,"Canada"
+NA,2009-03-01,615,"Canada"
+NA,2009-04-01,637,"Canada"
+NA,2009-05-01,574,"Canada"
+NA,2009-06-01,626,"Canada"
+NA,2009-07-01,526,"Canada"
+NA,2009-08-01,466,"Canada"
+NA,2009-09-01,579,"Canada"
+NA,2009-10-01,543,"Canada"
+NA,2009-11-01,516,"Canada"
+NA,2009-12-01,466,"Canada"
+NA,2010-01-01,462,"Canada"
+NA,2010-02-01,457,"Canada"
+NA,2010-03-01,526,"Canada"
+NA,2010-04-01,553,"Canada"
+NA,2010-05-01,403,"Canada"
+NA,2010-06-01,445,"Canada"
+NA,2010-07-01,370,"Canada"
+NA,2010-08-01,370,"Canada"
+NA,2010-09-01,410,"Canada"
+NA,2010-10-01,371,"Canada"
+NA,2010-11-01,424,"Canada"
+NA,2010-12-01,435,"Canada"
+NA,2011-01-01,360,"Canada"
+NA,2011-02-01,368,"Canada"
+NA,2011-03-01,538,"Canada"
+NA,2011-04-01,401,"Canada"
+NA,2011-05-01,427,"Canada"
+NA,2011-06-01,429,"Canada"
+NA,2011-07-01,293,"Canada"
+NA,2011-08-01,366,"Canada"
+NA,2011-09-01,405,"Canada"
+NA,2011-10-01,401,"Canada"
+NA,2011-11-01,412,"Canada"
+NA,2011-12-01,375,"Canada"
+NA,2012-01-01,370,"Canada"
+NA,2012-02-01,403,"Canada"
+NA,2012-03-01,419,"Canada"
+NA,2012-04-01,363,"Canada"
+NA,2012-05-01,403,"Canada"
+NA,2012-06-01,342,"Canada"
+NA,2012-07-01,316,"Canada"
+NA,2012-08-01,332,"Canada"
+NA,2012-09-01,361,"Canada"
+NA,2012-10-01,343,"Canada"
+NA,2012-11-01,380,"Canada"
+NA,2012-12-01,321,"Canada"
+NA,2013-01-01,319,"Canada"
+NA,2013-02-01,396,"Canada"
+NA,2013-03-01,370,"Canada"
+NA,2013-04-01,400,"Canada"
+NA,2013-05-01,390,"Canada"
+NA,2013-06-01,333,"Canada"
+NA,2013-07-01,319,"Canada"
+NA,2013-08-01,334,"Canada"
+NA,2013-09-01,333,"Canada"
+NA,2013-10-01,377,"Canada"
+NA,2013-11-01,342,"Canada"
+NA,2013-12-01,368,"Canada"
+NA,2014-01-01,323,"Canada"
+NA,2014-02-01,356,"Canada"
+NA,2014-03-01,381,"Canada"
+NA,2014-04-01,394,"Canada"
+NA,2014-05-01,371,"Canada"
+NA,2014-06-01,319,"Canada"
+NA,2014-07-01,319,"Canada"
+NA,2014-08-01,309,"Canada"
+NA,2014-09-01,315,"Canada"
+NA,2014-10-01,404,"Canada"
+NA,2014-11-01,355,"Canada"
+NA,2014-12-01,373,"Canada"
+NA,2015-01-01,320,"Canada"
+NA,2015-02-01,363,"Canada"
+NA,2015-03-01,405,"Canada"
+NA,2015-04-01,385,"Canada"
+NA,2015-05-01,310,"Canada"
+NA,2015-06-01,357,"Canada"
+NA,2015-07-01,313,"Canada"
+NA,2015-08-01,260,"Canada"
+NA,2015-09-01,363,"Canada"
+NA,2015-10-01,329,"Canada"
+NA,2015-11-01,358,"Canada"
+NA,2015-12-01,344,"Canada"
+NA,2016-01-01,279,"Canada"
+NA,2016-02-01,375,"Canada"
+NA,2016-03-01,376,"Canada"
+NA,2016-04-01,355,"Canada"
+NA,2016-05-01,338,"Canada"
+NA,2016-06-01,334,"Canada"
+NA,2016-07-01,259,"Canada"
+NA,2016-08-01,295,"Canada"
+NA,2016-09-01,294,"Canada"
+NA,2016-10-01,307,"Canada"
+NA,2016-11-01,334,"Canada"
+NA,2016-12-01,303,"Canada"
+NA,2017-01-01,230,"Canada"
+NA,2017-02-01,330,"Canada"
+NA,2017-03-01,369,"Canada"
+NA,2017-04-01,305,"Canada"
+NA,2017-05-01,354,"Canada"
+NA,2017-06-01,294,"Canada"
+NA,2017-07-01,253,"Canada"
+NA,2017-08-01,291,"Canada"
+NA,2017-09-01,246,"Canada"
+NA,2017-10-01,326,"Canada"
+NA,2017-11-01,313,"Canada"
+NA,2017-12-01,298,"Canada"
+NA,2018-01-01,265,"Canada"
+NA,2018-02-01,335,"Canada"
+NA,2018-03-01,330,"Canada"
+NA,2018-04-01,299,"Canada"
+NA,2018-05-01,315,"Canada"
+NA,2018-06-01,264,"Canada"
+NA,2018-07-01,258,"Canada"
+NA,2018-08-01,279,"Canada"
+NA,2018-09-01,289,"Canada"
+NA,2018-10-01,319,"Canada"
+NA,2018-11-01,341,"Canada"
+NA,2018-12-01,286,"Canada"
+NA,2019-01-01,292,"Canada"
+NA,2019-02-01,318,"Canada"
+NA,2019-03-01,362,"Canada"
+NA,2019-04-01,363,"Canada"
+NA,2019-05-01,316,"Canada"
+NA,2019-06-01,295,"Canada"
+NA,2019-07-01,336,"Canada"
+NA,2019-08-01,239,"Canada"
+NA,2019-09-01,252,"Canada"
+NA,2019-10-01,312,"Canada"
+NA,2019-11-01,302,"Canada"
+NA,2019-12-01,293,"Canada"
+NA,2020-01-01,308,"Canada"
+NA,2020-02-01,324,"Canada"
+NA,2020-03-01,251,"Canada"
+NA,2020-04-01,164,"Canada"
+NA,2020-05-01,193,"Canada"
+NA,2020-06-01,250,"Canada"
+NA,2020-07-01,218,"Canada"
+NA,2020-08-01,178,"Canada"
+NA,2020-09-01,232,"Canada"
+NA,2020-10-01,240,"Canada"
+NA,2020-11-01,211,"Canada"
+NA,2020-12-01,217,"Canada"
+NA,2021-01-01,163,"Canada"
+NA,2021-02-01,201,"Canada"
+NA,2021-03-01,239,"Canada"
+NA,2021-04-01,200,"Canada"
+NA,2021-05-01,185,"Canada"
+NA,2021-06-01,223,"Canada"
+NA,2021-07-01,160,"Canada"
+NA,2021-08-01,168,"Canada"
+NA,2021-09-01,208,"Canada"
+NA,2021-10-01,230,"Canada"
+NA,2021-11-01,228,"Canada"
+NA,2021-12-01,275,"Canada"
+NA,2022-01-01,213,"Canada"
+NA,2022-02-01,276,"Canada"
+NA,2022-03-01,318,"Canada"
+NA,2022-04-01,258,"Canada"
+NA,2022-05-01,235,"Canada"
+NA,2022-06-01,303,"Canada"
+NA,2022-07-01,232,"Canada"
+NA,2022-08-01,279,"Canada"
+NA,2022-09-01,285,"Canada"
+NA,2022-10-01,303,"Canada"
+NA,2022-11-01,361,"Canada"
+NA,2022-12-01,339,"Canada"
+NA,2023-01-01,331,"Canada"
+NA,2023-02-01,304,"Canada"
+NA,2023-03-01,435,"Canada"
+NA,2023-04-01,344,"Canada"
+NA,2023-05-01,374,"Canada"
+NA,2023-06-01,372,"Canada"
+NA,2023-07-01,346,"Canada"
+NA,2023-08-01,383,"Canada"
+NA,2023-09-01,400,"Canada"
+NA,2023-10-01,494,"Canada"
+NA,2023-11-01,494,"Canada"
+NA,2023-12-01,533,"Canada"
+NA,2024-01-01,759,"Canada"
+NA,2024-02-01,675,"Canada"
+NA,2024-03-01,569,"Canada"
+NA,2024-04-01,551,"Canada"
+NA,2024-05-01,530,"Canada"
+NA,2024-06-01,460,"Canada"
+NA,2024-07-01,454,"Canada"
+NA,2024-08-01,412,"Canada"
+NA,2024-09-01,446,"Canada"
+NA,2024-10-01,469,"Canada"
+NA,2024-11-01,469,"Canada"
+NA,2024-12-01,394,"Canada"
+NA,2025-01-01,424,"Canada"
+NA,2025-02-01,456,"Canada"
+NA,2025-03-01,452,"Canada"
+NA,2025-04-01,468,"Canada"
+NA,2025-05-01,391,"Canada"
