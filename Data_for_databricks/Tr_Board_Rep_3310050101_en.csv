@@ -1,0 +1,21 @@
+REF_DATE,GEO,Gender,Type_of_corporation,Country_of_control,Industry,Size_of_enterprise,Executive,Unit_of_measure,VALUE
+2016,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,5423
+2016,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,17.8
+2016,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,25063
+2016,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,82.2
+2017,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,5174
+2017,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,17.9
+2017,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,23798
+2017,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,82.1
+2018,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,4848
+2018,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,18.4
+2018,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,21568
+2018,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,81.6
+2019,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,3616
+2019,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,20.2
+2019,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,14274
+2019,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,79.8
+2020,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,3689
+2020,Canada,Women,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,20.5
+2020,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Number,14307
+2020,Canada,Men,Total all corporations,Total all countries,Total all industries,Total all sizes,Directors,Percentage,79.5

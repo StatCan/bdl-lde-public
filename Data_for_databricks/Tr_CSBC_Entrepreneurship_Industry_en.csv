@@ -1,0 +1,256 @@
+Gender,Year,Quarter,Industry,Organization_Size,Value
+Women,2024,AVG,All Industries,1 to 4 employees,119545
+Women,2024,AVG,All Industries,100 or more employees,1292.5
+Women,2024,AVG,All Industries,20 to 99 employees,16187.5
+Women,2024,AVG,All Industries,5 to 19 employees,58687.5
+Women,2024,AVG,All Industries,All,195712.5
+Women,2024,AVG,Accommodation and food services,1 to 4 employees,2975
+Women,2024,AVG,Accommodation and food services,100 or more employees,200
+Women,2024,AVG,Accommodation and food services,20 to 99 employees,3472.5
+Women,2024,AVG,Accommodation and food services,5 to 19 employees,6820
+Women,2024,AVG,Accommodation and food services,All,13467.5
+Women,2024,AVG,"Administrative and support, waste management and remediation",1 to 4 employees,5217.5
+Women,2024,AVG,"Administrative and support, waste management and remediation",100 or more employees,157.5
+Women,2024,AVG,"Administrative and support, waste management and remediation",20 to 99 employees,1020
+Women,2024,AVG,"Administrative and support, waste management and remediation",5 to 19 employees,2857.5
+Women,2024,AVG,"Administrative and support, waste management and remediation",All,9252.5
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",1 to 4 employees,2420
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",100 or more employees,10
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",20 to 99 employees,255
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",5 to 19 employees,785
+Women,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",All,3470
+Women,2024,AVG,"Arts, entertainment and recreation",1 to 4 employees,2077.5
+Women,2024,AVG,"Arts, entertainment and recreation",100 or more employees,17.5
+Women,2024,AVG,"Arts, entertainment and recreation",20 to 99 employees,195
+Women,2024,AVG,"Arts, entertainment and recreation",5 to 19 employees,910
+Women,2024,AVG,"Arts, entertainment and recreation",All,3200
+Women,2024,AVG,Construction,1 to 4 employees,2600
+Women,2024,AVG,Construction,100 or more employees,125
+Women,2024,AVG,Construction,20 to 99 employees,650
+Women,2024,AVG,Construction,5 to 19 employees,1532.5
+Women,2024,AVG,Construction,All,4907.5
+Women,2024,AVG,Finance and Insurance,1 to 4 employees,3942.5
+Women,2024,AVG,Finance and Insurance,100 or more employees,95
+Women,2024,AVG,Finance and Insurance,20 to 99 employees,507.5
+Women,2024,AVG,Finance and Insurance,5 to 19 employees,1102.5
+Women,2024,AVG,Finance and Insurance,All,5647.5
+Women,2024,AVG,Health care and social assistance,1 to 4 employees,24785
+Women,2024,AVG,Health care and social assistance,100 or more employees,292.5
+Women,2024,AVG,Health care and social assistance,20 to 99 employees,2627.5
+Women,2024,AVG,Health care and social assistance,5 to 19 employees,12140
+Women,2024,AVG,Health care and social assistance,All,39845
+Women,2024,AVG,Information and Cultural Industries,1 to 4 employees,2005
+Women,2024,AVG,Information and Cultural Industries,100 or more employees,0
+Women,2024,AVG,Information and Cultural Industries,20 to 99 employees,167.5
+Women,2024,AVG,Information and Cultural Industries,5 to 19 employees,637.5
+Women,2024,AVG,Information and Cultural Industries,All,2810
+Women,2024,AVG,Manufacturing,1 to 4 employees,2772.5
+Women,2024,AVG,Manufacturing,100 or more employees,25
+Women,2024,AVG,Manufacturing,20 to 99 employees,557.5
+Women,2024,AVG,Manufacturing,5 to 19 employees,2672.5
+Women,2024,AVG,Manufacturing,All,6027.5
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",1 to 4 employees,102.5
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",100 or more employees,17.5
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",20 to 99 employees,45
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",5 to 19 employees,80
+Women,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",All,245
+Women,2024,AVG,Other services (except public administration),1 to 4 employees,10050
+Women,2024,AVG,Other services (except public administration),100 or more employees,12.5
+Women,2024,AVG,Other services (except public administration),20 to 99 employees,875
+Women,2024,AVG,Other services (except public administration),5 to 19 employees,4957.5
+Women,2024,AVG,Other services (except public administration),All,15895
+Women,2024,AVG,"Professional, Scientific and Technical Services",1 to 4 employees,31167.5
+Women,2024,AVG,"Professional, Scientific and Technical Services",100 or more employees,40
+Women,2024,AVG,"Professional, Scientific and Technical Services",20 to 99 employees,535
+Women,2024,AVG,"Professional, Scientific and Technical Services",5 to 19 employees,8365
+Women,2024,AVG,"Professional, Scientific and Technical Services",All,40107.5
+Women,2024,AVG,Real Estate and Rental and Leasing,1 to 4 employees,10787.5
+Women,2024,AVG,Real Estate and Rental and Leasing,100 or more employees,35
+Women,2024,AVG,Real Estate and Rental and Leasing,20 to 99 employees,220
+Women,2024,AVG,Real Estate and Rental and Leasing,5 to 19 employees,1222.5
+Women,2024,AVG,Real Estate and Rental and Leasing,All,12265
+Women,2024,AVG,Retail Trade,1 to 4 employees,14022.5
+Women,2024,AVG,Retail Trade,100 or more employees,155
+Women,2024,AVG,Retail Trade,20 to 99 employees,3845
+Women,2024,AVG,Retail Trade,5 to 19 employees,11590
+Women,2024,AVG,Retail Trade,All,29612.5
+Women,2024,AVG,Transportation and Warehousing,1 to 4 employees,2200
+Women,2024,AVG,Transportation and Warehousing,100 or more employees,50
+Women,2024,AVG,Transportation and Warehousing,20 to 99 employees,300
+Women,2024,AVG,Transportation and Warehousing,5 to 19 employees,1327.5
+Women,2024,AVG,Transportation and Warehousing,All,3877.5
+Women,2024,AVG,Wholesale Trade,1 to 4 employees,2420
+Women,2024,AVG,Wholesale Trade,100 or more employees,60
+Women,2024,AVG,Wholesale Trade,20 to 99 employees,915
+Women,2024,AVG,Wholesale Trade,5 to 19 employees,1687.5
+Women,2024,AVG,Wholesale Trade,All,5082.5
+All,2024,AVG,All Industries,1 to 4 employees,611440
+All,2024,AVG,All Industries,100 or more employees,20755
+All,2024,AVG,All Industries,20 to 99 employees,128577.5
+All,2024,AVG,All Industries,5 to 19 employees,348537.5
+All,2024,AVG,All Industries,All,1109310
+All,2024,AVG,Accommodation and food services,1 to 4 employees,14047.5
+All,2024,AVG,Accommodation and food services,100 or more employees,1385
+All,2024,AVG,Accommodation and food services,20 to 99 employees,20152.5
+All,2024,AVG,Accommodation and food services,5 to 19 employees,33965
+All,2024,AVG,Accommodation and food services,All,69550
+All,2024,AVG,"Administrative and support, waste management and remediation",1 to 4 employees,26835
+All,2024,AVG,"Administrative and support, waste management and remediation",100 or more employees,1350
+All,2024,AVG,"Administrative and support, waste management and remediation",20 to 99 employees,5585
+All,2024,AVG,"Administrative and support, waste management and remediation",5 to 19 employees,17422.5
+All,2024,AVG,"Administrative and support, waste management and remediation",All,51192.5
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",1 to 4 employees,29542.5
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",100 or more employees,330
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",20 to 99 employees,2587.5
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",5 to 19 employees,11195
+All,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",All,43655
+All,2024,AVG,"Arts, entertainment and recreation",1 to 4 employees,7820
+All,2024,AVG,"Arts, entertainment and recreation",100 or more employees,575
+All,2024,AVG,"Arts, entertainment and recreation",20 to 99 employees,2870
+All,2024,AVG,"Arts, entertainment and recreation",5 to 19 employees,6595
+All,2024,AVG,"Arts, entertainment and recreation",All,17860
+All,2024,AVG,Construction,1 to 4 employees,88842.5
+All,2024,AVG,Construction,100 or more employees,1825
+All,2024,AVG,Construction,20 to 99 employees,10812.5
+All,2024,AVG,Construction,5 to 19 employees,40422.5
+All,2024,AVG,Construction,All,141902.5
+All,2024,AVG,Finance and Insurance,1 to 4 employees,17545
+All,2024,AVG,Finance and Insurance,100 or more employees,867.5
+All,2024,AVG,Finance and Insurance,20 to 99 employees,6382.5
+All,2024,AVG,Finance and Insurance,5 to 19 employees,11720
+All,2024,AVG,Finance and Insurance,All,36515
+All,2024,AVG,Health care and social assistance,1 to 4 employees,66107.5
+All,2024,AVG,Health care and social assistance,100 or more employees,1835
+All,2024,AVG,Health care and social assistance,20 to 99 employees,12770
+All,2024,AVG,Health care and social assistance,5 to 19 employees,35245
+All,2024,AVG,Health care and social assistance,All,115957.5
+All,2024,AVG,Information and Cultural Industries,1 to 4 employees,9202.5
+All,2024,AVG,Information and Cultural Industries,100 or more employees,637.5
+All,2024,AVG,Information and Cultural Industries,20 to 99 employees,1935
+All,2024,AVG,Information and Cultural Industries,5 to 19 employees,5700
+All,2024,AVG,Information and Cultural Industries,All,17475
+All,2024,AVG,Manufacturing,1 to 4 employees,18230
+All,2024,AVG,Manufacturing,100 or more employees,3445
+All,2024,AVG,Manufacturing,20 to 99 employees,11725
+All,2024,AVG,Manufacturing,5 to 19 employees,19807.5
+All,2024,AVG,Manufacturing,All,53207.5
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",1 to 4 employees,3755
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",100 or more employees,342.5
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",20 to 99 employees,925
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",5 to 19 employees,1625
+All,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",All,6647.5
+All,2024,AVG,Other services (except public administration),1 to 4 employees,55635
+All,2024,AVG,Other services (except public administration),100 or more employees,577.5
+All,2024,AVG,Other services (except public administration),20 to 99 employees,6442.5
+All,2024,AVG,Other services (except public administration),5 to 19 employees,36842.5
+All,2024,AVG,Other services (except public administration),All,99497.5
+All,2024,AVG,"Professional, Scientific and Technical Services",1 to 4 employees,112410
+All,2024,AVG,"Professional, Scientific and Technical Services",100 or more employees,1495
+All,2024,AVG,"Professional, Scientific and Technical Services",20 to 99 employees,9902.5
+All,2024,AVG,"Professional, Scientific and Technical Services",5 to 19 employees,29300
+All,2024,AVG,"Professional, Scientific and Technical Services",All,153107.5
+All,2024,AVG,Real Estate and Rental and Leasing,1 to 4 employees,40140
+All,2024,AVG,Real Estate and Rental and Leasing,100 or more employees,342.5
+All,2024,AVG,Real Estate and Rental and Leasing,20 to 99 employees,2342.5
+All,2024,AVG,Real Estate and Rental and Leasing,5 to 19 employees,9757.5
+All,2024,AVG,Real Estate and Rental and Leasing,All,52582.5
+All,2024,AVG,Retail Trade,1 to 4 employees,48590
+All,2024,AVG,Retail Trade,100 or more employees,3195
+All,2024,AVG,Retail Trade,20 to 99 employees,20212.5
+All,2024,AVG,Retail Trade,5 to 19 employees,54695
+All,2024,AVG,Retail Trade,All,126692.5
+All,2024,AVG,Transportation and Warehousing,1 to 4 employees,51307.5
+All,2024,AVG,Transportation and Warehousing,100 or more employees,1085
+All,2024,AVG,Transportation and Warehousing,20 to 99 employees,5585
+All,2024,AVG,Transportation and Warehousing,5 to 19 employees,12575
+All,2024,AVG,Transportation and Warehousing,All,70552.5
+All,2024,AVG,Wholesale Trade,1 to 4 employees,21430
+All,2024,AVG,Wholesale Trade,100 or more employees,1467.5
+All,2024,AVG,Wholesale Trade,20 to 99 employees,8347.5
+All,2024,AVG,Wholesale Trade,5 to 19 employees,21670
+All,2024,AVG,Wholesale Trade,All,52915
+Men,2024,AVG,All Industries,1 to 4 employees,608465
+Men,2024,AVG,All Industries,100 or more employees,20555
+Men,2024,AVG,All Industries,20 to 99 employees,125105
+Men,2024,AVG,All Industries,5 to 19 employees,341717.5
+Men,2024,AVG,All Industries,All,1095842.5
+Men,2024,AVG,Accommodation and food services,1 to 4 employees,11072.5
+Men,2024,AVG,Accommodation and food services,100 or more employees,1185
+Men,2024,AVG,Accommodation and food services,20 to 99 employees,16680
+Men,2024,AVG,Accommodation and food services,5 to 19 employees,27145
+Men,2024,AVG,Accommodation and food services,All,56082.5
+Men,2024,AVG,"Administrative and support, waste management and remediation",1 to 4 employees,21617.5
+Men,2024,AVG,"Administrative and support, waste management and remediation",100 or more employees,1192.5
+Men,2024,AVG,"Administrative and support, waste management and remediation",20 to 99 employees,4565
+Men,2024,AVG,"Administrative and support, waste management and remediation",5 to 19 employees,14565
+Men,2024,AVG,"Administrative and support, waste management and remediation",All,41940
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",1 to 4 employees,27122.5
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",100 or more employees,320
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",20 to 99 employees,2332.5
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",5 to 19 employees,10410
+Men,2024,AVG,"Agriculture, Forestry, Fishing and Hunting",All,40185
+Men,2024,AVG,"Arts, entertainment and recreation",1 to 4 employees,5742.5
+Men,2024,AVG,"Arts, entertainment and recreation",100 or more employees,557.5
+Men,2024,AVG,"Arts, entertainment and recreation",20 to 99 employees,2675
+Men,2024,AVG,"Arts, entertainment and recreation",5 to 19 employees,5685
+Men,2024,AVG,"Arts, entertainment and recreation",All,14660
+Men,2024,AVG,Construction,1 to 4 employees,86242.5
+Men,2024,AVG,Construction,100 or more employees,1700
+Men,2024,AVG,Construction,20 to 99 employees,10162.5
+Men,2024,AVG,Construction,5 to 19 employees,38890
+Men,2024,AVG,Construction,All,136995
+Men,2024,AVG,Finance and Insurance,1 to 4 employees,13602.5
+Men,2024,AVG,Finance and Insurance,100 or more employees,772.5
+Men,2024,AVG,Finance and Insurance,20 to 99 employees,5875
+Men,2024,AVG,Finance and Insurance,5 to 19 employees,10617.5
+Men,2024,AVG,Finance and Insurance,All,30867.5
+Men,2024,AVG,Health care and social assistance,1 to 4 employees,41322.5
+Men,2024,AVG,Health care and social assistance,100 or more employees,1542.5
+Men,2024,AVG,Health care and social assistance,20 to 99 employees,10142.5
+Men,2024,AVG,Health care and social assistance,5 to 19 employees,23105
+Men,2024,AVG,Health care and social assistance,All,76112.5
+Men,2024,AVG,Information and Cultural Industries,1 to 4 employees,7197.5
+Men,2024,AVG,Information and Cultural Industries,100 or more employees,637.5
+Men,2024,AVG,Information and Cultural Industries,20 to 99 employees,1767.5
+Men,2024,AVG,Information and Cultural Industries,5 to 19 employees,5062.5
+Men,2024,AVG,Information and Cultural Industries,All,14665
+Men,2024,AVG,Manufacturing,1 to 4 employees,15457.5
+Men,2024,AVG,Manufacturing,100 or more employees,3420
+Men,2024,AVG,Manufacturing,20 to 99 employees,11167.5
+Men,2024,AVG,Manufacturing,5 to 19 employees,17135
+Men,2024,AVG,Manufacturing,All,47180
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",1 to 4 employees,3652.5
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",100 or more employees,325
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",20 to 99 employees,880
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",5 to 19 employees,1545
+Men,2024,AVG,"Mining, Quarrying, and Oil and Gas Extraction",All,6402.5
+Men,2024,AVG,Other services (except public administration),1 to 4 employees,45585
+Men,2024,AVG,Other services (except public administration),100 or more employees,565
+Men,2024,AVG,Other services (except public administration),20 to 99 employees,5567.5
+Men,2024,AVG,Other services (except public administration),5 to 19 employees,31885
+Men,2024,AVG,Other services (except public administration),All,83602.5
+Men,2024,AVG,"Professional, Scientific and Technical Services",1 to 4 employees,81242.5
+Men,2024,AVG,"Professional, Scientific and Technical Services",100 or more employees,1455
+Men,2024,AVG,"Professional, Scientific and Technical Services",20 to 99 employees,9367.5
+Men,2024,AVG,"Professional, Scientific and Technical Services",5 to 19 employees,20935
+Men,2024,AVG,"Professional, Scientific and Technical Services",All,113000
+Men,2024,AVG,Real Estate and Rental and Leasing,1 to 4 employees,29352.5
+Men,2024,AVG,Real Estate and Rental and Leasing,100 or more employees,307.5
+Men,2024,AVG,Real Estate and Rental and Leasing,20 to 99 employees,2122.5
+Men,2024,AVG,Real Estate and Rental and Leasing,5 to 19 employees,8535
+Men,2024,AVG,Real Estate and Rental and Leasing,All,40317.5
+Men,2024,AVG,Retail Trade,1 to 4 employees,34567.5
+Men,2024,AVG,Retail Trade,100 or more employees,3040
+Men,2024,AVG,Retail Trade,20 to 99 employees,16367.5
+Men,2024,AVG,Retail Trade,5 to 19 employees,43105
+Men,2024,AVG,Retail Trade,All,97080
+Men,2024,AVG,Transportation and Warehousing,1 to 4 employees,49107.5
+Men,2024,AVG,Transportation and Warehousing,100 or more employees,1035
+Men,2024,AVG,Transportation and Warehousing,20 to 99 employees,5285
+Men,2024,AVG,Transportation and Warehousing,5 to 19 employees,11247.5
+Men,2024,AVG,Transportation and Warehousing,All,66675
+Men,2024,AVG,Wholesale Trade,1 to 4 employees,19010
+Men,2024,AVG,Wholesale Trade,100 or more employees,1407.5
+Men,2024,AVG,Wholesale Trade,20 to 99 employees,7432.5
+Men,2024,AVG,Wholesale Trade,5 to 19 employees,19982.5
+Men,2024,AVG,Wholesale Trade,All,47832.5
