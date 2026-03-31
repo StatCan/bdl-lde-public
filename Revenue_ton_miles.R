@@ -1,8 +1,3 @@
-#destfile <- "Data/Revenue_ton_miles.xlsx"
-#
-#url = "https://www.cn.ca/-/media/Files/Investors/Investor-Performance-Measures/CN-BU-WEBSUMMARYpv.xlsx"
-#https://www.cn.ca/-/media/files/investors/investor-performance-measures/cn-bu-websummary.xlsx
-#download.file(url, destfile, mode = "wb")
 
 library(readxl)
 library(dplyr)
@@ -13,13 +8,13 @@ library(stringr)
 destfile <- "Data/Revenue_ton_miles_V2.xlsx"
 
 
-url = "https://www.cn.ca/-/media/files/investors/investor-performance-measures/cn-bu-websummary.xlsx"
+url = "https://www.cn.ca/-/media/files/investors/investor-performance-measures/weekly-volume-summary.xlsx"
 
 download.file(url, destfile, mode = "wb")
 
 ##2019
 df_2019 <- read_excel(destfile,
-                      sheet = "2019",
+                      sheet = "BU 2019",
                       skip = 1,
                       n_max = 21)
 df_2019 <- tail(df_2019,-12)
@@ -37,7 +32,7 @@ df_2019 = df_2019 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 ##2020
 df_2020 <- read_excel(destfile,
-                      sheet = "2020",
+                      sheet = "BU 2020",
                       skip = 2,
                       n_max = 20)
 df_2020 <- df_2020[-c(2)]
@@ -55,7 +50,7 @@ df_2020 = df_2020 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 ##2021
 df_2021 <- read_excel(destfile,
-                      sheet = "2021",
+                      sheet = "BU 2021",
                       skip = 1,
                       n_max = 20)
 df_2021 <- tail(df_2021,-12)
@@ -72,7 +67,7 @@ df_2021 = df_2021 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 ##2022
 df_2022 <- read_excel(destfile,
-                      sheet = "2022",
+                      sheet = "BU 2022",
                       skip = 1,
                       n_max = 20)
 df_2022 <- tail(df_2022,-12)
@@ -91,7 +86,7 @@ df_2022 = df_2022 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 ##2023
 df_2023 <- read_excel(destfile,
-                      sheet = "2023",
+                      sheet = "BU 2023",
                       skip = 1,
                       n_max = 20)
 df_2023 <- tail(df_2023,-12)
@@ -112,7 +107,7 @@ df_2023 = df_2023 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 ##2024
 df_2024 <- read_excel(destfile,
-                      sheet = "2024",
+                      sheet = "BU 2024",
                       skip = 1,
                       n_max = 20)
 df_2024 <- tail(df_2024,-12)
@@ -131,7 +126,7 @@ df_2024 = df_2024 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 
 df_2025 <- read_excel(destfile,
-                      sheet = "2025",
+                      sheet = "BU 2025",
                       skip = 1,
                       n_max = 20)
 df_2025 <- tail(df_2025,-12)
@@ -149,9 +144,28 @@ df_2025 = df_2025 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 
 
+df_2026 <- read_excel(destfile,
+                      sheet = "BU 2026",
+                      skip = 1,
+                      n_max = 20)
+df_2026 <- tail(df_2026,-12)
+df_2026 <- t(df_2026)
+
+df_2026 <- janitor::row_to_names(df_2026, row_number = 1)
+
+df_2026 <- as.data.frame(df_2026)
+df_2026 <- tibble::rownames_to_column(df_2026, "Week")%>% dplyr::mutate("Year" = "2026")
 
 
-Collected = rbind(df_2019,df_2020,df_2021,df_2022,df_2023,df_2024,df_2025)
+
+df_2026 = df_2026 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
+
+
+
+
+
+
+Collected = rbind(df_2019,df_2020,df_2021,df_2022,df_2023,df_2024,df_2025, df_2026)
 
 Collected <- Collected %>%
   dplyr::mutate(Week = paste0("Week ", Week))
@@ -191,19 +205,6 @@ df_2020 <- tibble::rownames_to_column(df_2020, "Week")%>% dplyr::mutate("Year" =
 
 
 df_2020 = df_2020 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
-
-
-
-
-
-
-destfile <- "Data/Revenue_ton_miles_V2_CPKC.xlsx"
-
-
-url = "https://s21.q4cdn.com/736796105/files/doc_downloads/key-metrics/weekly/2025/04/21/CPKC-Weekly-RTMs-and-Carloads-2025.xlsx"
-
-download.file(url, destfile, mode = "wb")
-
 
 ##2021
 df_2021 <- read_excel(destfile,
@@ -262,6 +263,16 @@ df_2023 = df_2023 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 
 
+
+destfile <- "Data/Revenue_ton_miles_V2_CPKC.xlsx"
+
+
+url = "https://s21.q4cdn.com/736796105/files/doc_downloads/2026/03/23/v2/CPKC-Weekly-RTMs-and-Carloads-2026.xlsx"
+
+download.file(url, destfile, mode = "wb")
+
+
+
 ##2024
 df_2024 <- read_excel(destfile,
                       sheet = "CPKC 2024",
@@ -278,6 +289,7 @@ df_2024 <- tibble::rownames_to_column(df_2024, "Week")%>% dplyr::mutate("Year" =
 
 
 df_2024 = df_2024 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
+
 
 
 
@@ -302,10 +314,29 @@ df_2025 = df_2025 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", 
 
 
 
+##2026
+df_2026 <- read_excel(destfile,
+                      sheet = "CPKC 2026",
+                      skip = 5,
+                      n_max = 13)
+df_2026 <- tail(df_2026,-1)
+df_2026 <- t(df_2026)
+
+df_2026 <- janitor::row_to_names(df_2026, row_number = 1)
+
+df_2026 <- as.data.frame(df_2026)
+df_2026 <- tibble::rownames_to_column(df_2026, "Week")%>% dplyr::mutate("Year" = "2026")
 
 
 
-Collected_CPKC = rbind(df_2020,df_2021,df_2022,df_2023,df_2024,df_2025)
+df_2026 = df_2026 %>% tidyr::pivot_longer(!c(Year,Week), names_to = "Industry", values_to = "Revenue")
+
+
+
+
+
+
+Collected_CPKC = rbind(df_2020,df_2021,df_2022,df_2023,df_2024,df_2025,df_2026)
 
 Collected_CPKC <- Collected_CPKC %>%
   dplyr::mutate(Week = paste0("Week ", Week))
